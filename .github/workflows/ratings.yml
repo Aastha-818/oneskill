@@ -1,0 +1,33 @@
+name: Record rating
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  issues: write
+concurrency: ratings
+jobs:
+  record:
+    if: contains(github.event.issue.labels.*.name, 'rating')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Apply rating
+        env:
+          BODY: ${{ github.event.issue.body }}
+          VOTER: ${{ github.event.issue.user.login }}
+        run: |
+          printf '%s' "$BODY" > /tmp/body.md
+          python3 tools/apply_rating.py /tmp/body.md "$VOTER"
+          python3 tools/build.py
+      - name: Commit
+        run: |
+          git config user.name "oneskill-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add registry/ratings.json skill/oneskill/registry site/registry.js
+          git commit -m "Record rating from #${{ github.event.issue.number }}" || exit 0
+          git push
+      - name: Close issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue close ${{ github.event.issue.number }} --repo ${{ github.repository }} --comment "Thanks - your rating is counted."
