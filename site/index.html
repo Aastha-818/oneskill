@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OneSkill — one skill for Claude with every other skill inside it</title>
+<meta name="description" content="Upload one skill. It holds a rated catalog of specialist skills and hands Claude the best one or two for each task.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300..600&family=Hanken+Grotesk:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<!--
+  Brief: a reference desk, not a marketplace. You ask; the right card is pulled.
+  Territory: editorial / Swiss, on manila card stock.
+  Signature move: the hero is the working router. Type a task and the catalog
+  cards are pulled in front of you, with the score that pulled them.
+  Section sources: hero-as-tool (search-first developer tools), ledger rows
+  (library catalog cards, Swiss timetable), formula set as display type
+  (editorial pull-quotes), full table instead of cards (package registries).
+-->
+<style>
+:root {
+  --paper: #efe7d6; --card: #f7f1e3; --ink: #1d1a16; --soft: #6b6457;
+  --rule: #c9bea6; --stamp: #a8291d;
+  --serif: "Fraunces", "Iowan Old Style", Georgia, serif;
+  --sans: "Hanken Grotesk", "Helvetica Neue", Arial, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+  --ease: cubic-bezier(0.16, 1, 0.3, 1);
+  --gutter: clamp(16px, 4vw, 56px);
+}
+* { box-sizing: border-box; margin: 0; }
+em, i, cite, address, dfn, var { font-style: normal; }
+html { scroll-behavior: smooth; }
+body {
+  background: var(--paper); color: var(--ink); font: 400 17px/1.55 var(--sans);
+  -webkit-font-smoothing: antialiased; overflow-x: hidden;
+}
+body::before {
+  content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 50; opacity: .05;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+::selection { background: var(--ink); color: var(--paper); }
+a { color: inherit; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+a:hover { color: var(--stamp); }
+:focus-visible { outline: 2px solid var(--stamp); outline-offset: 3px; }
+.wrap { max-width: 1320px; margin: 0 auto; padding: 0 var(--gutter); }
+.label { font: 500 11px/1.4 var(--mono); letter-spacing: .14em; text-transform: uppercase; color: var(--soft); }
+.num { font-variant-numeric: tabular-nums; }
+
+/* masthead */
+.mast { display: flex; justify-content: space-between; align-items: baseline; gap: 24px; padding: 22px 0 18px; border-bottom: 1px solid var(--ink); }
+.mast b { font: 500 22px/1 var(--serif); letter-spacing: -.02em; }
+.mast nav { display: flex; gap: clamp(14px, 2.4vw, 34px); flex-wrap: wrap; justify-content: flex-end; }
+.mast nav a { text-decoration: none; }
+
+/* hero */
+.hero { display: grid; grid-template-columns: repeat(12, 1fr); column-gap: 24px; padding: clamp(40px, 7vw, 96px) 0 clamp(48px, 6vw, 80px); }
+.hero h1 { grid-column: 1 / 9; font: 300 clamp(3.1rem, 9.4vw, 9rem)/.92 var(--serif); letter-spacing: -.045em; text-wrap: balance; font-variation-settings: "opsz" 144; }
+.hero h1 span { color: var(--stamp); }
+.hero .lede { grid-column: 9 / 13; align-self: end; font-size: 18px; max-width: 34ch; padding-bottom: 10px; }
+.desk { grid-column: 1 / 13; margin-top: clamp(36px, 5vw, 72px); display: grid; grid-template-columns: repeat(12, 1fr); column-gap: 24px; row-gap: 28px; align-items: start; }
+.ask { grid-column: 1 / 7; }
+.ask label { display: block; margin-bottom: 10px; }
+.ask input {
+  width: 100%; border: 0; border-bottom: 2px solid var(--ink); background: transparent; color: var(--ink);
+  font: 400 clamp(1.35rem, 2.6vw, 2.1rem)/1.3 var(--serif); letter-spacing: -.015em; padding: 6px 0 12px; border-radius: 0;
+}
+.ask input:focus { outline: 0; border-bottom-color: var(--stamp); }
+.ask input::placeholder { color: var(--rule); }
+.tries { margin-top: 18px; display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 15px; color: var(--soft); }
+.tries button { all: unset; cursor: pointer; text-decoration: underline; text-decoration-color: var(--rule); text-underline-offset: 3px; color: var(--ink); }
+.tries button:hover { color: var(--stamp); }
+.verdict { margin-top: 26px; min-height: 1.5em; }
+.pulled { grid-column: 7 / 13; position: relative; min-height: 300px; margin-right: calc(var(--gutter) * -0.5); }
+.cardx {
+  background: var(--card); border: 1px solid var(--ink); padding: 20px 22px 18px; position: relative;
+  box-shadow: 5px 5px 0 var(--rule); transition: transform .6s var(--ease), opacity .4s var(--ease);
+}
+.cardx + .cardx { margin: -14px 0 0 clamp(18px, 5vw, 72px); transform: rotate(.6deg); }
+.cardx.in { transform: translateY(14px); opacity: 0; }
+.cardx::before { content: ""; position: absolute; left: 50%; bottom: 12px; width: 9px; height: 9px; border: 1px solid var(--rule); border-radius: 50%; }
+.cardx header { display: flex; justify-content: space-between; gap: 12px; border-bottom: 1px solid var(--rule); padding-bottom: 9px; margin-bottom: 12px; }
+.cardx .role.primary { color: var(--stamp); }
+.cardx h3 { font: 400 clamp(1.5rem, 2.6vw, 2.2rem)/1.05 var(--serif); letter-spacing: -.025em; margin-bottom: 8px; }
+.cardx p { font-size: 15px; line-height: 1.5; color: #3a352d; max-width: 52ch; }
+.cardx dl { display: flex; flex-wrap: wrap; gap: 6px 26px; margin: 14px 0 16px; }
+.cardx dt { display: inline; } .cardx dd { display: inline; font: 500 12px var(--mono); margin-left: 6px; }
+.empty { border: 1px dashed var(--rule); padding: 26px 22px; color: var(--soft); max-width: 44ch; }
+
+/* sections */
+section { border-top: 1px solid var(--ink); padding: clamp(44px, 6vw, 88px) 0; }
+.sec { display: grid; grid-template-columns: repeat(12, 1fr); column-gap: 24px; row-gap: 28px; }
+.sec > .label { grid-column: 1 / 3; padding-top: 10px; }
+.sec h2 { grid-column: 3 / 11; font: 300 clamp(2rem, 4.6vw, 4rem)/1 var(--serif); letter-spacing: -.035em; text-wrap: balance; }
+.sec .body { grid-column: 3 / 13; }
+
+.ledger { list-style: none; padding: 0; border-top: 1px solid var(--rule); }
+.ledger li { display: grid; grid-template-columns: 64px minmax(120px, 1fr) 2.4fr; gap: 20px; padding: 20px 0; border-bottom: 1px solid var(--rule); align-items: baseline; }
+.ledger h3 { font: 400 1.5rem/1.1 var(--serif); letter-spacing: -.02em; }
+.ledger p { max-width: 58ch; }
+code, pre { font: 400 13px/1.6 var(--mono); }
+pre { background: var(--ink); color: var(--paper); padding: 16px 18px; overflow-x: auto; margin-top: 12px; max-width: 100%; }
+p code { background: var(--card); border: 1px solid var(--rule); padding: 1px 5px; }
+
+.formula { font: 300 clamp(1.5rem, 4.4vw, 3.9rem)/1.12 var(--serif); letter-spacing: -.03em; margin-bottom: 30px; }
+.formula small { font: 500 .3em var(--mono); letter-spacing: .1em; text-transform: uppercase; color: var(--soft); vertical-align: middle; }
+.notes { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px 40px; max-width: 980px; }
+.notes p { border-top: 1px solid var(--rule); padding-top: 12px; font-size: 16px; }
+
+.filters { display: flex; flex-wrap: wrap; gap: 4px 20px; margin-bottom: 14px; }
+.filters button { all: unset; cursor: pointer; padding: 4px 0; border-bottom: 2px solid transparent; }
+.filters button[aria-pressed="true"] { color: var(--ink); border-bottom-color: var(--stamp); }
+.tablewrap { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; min-width: 640px; }
+th { text-align: left; padding: 10px 14px 10px 0; border-bottom: 1px solid var(--ink); font-weight: 500; }
+td { padding: 13px 14px 13px 0; border-bottom: 1px solid var(--rule); vertical-align: baseline; font-size: 15px; }
+td.name { font: 400 1.2rem/1.2 var(--serif); letter-spacing: -.015em; white-space: nowrap; }
+td.desc { color: #3a352d; max-width: 54ch; }
+td.rate { font: 500 12px var(--mono); white-space: nowrap; }
+tr:hover td.name { color: var(--stamp); }
+
+.install { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 32px 48px; }
+.install h3 { font: 400 1.5rem/1.1 var(--serif); letter-spacing: -.02em; margin: 8px 0 10px; }
+.install ol { padding-left: 20px; } .install li { margin-bottom: 6px; }
+.btn { display: inline-block; margin-top: 16px; background: var(--ink); color: var(--paper); padding: 13px 20px; text-decoration: none; font: 500 13px var(--mono); letter-spacing: .06em; transition: background .3s var(--ease); }
+.btn:hover { background: var(--stamp); color: var(--paper); }
+
+footer { border-top: 1px solid var(--ink); padding: 26px 0 40px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px 30px; }
+[hidden] { display: none !important; }
+
+@media (max-width: 860px) {
+  .hero h1, .hero .lede, .ask, .pulled, .sec > .label, .sec h2, .sec .body { grid-column: 1 / -1; }
+  .hero .lede { margin-top: 22px; }
+  .pulled { margin-right: 0; min-height: 0; }
+  .ledger li { grid-template-columns: 40px 1fr; } .ledger li p, .ledger li div { grid-column: 2; }
+  .mast nav a:not(.keep) { display: none; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="mast">
+    <b>OneSkill</b>
+    <nav class="label">
+      <a href="#how">How it works</a><a href="#ranking">Ranking</a><a href="#catalog">Catalog</a>
+      <a href="#install" class="keep">Install</a><a data-repo href="#" hidden>GitHub</a>
+    </nav>
+  </div>
+
+  <div class="hero">
+    <h1>One skill. Every other skill <span>inside it.</span></h1>
+    <p class="lede">Stop hunting through skill sites. Upload OneSkill once; it keeps a rated catalog and hands Claude the best one or two skills for whatever you ask.</p>
+
+    <div class="desk">
+      <div class="ask">
+        <label class="label" for="task">Try the router — what do you need done?</label>
+        <input id="task" type="text" autocomplete="off" spellcheck="false" placeholder="design a landing page for my app">
+        <div class="tries">
+          <span class="label" style="align-self:center">or try</span>
+          <button>review the UI of my dashboard</button>
+          <button>cold email to a design agency</button>
+          <button>my test fails with a KeyError</button>
+          <button>investor pitch deck</button>
+        </div>
+        <p class="verdict label" id="verdict" aria-live="polite"></p>
+      </div>
+      <div class="pulled" id="pulled" aria-live="polite"></div>
+    </div>
+  </div>
+</div>
+
+<section id="how"><div class="wrap sec">
+  <span class="label">01 — How it works</span>
+  <h2>Claude asks the catalog, reads two cards, and gets to work.</h2>
+  <div class="body">
+    <ol class="ledger">
+      <li><span class="label num">A</span><h3>Route</h3><div><p>The catalog is too big to read, so Claude searches it with a small script. Cost in context stays the same whether the catalog holds 26 skills or 5,000.</p><pre>python3 scripts/route.py "design a landing page for my app"</pre></div></li>
+      <li><span class="label num">B</span><h3>Load</h3><p>Only the winning skill is read, plus one supporting skill when it scores close behind. Everything else stays on the shelf.</p></li>
+      <li><span class="label num">C</span><h3>Work</h3><p>The primary skill sets the process and the quality bar. For long jobs with phases, Claude routes again at each phase.</p></li>
+      <li><span class="label num">D</span><h3>Rate</h3><p>Each answer ends with the skills it used and a link to rate them. Ratings feed the next ranking, for everyone.</p></li>
+    </ol>
+  </div>
+</div></section>
+
+<section id="ranking"><div class="wrap sec">
+  <span class="label">02 — Ranking</span>
+  <h2>How a skill wins a task.</h2>
+  <div class="body">
+    <p class="formula">score <small>equals</small> relevance × (0.6 + 0.4 × rating ÷ 5)</p>
+    <div class="notes">
+      <p>Relevance comes first. It is a text match between your task and each skill's name, tags and description. A five-star skill for the wrong job never wins.</p>
+      <p>Ratings break ties between skills that fit. Every skill starts at 3.5, and needs about eight real votes before its own average takes over.</p>
+      <p>No match, no skill. If nothing in the catalog fits, the router says so and Claude carries on unaided.</p>
+    </div>
+  </div>
+</div></section>
+
+<section id="catalog"><div class="wrap sec">
+  <span class="label">03 — Catalog</span>
+  <h2><span id="count" class="num"></span> skills on the shelf, best rated first.</h2>
+  <div class="body">
+    <div class="filters label" id="filters"></div>
+    <div class="tablewrap">
+      <table>
+        <thead><tr class="label"><th>No.</th><th>Skill</th><th>Category</th><th>What it does</th><th>Rating</th></tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+  </div>
+</div></section>
+
+<section id="install"><div class="wrap sec">
+  <span class="label">04 — Install</span>
+  <h2>One upload. That is the whole setup.</h2>
+  <div class="body install">
+    <div>
+      <span class="label">Claude app</span>
+      <h3>Upload the zip</h3>
+      <ol><li>Download <code>oneskill.zip</code>.</li><li>Open Settings, then Capabilities, then Skills.</li><li>Upload the zip and switch it on.</li></ol>
+      <a class="btn" href="oneskill.zip" download>Download oneskill.zip</a>
+    </div>
+    <div>
+      <span class="label">Claude Code</span>
+      <h3>Drop it in your skills folder</h3>
+      <pre>unzip oneskill.zip -d ~/.claude/skills/</pre>
+      <p style="margin-top:12px">Start a new session and ask for anything.</p>
+    </div>
+    <div data-repo-block hidden>
+      <span class="label">Add your own</span>
+      <h3>Put a skill on the shelf</h3>
+      <p>A skill is one Markdown file with a name, a description and tags. Open a pull request; it joins the catalog at the neutral 3.5 and earns its place from there.</p>
+      <a class="btn" data-repo href="#">Open the repository</a>
+    </div>
+  </div>
+</div></section>
+
+<div class="wrap">
+  <footer class="label">
+    <span>OneSkill v0.1 — <span id="fcount" class="num"></span> skills, MIT licensed</span>
+    <span>An independent project, not made by Anthropic</span>
+    <span id="clock" class="num"></span>
+  </footer>
+</div>
+
+<script src="registry.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
