@@ -1,0 +1,23 @@
+name: Rate a skill
+description: Tell us how well a skill did the job. Ratings decide which skill the router picks.
+title: "Rate: "
+labels: ["rating"]
+body:
+  - type: input
+    id: skill
+    attributes:
+      label: Skill
+      description: The skill id from the "Skills used" line, for example landing-page-design
+    validations:
+      required: true
+  - type: dropdown
+    id: stars
+    attributes:
+      label: Rating
+      options: ["5", "4", "3", "2", "1"]
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: What worked or did not (optional)
