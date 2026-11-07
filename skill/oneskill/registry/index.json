@@ -1,0 +1,673 @@
+{
+ "version": 1,
+ "repo": "Aastha-818/oneskill",
+ "skills": [
+  {
+   "id": "competitive-analysis",
+   "name": "competitive-analysis",
+   "category": "business",
+   "description": "Analyse competitors and the market landscape - positioning, features, pricing, strengths and gaps. Use for competitor research, market landscape, battle cards and positioning work.",
+   "tags": [
+    "competitor",
+    "competitive analysis",
+    "market research",
+    "landscape",
+    "positioning",
+    "comparison",
+    "battle card",
+    "swot",
+    "alternatives",
+    "business"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/business/competitive-analysis/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "pitch-deck",
+   "name": "pitch-deck",
+   "category": "business",
+   "description": "Build an investor pitch deck - story, slide order and content for fundraising. Use for startup pitch decks, investor presentations, seed and Series A fundraising.",
+   "tags": [
+    "pitch deck",
+    "investor",
+    "fundraising",
+    "startup",
+    "seed",
+    "series a",
+    "venture",
+    "vc",
+    "pitch",
+    "deck",
+    "presentation"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/business/pitch-deck/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "pricing-strategy",
+   "name": "pricing-strategy",
+   "category": "business",
+   "description": "Design pricing and packaging - value metric, tiers, price points and how to test them. Use for SaaS pricing, pricing pages, freelance and agency rates, and packaging decisions.",
+   "tags": [
+    "pricing",
+    "price",
+    "packaging",
+    "tiers",
+    "plans",
+    "saas pricing",
+    "subscription",
+    "freemium",
+    "rates",
+    "monetisation",
+    "monetization",
+    "business"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/business/pricing-strategy/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "api-design",
+   "name": "api-design",
+   "category": "coding",
+   "description": "Design a clean REST or HTTP API - resources, endpoints, request and response shapes, errors, pagination and versioning. Use for API design, endpoint specs, OpenAPI and backend contracts.",
+   "tags": [
+    "api",
+    "rest",
+    "endpoint",
+    "http",
+    "backend",
+    "openapi",
+    "schema",
+    "json",
+    "design",
+    "versioning",
+    "pagination",
+    "code"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/coding/api-design/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "code-review",
+   "name": "code-review",
+   "category": "coding",
+   "description": "Review code or a pull request for correctness bugs, security problems and maintainability, with prioritised findings. Use for code reviews, PR reviews and diff audits.",
+   "tags": [
+    "code review",
+    "pull request",
+    "pr",
+    "diff",
+    "review",
+    "bugs",
+    "security",
+    "refactor",
+    "quality",
+    "code"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/coding/code-review/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "debugging",
+   "name": "debugging",
+   "category": "coding",
+   "description": "Find the root cause of a bug, error, crash or failing test systematically, then fix it and prove the fix. Use for debugging, stack traces, flaky tests and unexpected behaviour.",
+   "tags": [
+    "debug",
+    "debugging",
+    "bug",
+    "error",
+    "fix",
+    "crash",
+    "stack trace",
+    "exception",
+    "failing test",
+    "flaky",
+    "broken",
+    "code"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/coding/debugging/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "sql-queries",
+   "name": "sql-queries",
+   "category": "coding",
+   "description": "Write, explain and optimise SQL queries - joins, aggregation, window functions and performance. Use for SQL, database queries, reporting queries and slow query tuning.",
+   "tags": [
+    "sql",
+    "query",
+    "database",
+    "postgres",
+    "mysql",
+    "join",
+    "aggregate",
+    "window function",
+    "index",
+    "slow query",
+    "data"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/coding/sql-queries/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "test-writing",
+   "name": "test-writing",
+   "category": "coding",
+   "description": "Write useful automated tests - unit, integration and edge cases - that catch real bugs and stay maintainable. Use for writing tests, improving coverage and test-driven development.",
+   "tags": [
+    "test",
+    "tests",
+    "testing",
+    "unit test",
+    "integration",
+    "coverage",
+    "tdd",
+    "pytest",
+    "jest",
+    "mock",
+    "code"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/coding/test-writing/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "dashboard-design",
+   "name": "dashboard-design",
+   "category": "data",
+   "description": "Design a dashboard or report that people can read at a glance - choosing metrics, chart types and layout. Use for dashboards, KPI reports, analytics views and data visualisation.",
+   "tags": [
+    "dashboard",
+    "chart",
+    "kpi",
+    "metrics",
+    "visualisation",
+    "visualization",
+    "report",
+    "analytics",
+    "graph",
+    "data",
+    "design"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/data/dashboard-design/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "data-analysis",
+   "name": "data-analysis",
+   "category": "data",
+   "description": "Analyse a dataset to answer a question - cleaning, exploration, statistics and clear findings. Use for data analysis, CSV or Excel exploration, metrics investigation and insight reports.",
+   "tags": [
+    "data",
+    "analysis",
+    "analyse",
+    "analyze",
+    "dataset",
+    "csv",
+    "excel",
+    "statistics",
+    "insights",
+    "metrics",
+    "pandas",
+    "trends",
+    "report"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/data/data-analysis/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "spreadsheet-modeling",
+   "name": "spreadsheet-modeling",
+   "category": "data",
+   "description": "Build a clear, auditable spreadsheet model - financial model, budget, forecast or calculator - with separated inputs, formulas and outputs. Use for Excel or Google Sheets models.",
+   "tags": [
+    "spreadsheet",
+    "excel",
+    "google sheets",
+    "model",
+    "financial model",
+    "budget",
+    "forecast",
+    "formulas",
+    "calculator",
+    "projection"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/data/spreadsheet-modeling/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "brand-identity",
+   "name": "brand-identity",
+   "category": "design",
+   "description": "Create a brand identity - positioning, name direction, logo concept, colour palette, typography and voice. Use for new brands, rebrands, style guides and visual identity systems.",
+   "tags": [
+    "brand",
+    "branding",
+    "identity",
+    "logo",
+    "palette",
+    "colour",
+    "color",
+    "typography",
+    "style guide",
+    "visual identity",
+    "rebrand",
+    "design"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/design/brand-identity/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "landing-page-design",
+   "name": "landing-page-design",
+   "category": "design",
+   "description": "Design and build a landing page or marketing site hero that converts - structure, hierarchy, copy and visual direction. Use for landing pages, homepages, product sites and waitlist pages.",
+   "tags": [
+    "landing page",
+    "website",
+    "homepage",
+    "hero",
+    "marketing site",
+    "web design",
+    "conversion",
+    "waitlist",
+    "saas"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/design/landing-page-design/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "slide-deck-design",
+   "name": "slide-deck-design",
+   "category": "design",
+   "description": "Design a presentation that is clear and visually strong - narrative, slide structure, layout and charts. Use for slide decks, keynotes, talks and visual presentations.",
+   "tags": [
+    "slides",
+    "deck",
+    "presentation",
+    "keynote",
+    "powerpoint",
+    "talk",
+    "layout",
+    "design",
+    "visual"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/design/slide-deck-design/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "ui-critique",
+   "name": "ui-critique",
+   "category": "design",
+   "description": "Review an interface, screen or design for usability, hierarchy, accessibility and polish, and give prioritised fixes. Use for design feedback, UX audits and heuristic reviews of a page, app or mockup.",
+   "tags": [
+    "ui",
+    "ux",
+    "critique",
+    "review",
+    "feedback",
+    "audit",
+    "usability",
+    "accessibility",
+    "design",
+    "interface",
+    "heuristic",
+    "website"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/design/ui-critique/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "ad-copy",
+   "name": "ad-copy",
+   "category": "marketing",
+   "description": "Write advertising copy for paid campaigns - headlines, primary text and variations for Google, Meta and LinkedIn ads. Use for ad copy, PPC, paid social and campaign creative.",
+   "tags": [
+    "ad",
+    "ads",
+    "advertising",
+    "copy",
+    "ppc",
+    "google ads",
+    "facebook",
+    "meta",
+    "instagram",
+    "paid social",
+    "headline",
+    "campaign",
+    "marketing"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/marketing/ad-copy/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "launch-plan",
+   "name": "launch-plan",
+   "category": "marketing",
+   "description": "Plan a product or feature launch - positioning, audience, channels, timeline and success metrics. Use for go-to-market plans, product launches, Product Hunt launches and campaign planning.",
+   "tags": [
+    "launch",
+    "go-to-market",
+    "gtm",
+    "product launch",
+    "campaign",
+    "product hunt",
+    "marketing plan",
+    "channels",
+    "announcement",
+    "timeline"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/marketing/launch-plan/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "seo-content",
+   "name": "seo-content",
+   "category": "marketing",
+   "description": "Plan and write content that ranks in search - keyword intent, outlines, on-page optimisation and internal links. Use for SEO articles, keyword research, content briefs and page optimisation.",
+   "tags": [
+    "seo",
+    "search",
+    "keyword",
+    "ranking",
+    "google",
+    "content brief",
+    "on-page",
+    "meta description",
+    "organic traffic",
+    "article",
+    "marketing"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/marketing/seo-content/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "prd-writing",
+   "name": "prd-writing",
+   "category": "product",
+   "description": "Write a product requirements document or feature spec - problem, goals, scope, requirements and success metrics. Use for PRDs, feature specs, product briefs and user stories.",
+   "tags": [
+    "prd",
+    "product requirements",
+    "spec",
+    "feature",
+    "requirements",
+    "user stories",
+    "product brief",
+    "scope",
+    "product management"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/product/prd-writing/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "user-research-synthesis",
+   "name": "user-research-synthesis",
+   "category": "product",
+   "description": "Turn interview notes, survey responses and feedback into themes, insights and recommendations. Use for user research synthesis, customer interview analysis and feedback summaries.",
+   "tags": [
+    "user research",
+    "interviews",
+    "synthesis",
+    "survey",
+    "feedback",
+    "insights",
+    "themes",
+    "customer",
+    "ux research",
+    "personas",
+    "product"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/product/user-research-synthesis/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "meeting-notes",
+   "name": "meeting-notes",
+   "category": "productivity",
+   "description": "Turn a meeting transcript or rough notes into clear minutes - decisions, action items with owners, and open questions. Use for meeting notes, minutes, call summaries and follow-up emails.",
+   "tags": [
+    "meeting",
+    "notes",
+    "minutes",
+    "transcript",
+    "summary",
+    "action items",
+    "follow-up",
+    "call",
+    "recap",
+    "decisions"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/productivity/meeting-notes/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "resume-tailoring",
+   "name": "resume-tailoring",
+   "category": "productivity",
+   "description": "Tailor a resume or CV and cover letter to a specific job description - matching keywords, rewriting bullets around results. Use for resumes, CVs, cover letters and job applications.",
+   "tags": [
+    "resume",
+    "cv",
+    "cover letter",
+    "job application",
+    "job description",
+    "career",
+    "ats",
+    "hiring",
+    "portfolio",
+    "job"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/productivity/resume-tailoring/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "blog-post",
+   "name": "blog-post",
+   "category": "writing",
+   "description": "Write a blog post or article with a clear angle, strong opening and readable structure. Use for articles, essays, thought leadership and long-form content.",
+   "tags": [
+    "blog",
+    "post",
+    "article",
+    "essay",
+    "long-form",
+    "content",
+    "writing",
+    "thought leadership",
+    "newsletter"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/writing/blog-post/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "cold-email",
+   "name": "cold-email",
+   "category": "writing",
+   "description": "Write cold outreach emails that get replies - short, specific and personal. Use for sales prospecting, job outreach, partnership pitches and follow-up sequences.",
+   "tags": [
+    "cold email",
+    "outreach",
+    "email",
+    "sales",
+    "prospecting",
+    "pitch",
+    "follow-up",
+    "job application",
+    "reply",
+    "client"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/writing/cold-email/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "copy-editing",
+   "name": "copy-editing",
+   "category": "writing",
+   "description": "Edit and proofread existing text for clarity, concision, grammar and tone without changing the meaning or the author's voice. Use for editing, proofreading, tightening and rewriting drafts.",
+   "tags": [
+    "edit",
+    "editing",
+    "proofread",
+    "rewrite",
+    "grammar",
+    "clarity",
+    "concise",
+    "tone",
+    "polish",
+    "draft",
+    "writing"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/writing/copy-editing/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  },
+  {
+   "id": "linkedin-post",
+   "name": "linkedin-post",
+   "category": "writing",
+   "description": "Write LinkedIn posts that sound like a person and earn engagement - hook, story, takeaway. Use for LinkedIn content, personal branding and social posts for professionals.",
+   "tags": [
+    "linkedin",
+    "post",
+    "social media",
+    "personal brand",
+    "hook",
+    "engagement",
+    "content",
+    "social"
+   ],
+   "author": "oneskill",
+   "license": "MIT",
+   "path": "skills/writing/linkedin-post/SKILL.md",
+   "rating": {
+    "votes": 0,
+    "sum": 0
+   }
+  }
+ ]
+}
