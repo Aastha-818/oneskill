@@ -20,6 +20,22 @@ each skill's name, tags and description. Rating is a Bayesian average: every
 skill starts at 3.5 and needs about eight votes before its own average takes
 over. If no query word hits a skill's name or tags, the router returns no match.
 
+## Where the catalog comes from
+
+Most entries are links, not copies. `skill/oneskill/links/*.json` holds, per
+entry, the repository, branch and path of the file Claude should read, plus a
+description, tags, kind and star count:
+
+- `curated.json` - hand-picked skills, each checked by hand.
+- `skills-community.json` - every skill in eleven "awesome" lists of agent
+  skills, with each SKILL.md verified live on GitHub (`tools/ingest_awesome.py`).
+- `repos-<field>.json` - the most-starred GitHub repositories for the topics
+  of each field, from GitHub's search API (`tools/ingest_topics.py`).
+
+`kind` is `skill` (a SKILL.md Claude follows) or `resource` (a well-known
+repository whose README is the guide). `tools/update_stars.py` refreshes star
+counts. Until real ratings arrive, stars set each entry's prior.
+
 ## Layout
 
     skill/oneskill/            the skill users upload
@@ -31,6 +47,9 @@ over. If no query word hits a skill's name or tags, the router returns no match.
     registry/config.json       set "repo" to "owner/name" to switch on rating links
     tools/build.py             rebuild index, site data and dist/oneskill.zip
     tools/new_skill.py         scaffold a catalog skill
+    tools/ingest_awesome.py    import skills from awesome lists (verifies each)
+    tools/ingest_topics.py     import top-starred repositories by topic
+    tools/update_stars.py      refresh star counts for linked repositories
     tools/apply_rating.py      record a rating from a GitHub issue
     site/                      the website (static; GitHub Pages ready)
 
