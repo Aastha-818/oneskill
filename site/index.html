@@ -110,12 +110,20 @@ p code { background: var(--card); border: 1px solid var(--rule); padding: 1px 5p
 .filters button { all: unset; cursor: pointer; padding: 4px 0; border-bottom: 2px solid transparent; }
 .filters button[aria-pressed="true"] { color: var(--ink); border-bottom-color: var(--stamp); }
 .tablewrap { overflow-x: auto; }
-table { width: 100%; border-collapse: collapse; min-width: 640px; }
+table { width: 100%; border-collapse: collapse; min-width: 860px; }
 th { text-align: left; padding: 10px 14px 10px 0; border-bottom: 1px solid var(--ink); font-weight: 500; }
 td { padding: 13px 14px 13px 0; border-bottom: 1px solid var(--rule); vertical-align: baseline; font-size: 15px; }
 td.name { font: 400 1.2rem/1.2 var(--serif); letter-spacing: -.015em; white-space: nowrap; }
 td.desc { color: #3a352d; max-width: 54ch; }
 td.rate { font: 500 12px var(--mono); white-space: nowrap; }
+td.where { font: 400 12px var(--mono); max-width: 22ch; overflow-wrap: anywhere; }
+.shelfnote { max-width: 60ch; margin-bottom: 22px; }
+.shelfbar { display: flex; gap: 16px; align-items: center; margin-bottom: 14px; }
+.shelfbar input { flex: 1; max-width: 480px; border: 0; border-bottom: 1px solid var(--ink); background: transparent; color: var(--ink); font: 400 17px var(--sans); padding: 8px 0; border-radius: 0; }
+.shelfbar input:focus { outline: 0; border-bottom-color: var(--stamp); }
+.shelfbar input::placeholder { color: var(--soft); }
+.cardx .src { font-size: 13px; margin-top: 10px; }
+.cardx .src a { font: 400 12px var(--mono); }
 tr:hover td.name { color: var(--stamp); }
 
 .install { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 32px 48px; }
@@ -149,7 +157,7 @@ footer { border-top: 1px solid var(--ink); padding: 26px 0 40px; display: flex; 
 
   <div class="hero">
     <h1>One skill. Every other skill <span>inside it.</span></h1>
-    <p class="lede">Stop hunting through skill sites. Upload OneSkill once; it keeps a rated catalog and hands Claude the best one or two skills for whatever you ask.</p>
+    <p class="lede">Stop hunting through skill sites. Upload OneSkill once; it keeps a rated catalog of skills, most of them linked straight from their GitHub repositories, and hands Claude the best one or two for whatever you ask.</p>
 
     <div class="desk">
       <div class="ask">
@@ -175,7 +183,7 @@ footer { border-top: 1px solid var(--ink); padding: 26px 0 40px; display: flex; 
   <div class="body">
     <ol class="ledger">
       <li><span class="label num">A</span><h3>Route</h3><div><p>The catalog is too big to read, so Claude searches it with a small script. Cost in context stays the same whether the catalog holds 26 skills or 5,000.</p><pre>python3 scripts/route.py "design a landing page for my app"</pre></div></li>
-      <li><span class="label num">B</span><h3>Load</h3><p>Only the winning skill is read, plus one supporting skill when it scores close behind. Everything else stays on the shelf.</p></li>
+      <li><span class="label num">B</span><h3>Load</h3><p>Only the winning skill is read, plus one supporting skill when it scores close behind. A skill that lives on GitHub is fetched from its repository at that moment; if it cannot be fetched, you get the link instead.</p></li>
       <li><span class="label num">C</span><h3>Work</h3><p>The primary skill sets the process and the quality bar. For long jobs with phases, Claude routes again at each phase.</p></li>
       <li><span class="label num">D</span><h3>Rate</h3><p>Each answer ends with the skills it used and a link to rate them. Ratings feed the next ranking, for everyone.</p></li>
     </ol>
@@ -189,7 +197,7 @@ footer { border-top: 1px solid var(--ink); padding: 26px 0 40px; display: flex; 
     <p class="formula">score <small>equals</small> relevance × (0.6 + 0.4 × rating ÷ 5)</p>
     <div class="notes">
       <p>Relevance comes first. It is a text match between your task and each skill's name, tags and description. A five-star skill for the wrong job never wins.</p>
-      <p>Ratings break ties between skills that fit. Every skill starts at 3.5, and needs about eight real votes before its own average takes over.</p>
+      <p>Ratings break ties between skills that fit. Every entry starts near 3.5, nudged up a little by GitHub stars, and needs about eight real votes before its own average takes over.</p>
       <p>No match, no skill. If nothing in the catalog fits, the router says so and Claude carries on unaided.</p>
     </div>
   </div>
@@ -199,10 +207,15 @@ footer { border-top: 1px solid var(--ink); padding: 26px 0 40px; display: flex; 
   <span class="label">03 — Catalog</span>
   <h2><span id="count" class="num"></span> skills on the shelf, best rated first.</h2>
   <div class="body">
+    <p class="shelfnote"><span id="linked" class="num"></span> of them are links into <span id="repos" class="num"></span> other GitHub repositories: agent skills with a SKILL.md, and the best-known repositories in each field. The catalog stores only where each one lives and what it is for; Claude fetches the real file when it routes, or hands you the link. Stars count until real ratings arrive.</p>
+    <div class="shelfbar">
+      <input id="search" type="search" placeholder="Search the shelf - try figma, pentest, remotion, resume" aria-label="Search the catalog">
+      <span id="shown" class="label"></span>
+    </div>
     <div class="filters label" id="filters"></div>
     <div class="tablewrap">
       <table>
-        <thead><tr class="label"><th>No.</th><th>Skill</th><th>Category</th><th>What it does</th><th>Rating</th></tr></thead>
+        <thead><tr class="label"><th>No.</th><th>Skill</th><th>Category</th><th>What it does</th><th>Where it lives</th><th>Rating</th></tr></thead>
         <tbody id="rows"></tbody>
       </table>
     </div>
@@ -228,7 +241,7 @@ footer { border-top: 1px solid var(--ink); padding: 26px 0 40px; display: flex; 
     <div data-repo-block hidden>
       <span class="label">Add your own</span>
       <h3>Put a skill on the shelf</h3>
-      <p>A skill is one Markdown file with a name, a description and tags. Open a pull request; it joins the catalog at the neutral 3.5 and earns its place from there.</p>
+      <p>Link any skill that already lives on GitHub with a ten-line file - its repository, path, description and tags - or add a local one. Open a pull request; it joins the catalog at the neutral 3.5 and earns its place from there.</p>
       <a class="btn" data-repo href="#">Open the repository</a>
     </div>
   </div>
