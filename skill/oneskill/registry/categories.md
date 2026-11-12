@@ -1,10 +1,28 @@
 # Categories
 
-- `business` (3 skills) - registry/categories/business.md
-- `coding` (5 skills) - registry/categories/coding.md
-- `data` (3 skills) - registry/categories/data.md
-- `design` (4 skills) - registry/categories/design.md
-- `marketing` (3 skills) - registry/categories/marketing.md
+- `ai` (489 skills) - registry/categories/ai.md
+- `backend` (170 skills) - registry/categories/backend.md
+- `business` (200 skills) - registry/categories/business.md
+- `careers` (170 skills) - registry/categories/careers.md
+- `coding` (418 skills) - registry/categories/coding.md
+- `collections` (98 skills) - registry/categories/collections.md
+- `data` (267 skills) - registry/categories/data.md
+- `design` (300 skills) - registry/categories/design.md
+- `devops` (160 skills) - registry/categories/devops.md
+- `documents` (173 skills) - registry/categories/documents.md
+- `education` (163 skills) - registry/categories/education.md
+- `finance` (110 skills) - registry/categories/finance.md
+- `frontend` (257 skills) - registry/categories/frontend.md
+- `games` (114 skills) - registry/categories/games.md
+- `marketing` (199 skills) - registry/categories/marketing.md
+- `media` (213 skills) - registry/categories/media.md
+- `mobile` (96 skills) - registry/categories/mobile.md
+- `motion` (149 skills) - registry/categories/motion.md
+- `outreach` (118 skills) - registry/categories/outreach.md
 - `product` (2 skills) - registry/categories/product.md
-- `productivity` (2 skills) - registry/categories/productivity.md
-- `writing` (4 skills) - registry/categories/writing.md
+- `productivity` (200 skills) - registry/categories/productivity.md
+- `research` (181 skills) - registry/categories/research.md
+- `security` (252 skills) - registry/categories/security.md
+- `tools` (168 skills) - registry/categories/tools.md
+- `video` (152 skills) - registry/categories/video.md
+- `writing` (182 skills) - registry/categories/writing.md
