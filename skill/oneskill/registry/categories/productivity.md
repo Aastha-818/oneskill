@@ -1,4 +1,202 @@
 # productivity - best rated first
 
+- **excalidraw** (repository) - Virtual whiteboard for sketching hand-drawn like diagrams https://github.com/excalidraw/excalidraw/blob/master/README.md
+- **template** - Minimal skeleton for a new skill project structure. https://github.com/anthropics/skills/blob/main/template/SKILL.md
+- **file-organizer** - Intelligently organizes your files and folders across your computer. https://github.com/ComposioHQ/awesome-claude-skills/blob/master/file-organizer/SKILL.md
+- **meeting-insights-analyzer** - Transforms your meeting transcripts into actionable insights about your communication patterns. https://github.com/ComposioHQ/awesome-claude-skills/blob/master/meeting-insights-analyzer/SKILL.md
+- **skill-md-2** - Automatically organizes invoices and receipts for tax preparation. https://github.com/ComposioHQ/awesome-claude-skills/blob/master/invoice-organizer/SKILL.md
+- **nanobot** (repository) - Your lightweight open-source personal agent. https://github.com/HKUDS/nanobot/blob/main/README.md
+- **siyuan** (repository) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作 https://github.com/siyuan-note/siyuan/blob/master/README.md
+- **logseq** (repository) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV https://github.com/logseq/logseq/blob/master/README.md
+- **temporal-python-testing** - Test Temporal workflows with pytest, time-skipping, and mocking strategies. Covers unit testing, integration testing, replay testing, and local development setup. Use when implementing Temporal workflow tests or debugging test failures. https://github.com/wshobson/agents/blob/main/plugins/backend-development/skills/temporal-python-testing/SKILL.md
+- **fastlane** (repository) - 🚀 The easiest way to automate building and releasing your iOS and Android apps https://github.com/fastlane/fastlane/blob/master/README.md
+- **open-notebook** (repository) - An Open Source implementation of Notebook LM with more flexibility and features https://github.com/lfnovo/open-notebook/blob/main/README.md
+- **oh-my-claudecode** (repository) - Teams-first Multi-agent orchestration for Claude Code https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/README.md
+- **trilium** (repository) - Build your personal knowledge base with Trilium Notes https://github.com/TriliumNext/Trilium/blob/main/README.md
+- **conductor** (repository) - Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents https://github.com/conductor-oss/conductor/blob/main/README.md
+- **moneyprinterv2** (repository) - Automate the process of making money online. https://github.com/FujiwaraChoki/MoneyPrinterV2/blob/main/README.md
+- **cli-3** (repository) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. https://github.com/googleworkspace/cli/blob/main/README.md
+- **gws-calendar** - Manage Google Calendar calendars and events. https://github.com/googleworkspace/cli/blob/main/skills/gws-calendar/SKILL.md
+- **gws-gmail** - Send, read, and manage Gmail email. https://github.com/googleworkspace/cli/blob/main/skills/gws-gmail/SKILL.md
+- **gws-workflow** - Cross-service Google Workspace productivity workflows. https://github.com/googleworkspace/cli/blob/main/skills/gws-workflow/SKILL.md
+- **budibase** (repository) - AI agents, automations and apps that run your operations. Model agnostic. https://github.com/Budibase/budibase/blob/master/README.md
+- **release-notes** - Generate user-facing release notes from tickets or changelogs. https://github.com/phuryn/pm-skills/blob/main/pm-execution/skills/release-notes/SKILL.md
+- **summarize-meeting** - Summarize meeting transcripts into structured notes and actions. https://github.com/phuryn/pm-skills/blob/main/pm-execution/skills/summarize-meeting/SKILL.md
+- **wox** (repository) - A cross-platform launcher that simply works https://github.com/Wox-launcher/Wox/blob/master/README.md
+- **vagrant** (repository) - Vagrant is a tool for building and distributing development environments. https://github.com/hashicorp/vagrant/blob/main/README.md
+- **dashy** (repository) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! https://github.com/lissy93/dashy/blob/master/README.md
+- **crawlee** (repository) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headf https://github.com/apify/crawlee/blob/master/README.md
+- **awesome-n8n-templates-2** (repository) - 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection. https://github.com/enescingoz/awesome-n8n-templates/blob/main/README.md
+- **tasmota** (repository) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at https://github.com/arendst/Tasmota/blob/development/README.md
+- **temporal** (repository) - Temporal service https://github.com/temporalio/temporal/blob/main/README.md
+- **semantic-release** (repository) - 📦🚀 Fully automated version management and package publishing https://github.com/semantic-release/semantic-release/blob/master/README.md
+- **archon** (repository) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. https://github.com/coleam00/Archon/blob/dev/README.md
+- **super-productivity** (repository) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. https://github.com/super-productivity/super-productivity/blob/master/README.md
+- **skyvern** (repository) - Automate browser based workflows with AI https://github.com/Skyvern-AI/skyvern/blob/main/README.md
+- **skyvern-2** - AI browser automation for dynamic pages, forms, and data extraction. https://github.com/Skyvern-AI/skyvern/blob/main/skyvern/cli/skills/skyvern/SKILL.md
+- **waveterm** (repository) - An open-source, AI-integrated, cross-platform terminal for seamless workflows https://github.com/wavetermdev/waveterm/blob/main/README.md
+- **ego-lite** (repository) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. https://github.com/citrolabs/ego-lite/blob/main/README.md
+- **screenpipe-api** - Query locally recorded screen, audio, meeting, and interface context. https://github.com/screenpipe/screenpipe/blob/main/crates/screenpipe-core/assets/skills/screenpipe-api/SKILL.md
+- **nnn** (repository) - n³ The unorthodox terminal file manager https://github.com/jarun/nnn/blob/master/README.md
+- **toonflow-app** (repository) - 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, AI agents, storyboarding, image and video generation. Self-hosted and extensible, with a canvas-base https://github.com/HBAI-Ltd/Toonflow-app/blob/master/README.md
+- **pua** - Corporate motivation skill that pushes AI agents to exhaust options before giving up. https://github.com/tanweai/pua/blob/main/skills/pua/SKILL.md
+- **lifeos** (repository) - ⛰️ LifeOS — The AI-powered Life Operating System that helps you hill climb to wherever you're going. https://github.com/danielmiessler/LifeOS/blob/main/README.md
+- **kap** (repository) - An open-source screen recorder built with web technology https://github.com/wulkano/Kap/blob/main/README.md
+- **screenity** (repository) - The free and privacy-friendly screen recorder with no limits 🎥 https://github.com/alyssaxuu/screenity/blob/master/README.md
+- **awesome-python-applications** (repository) - 💿 Free software that works great, and also happens to be open-source Python. https://github.com/mahmoud/awesome-python-applications/blob/master/README.md
+- **foam** (repository) - A personal knowledge management and sharing system for VSCode https://github.com/foambubble/foam/blob/main/README.md
+- **edict** (repository) - 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails https://github.com/cft0808/edict/blob/main/README.md
+- **omnivore** (repository) - Omnivore is a complete, open source read-it-later solution for people who like reading. https://github.com/omnivore-app/omnivore/blob/main/README.md
+- **claude-obsidian** (repository) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pat https://github.com/AgriciDaniel/claude-obsidian/blob/main/README.md
+- **flow-launcher** (repository) - :mag: Quick file search & app launcher for Windows with community-made plugins https://github.com/Flow-Launcher/Flow.Launcher/blob/dev/README.md
+- **claudian** (repository) - An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault. https://github.com/YishenTu/claudian/blob/main/README.md
+- **seafile** (repository) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views https://github.com/haiwen/seafile/blob/master/README.md
+- **bash-it** (repository) - A community Bash framework. https://github.com/Bash-it/bash-it/blob/master/README.md
+- **prowler-pr** - Creates Pull Requests for Prowler following the project template and conventions. Trigger: When working on pull request requirements or creation (PR template sections, PR title Conventional Commits check, changelog gate/no-changelog label), or when inspecting PR-related GitHub workflows like convent https://github.com/prowler-cloud/prowler/blob/master/skills/prowler-pr/SKILL.md
+- **drawnix** (repository) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. https://github.com/plait-board/drawnix/blob/develop/README.md
+- **notesnook** (repository) - A fully open source & end-to-end encrypted note taking alternative to Evernote. https://github.com/streetwriters/notesnook/blob/master/README.md
+- **espanso** (repository) - A Privacy-first, Cross-platform Text Expander written in Rust https://github.com/espanso/espanso/blob/dev/README.md
+- **meshroom** (repository) - Node-based Visual Programming Toolbox https://github.com/alicevision/Meshroom/blob/develop/README.md
+- **vnote** (repository) - A pleasant note-taking platform with native speed, majoring in Markdown, MindMap, Typst, and plain text. https://github.com/vnotex/vnote/blob/master/README.md
+- **note-gen** (repository) - Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI. https://github.com/codexu/note-gen/blob/dev/README.md
+- **keep** (repository) - The open-source AIOps and alert management platform https://github.com/keephq/keep/blob/main/README.md
+- **ekko-studio** (repository) - Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web. https://github.com/EKKOLearnAI/ekko-studio/blob/main/README.md
+- **review-claudemd** - Review recent conversations to find improvements for CLAUDE.md files. https://github.com/ykdojo/claude-code-tips/blob/main/skills/review-claudemd/SKILL.md
+- **plannotator** (repository) - Interactive plan review UI for Claude Code with visual annotation, offline sharing, and Obsidian/Bear integration. https://github.com/backnotprop/plannotator/blob/main/README.md
+- **superplane** (repository) - Open source factory for one-shot engineering https://github.com/superplanehq/superplane/blob/main/README.md
+- **cadence** (repository) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. https://github.com/cadence-workflow/cadence/blob/master/README.md
+- **taskbook** (repository) - Tasks, boards & notes for the command-line habitat https://github.com/klaudiosinani/taskbook/blob/master/README.md
+- **laverna** (repository) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote. https://github.com/Laverna/laverna/blob/master/README.md
+- **flowgram-ai** (repository) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler. https://github.com/bytedance/flowgram.ai/blob/main/README.md
+- **nb** (repository) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script. https://github.com/xwmx/nb/blob/master/README.md
+- **product-manager-skills** (repository) - Product management skill library covering discovery, prioritization, PRDs, roadmap planning, and SaaS metrics. https://github.com/deanpeters/Product-Manager-Skills/blob/main/README.md
+- **skill-authoring-workflow** - Meta workflow for authoring skills: choose path → validate → update docs → package. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/skill-authoring-workflow/SKILL.md
+- **fsnotes** (repository) - Fast Markdown note-taking app for Mac and iPhone https://github.com/glushchenko/fsnotes/blob/master/README.md
+- **jrnl** (repository) - Collect your thoughts and notes without leaving the command line. https://github.com/jrnl-org/jrnl/blob/main/README.md
+- **plain-app** (repository) - 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop. https://github.com/plainhub/plain-app/blob/main/README.md
+- **takenote** (repository) - 📝  ‎ A web-based notes app for developers. https://github.com/taniarascia/takenote/blob/master/README.md
+- **masscode** (repository) - A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app. https://github.com/massCodeIO/massCode/blob/main/README.md
+- **lorien** (repository) - Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot. https://github.com/mbrlabs/Lorien/blob/main/README.md
+- **dev-browser** - Web browser capability for agents. https://github.com/SawyerHood/dev-browser/blob/main/skills/dev-browser/SKILL.md
+- **app** (repository) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help. https://github.com/standardnotes/app/blob/main/README.md
+- **n8n-skills** (repository) - n8n skillset for Claude Code to build flawless n8n workflows https://github.com/czlonkowski/n8n-skills/blob/main/README.md
+- **silverbullet** (repository) - The malleable knowledge base for you and your team. Powered by Markdown and Lua. https://github.com/silverbulletmd/silverbullet/blob/main/README.md
+- **markor** (repository) - Text editor - Notes, ToDo & Filemanager (for Android) - Markdown, todo.txt, plaintext, math, .. https://github.com/gsantner/markor/blob/master/README.md
+- **athens** (repository) - Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21 https://github.com/athensresearch/athens/blob/main/README.md
+- **social-media-research-skills** (repository) - AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries & trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn & more. Powered by ScrapeCreators. Works with Claude Code, Cursor, Codex, Gemini CLI. https://github.com/ScrapeCreators/social-media-research-skills/blob/main/README.md
+- **todo-txt-cli** (repository) - ☑️ A simple and extensible shell script for managing your todo.txt file. https://github.com/todotxt/todo.txt-cli/blob/master/README.md
+- **taskwarrior** (repository) - Taskwarrior - Command line Task Management https://github.com/GothenburgBitFactory/taskwarrior/blob/develop/README.md
+- **vikunja** (repository) - The task manager you actually own. https://github.com/go-vikunja/vikunja/blob/main/README.md
+- **qownnotes** (repository) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration. https://github.com/pbek/QOwnNotes/blob/main/README.md
+- **planify** (repository) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME https://github.com/alainm23/planify/blob/main/README.md
+- **floral-notepaper** (repository) - 花笺，轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览 https://github.com/Achilng/floral-notepaper/blob/main/README.md
+- **dootask** (repository) - DooTask是一款开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全。 https://github.com/kuaifan/dootask/blob/pro/README.md
+- **obsidian-mind** (repository) - A self-organizing Obsidian vault that gives AI coding agents persistent memory. https://github.com/breferrari/obsidian-mind/blob/main/README.md
+- **cc-wf-studio** (repository) - CC Workflow Studio https://github.com/breaking-brake/cc-wf-studio/blob/main/README.md
+- **heynote** (repository) - A dedicated scratchpad for power users https://github.com/heyman/heynote/blob/main/README.md
+- **tagspaces** (repository) - TagSpaces is an offline, open source, document manager with tagging support https://github.com/tagspaces/tagspaces/blob/develop/README.md
+- **obsidian-second-brain** (repository) - Persistent memory for Claude Code, Codex and 6 other AI agents, stored as plain markdown in your Obsidian vault. New: Crew, one shared logbook so Claude Code, Codex, Cursor and Grok Bot know what each other did. 48 commands: semantic search, self-rewriting notes, key-less research, scheduled agents. https://github.com/eugeniughelbur/obsidian-second-brain/blob/main/README.md
+- **agenta** (repository) - Agenta is a workspace where you and your team build agents and automations. https://github.com/Agenta-AI/agenta/blob/main/README.md
+- **open-knowledge** (repository) - Beautiful, AI-native markdown IDE and LLM wiki https://github.com/inkeep/open-knowledge/blob/main/README.md
+- **memex** (repository) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities. https://github.com/WorldBrain/Memex/blob/develop/README.md
+- **basic-memory** (repository) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN https://github.com/basicmachines-co/basic-memory/blob/main/README.md
+- **awesome-openclaw-usecases-zh** (repository) - 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好 https://github.com/AlexAnys/awesome-openclaw-usecases-zh/blob/main/README.md
+- **open-claude-cowork** (repository) - Open Source version of Claude Cowork with 500+ SaaS app integrations https://github.com/composio-community/open-claude-cowork/blob/master/README.md
+- **notes** (repository) - Fast and beautiful note-taking app written in C++. Write down your thoughts. https://github.com/nuttyartist/notes/blob/master/README.md
+- **gitjournal** (repository) - Mobile first Note Taking integrated with Git https://github.com/GitJournal/GitJournal/blob/master/README.md
+- **obsidian-tasks** (repository) - Task management for the Obsidian knowledge base. https://github.com/obsidian-tasks-group/obsidian-tasks/blob/main/README.md
+- **alexandrie** (repository) - 📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command. https://github.com/Smaug6739/Alexandrie/blob/main/README.md
+- **task-observer** - A meta-skill that builds and improves all your skills, including itself. https://github.com/rebelytics/one-skill-to-rule-them-all/blob/main/SKILL.md
+- **vibe-skills** (repository) - Intelligent Skill routing and workflow orchestration for AI agents — +21.12 pp reward, −29.6% tokens on SkillsBench with DeepSeekV4Flash-VE. https://github.com/foryourhealth111-pixel/Vibe-Skills/blob/main/README.md
+- **pinme** - Deploy static sites or full-stack projects with PinMe. https://github.com/glitternetwork/pinme/blob/main/skills/pinme/SKILL.md
+- **surf** (repository) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local). https://github.com/deta/surf/blob/main/README.md
+- **tududi** (repository) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted. https://github.com/chrisvel/tududi/blob/main/README.md
+- **arscontexta** (repository) - Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own. https://github.com/agenticnotetaking/arscontexta/blob/main/README.md
+- **todo-txt** (repository) - ‼️ A complete primer on the whys and hows of todo.txt. https://github.com/todotxt/todo.txt/blob/master/README.md
+- **mrdoc** (repository) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、AI知识库系统。 https://github.com/zmister2016/MrDoc/blob/master/README.md
+- **readany** (repository) - AI-powered cross-platform e-book reader with semantic search, RAG chat, local vector store, notes, TTS, and WebDAV sync. https://github.com/codedogQBY/ReadAny/blob/main/README.md
+- **trustgraph** (repository) - The AI Governance Platform for Agents, Knowledge, and Context https://github.com/trustgraph-ai/trustgraph/blob/master/README.md
+- **orgzly-android** (repository) - Outliner for taking notes and managing to-do lists https://github.com/orgzly/orgzly-android/blob/master/README.md
+- **webcmd-browser** - Inspect pages and interact with websites in a live browser using webcmd. https://github.com/agentrhq/webcmd/blob/main/skills/webcmd-browser/SKILL.md
+- **papertodo** (repository) - A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.——极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。 https://github.com/snownico0722/PaperTodo/blob/main/README.md
+- **mindforger** (repository) - Thinking notebook and Markdown editor. https://github.com/dvorka/mindforger/blob/master/README.md
+- **karpathy-llm-wiki** (repository) - Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, and linting. https://github.com/Astro-Han/karpathy-llm-wiki/blob/main/README.md
+- **revezone** (repository) - A lightweight local-first graphic-centric  productivity tool to build your second brain. Supporting Excalidraw/Tldraw whiteboard and notion-like note. 一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具。支持 Excalidraw、Tldraw 白板和类 Notion 笔记。 https://github.com/revezone/revezone/blob/master/README.md
+- **community-2** (repository) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS https://github.com/documize/community/blob/master/README.md
+- **calcure** (repository) - Modern TUI calendar and task manager with minimal and customizable UI. https://github.com/anufrievroman/calcure/blob/main/README.md
+- **ao** (repository) - Elegant Microsoft To-Do desktop app https://github.com/klaudiosinani/ao/blob/master/README.md
+- **minimal-todo** (repository) - Material To-Do App https://github.com/avjinder/Minimal-Todo/blob/master/README.md
+- **ledge** (repository) - Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。 https://github.com/phodal/ledge/blob/master/README.md
+- **tidgi-desktop** (repository) - TidGi is an privacy-in-mind, automated, auto-git-backup, freely-deployed knowledge management Desktop note app, based on Tiddlywiki, with REST API for web-clipping and Anki connect. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under a https://github.com/tiddly-gittly/TidGi-Desktop/blob/master/README.md
+- **benchflow-ai-skillsbench** (repository) - Library: Use Benchflow for Measuring skills performance on real workflows. https://github.com/benchflow-ai/SkillsBench/blob/main/README.md
+- **vdirsyncer** (repository) - 📇 Synchronize calendars and contacts. https://github.com/pimutils/vdirsyncer/blob/main/README.md
+- **tuxedo** (repository) - A fast, keyboard-driven terminal UI for todo.txt. https://github.com/webstonehq/tuxedo/blob/main/README.md
+- **zotero-ai-butler** (repository) - 【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！ https://github.com/steven-jianhao-li/zotero-AI-Butler/blob/main/README.md
+- **iwe** (repository) - Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents https://github.com/iwe-org/iwe/blob/master/README.md
+- **kaizen** - Applies continuous improvement methodology with multiple analytical approaches, based on Japanese Kaizen philosophy and Lean methodology. https://github.com/NeoLabHQ/context-engineering-kit/blob/master/plugins/kaizen/skills/kaizen/SKILL.md
+- **wanandroid** (repository) - 🔥项目采用 Kotlin 语言，基于 MVP + RxJava + Retrofit + Glide + EventBus 等架构设计，努力打造一款优秀的  [玩Android] 客户端 https://github.com/iceCola7/WanAndroid/blob/master/README.md
+- **callstackincubator-github** (repository) - GitHub workflow patterns for PRs, code review, branching. https://github.com/callstackincubator/agent-skills/blob/main/README.md
+- **grit** (repository) - Multitree-based personal task manager https://github.com/climech/grit/blob/master/README.md
+- **self-host** - Set up self-hosted applications and connect services on your hardware. https://github.com/ajnart/self-host/blob/main/skills/self-host/SKILL.md
+- **brooks-lint** (repository) - AI code reviews grounded in 12 classic engineering books: decay-risk diagnostics with book citations and severity labels; 6 analysis modes including full-sweep auto-fix. https://github.com/hyhmrright/brooks-lint/blob/main/README.md
+- **rxtodo** (repository) - iOS Todo Application using RxSwift and ReactorKit https://github.com/devxoul/RxTodo/blob/master/README.md
+- **tracks** (repository) - Tracks is a GTD™ web application, built with Ruby on Rails https://github.com/TracksApp/tracks/blob/master/README.md
+- **dstask** (repository) - Git powered terminal-based todo/note manager --  markdown note page per task. Single binary! https://github.com/naggie/dstask/blob/master/README.md
+- **icalendar** (repository) - icalendar parser library for Python https://github.com/collective/icalendar/blob/main/README.md
+- **xit** (repository) - A plain-text file format for todos and check lists https://github.com/jotaen/xit/blob/main/README.md
+- **tasktrove** (repository) - TaskTrove is a modern Todo Manager that is fully self-hostable. https://github.com/dohsimpson/TaskTrove/blob/main/README.md
+- **taskist** (repository) - Flutter ToDo App with Firebase https://github.com/huextrat/Taskist/blob/master/README.md
+- **rust-tutorial** (repository) - 一个针对新手的 Rust 快速教程，从零开始写一个管理 Todos 的命令行程序 https://github.com/InkSha/rust-tutorial/blob/main/README.md
+- **vscode-todo-plus** (repository) - Manage todo lists with ease. Powerful, easy to use and customizable. https://github.com/fabiospampinato/vscode-todo-plus/blob/master/README.md
+- **skill** - Browse websites, reuse site tools, and call their APIs through Unbrowse. https://github.com/unbrowse-ai/unbrowse/blob/main/skill/SKILL.md
+- **pm-skills** (repository) - 68 product management skills covering the Triple Diamond lifecycle, templates, and workflows. https://github.com/product-on-purpose/pm-skills/blob/main/README.md
+- **git-pushing** - Automate git operations and repository interactions. https://github.com/mhattingpete/claude-skills-marketplace/blob/main/engineering-workflow-plugin/skills/git-pushing/SKILL.md
+- **review-implementing** - Evaluate code implementation plans and align with specs. https://github.com/mhattingpete/claude-skills-marketplace/blob/main/engineering-workflow-plugin/skills/review-implementing/SKILL.md
+- **test-fixing** - Detect failing tests and propose patches or fixes. https://github.com/mhattingpete/claude-skills-marketplace/blob/main/engineering-workflow-plugin/skills/test-fixing/SKILL.md
+- **vibe-check** - Guide beginners from a vague app idea to a buildable plan with discovery, flows, and a visual blueprint. https://github.com/TexasBedouin/vibe-check/blob/master/SKILL.md
+- **browser-search** - Web search and browsing skill for AI agents with multi-engine search and stealth browsing. https://github.com/Johell1NS/browser-search/blob/master/SKILL.md
+- **outline-2** - Search, read, create, and manage documents in Outline wiki instances (cloud or self-hosted). https://github.com/sanjay3290/ai-skills/blob/main/skills/outline/SKILL.md
+- **bro** - Re-explain dense answers or pasted text in plain language. https://github.com/luchasarie/bro-skill/blob/main/SKILL.md
+- **codex-fable5** - Evidence-based workflow gates for Codex. https://github.com/baskduf/FableCodex/blob/main/plugins/codex-fable5/skills/codex-fable5/SKILL.md
+- **n8n-skills-2** (repository) - Enables AI assistants to directly understand and operate n8n workflows. https://github.com/haunchen/n8n-skills/blob/main/README.md
+- **geb-skill** - Generate Geb browser automation in Groovy with Spock and page objects. https://github.com/LambdaTest/agent-skills/blob/main/geb-skill/SKILL.md
+- **testcafe-skill** - Generate TestCafe automation tests in JavaScript or TypeScript. https://github.com/LambdaTest/agent-skills/blob/main/testcafe-skill/SKILL.md
+- **webdriverio-skill** - Generate WebdriverIO (WDIO) automation tests in JavaScript or TypeScript. https://github.com/LambdaTest/agent-skills/blob/main/webdriverio-skill/SKILL.md
+- **court-skill** (repository) - Test an idea with prosecutor, defense, juror, and judge agents. https://github.com/alexyc9381/court-skill/blob/main/README.md
+- **skills-manager** - Manage, update, and distribute local agent skills with the skills-manager CLI. https://github.com/shenysun/skills-manager/blob/main/skills/skills-manager/SKILL.md
+- **resend** - Send and manage emails via the Resend API. https://github.com/resend/resend-skills/blob/main/skills/resend/SKILL.md
+- **resend-cli** - Resend CLI commands and workflows. https://github.com/resend/resend-skills/blob/main/skills/resend-cli/SKILL.md
+- **product-manager-skills-2** - Senior PM agent with 6 knowledge domains, 12 templates, and 30+ frameworks covering discovery, strategy, delivery, SaaS metrics, PM career coaching (IC to CPO), and AI product craft. https://github.com/Digidai/product-manager-skills/blob/main/SKILL.md
+- **tlgr** - Read, search, and manage Telegram conversations through the tlgr CLI. https://github.com/tlgrcli/tlgr/blob/main/plugin/skills/tlgr/SKILL.md
+- **sanity-best-practices** - Best practices for Sanity Studio and content workflows. https://github.com/sanity-io/agent-toolkit/blob/main/skills/sanity-best-practices/SKILL.md
+- **job-application-agent** - Discover, evaluate, prepare, and track job applications using verified facts. https://github.com/vaibhavarora14/job-application-agent/blob/main/skills/job-application-agent/SKILL.md
+- **fly-mode** - Respond as a fruit fly using a modeled fly brain connectome. https://github.com/alextitonis/fly.ai/blob/main/skills/fly-mode/SKILL.md
+- **linear-claude-skill** - Manage Linear issues, projects, and teams with MCP tools, SDK scripts, and GraphQL fallbacks for reliable project tracking. https://github.com/wrsmith108/linear-claude-skill/blob/main/SKILL.md
+- **cup** - ClickUp CLI for AI agents and humans. 40+ commands for tasks, sprints, time tracking. Ships as a Claude Code plugin. https://github.com/krodak/clickup-cli/blob/main/skills/clickup-cli/SKILL.md
+- **feature-track** (repository) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks. https://github.com/JunsW/feature-track/blob/main/README.md
+- **imprint** (repository) - Portable AI collaboration profile for memory, planning, review, debugging, testing, and workflow habits. https://github.com/ilang-ai/Imprint/blob/main/README.md
+- **tweetclaw** - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways. https://github.com/Xquik-dev/tweetclaw/blob/master/skills/tweetclaw/SKILL.md
+- **hubspot-admin-skills** (repository) - Skills for auditing, cleaning, enriching, and automating HubSpot CRM. Full audit → plan → execute → maintain workflow. https://github.com/TomGranot/hubspot-admin-skills/blob/main/README.md
+- **forward-deployed-selling** - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring. https://github.com/vonarmen-wq/forward-deployed-selling/blob/main/SKILL.md
+- **sheets-cli** - Google Sheets CLI automation. https://github.com/gmickel/sheets-cli/blob/main/SKILL.md
+- **agent-sessions** (repository) - Share coding-agent sessions with teammates through git: push a handoff summary and redacted transcript, pull them into Claude Code, Codex or OpenCode. https://github.com/prajwalgajakesari/agent-sessions/blob/main/README.md
 - **meeting-notes** - Turn a meeting transcript or rough notes into clear minutes - decisions, action items with owners, and open questions. Use for meeting notes, minutes, call summaries and follow-up emails. `skills/productivity/meeting-notes/SKILL.md`
 - **resume-tailoring** - Tailor a resume or CV and cover letter to a specific job description - matching keywords, rewriting bullets around results. Use for resumes, CVs, cover letters and job applications. `skills/productivity/resume-tailoring/SKILL.md`
+- **ship-learn-next** - Skill to help iterate on what to build or learn next, based on feedback loops. https://github.com/michalparkola/tapestry-skills-for-claude-code/blob/main/ship-learn-next/SKILL.md
+- **tapestry** (repository) - Interlink and summarize related documents into knowledge networks. https://github.com/michalparkola/tapestry-skills-for-claude-code/blob/main/README.md
+- **skillcheck-free** (repository) - Free SKILL.md validator with 30+ checks across structure, naming, and semantics. Catches common errors before deploying Claude Code skills. https://github.com/olgasafonova/SkillCheck-Free/blob/main/README.md
+- **meeting-intelligence** - Prepare meeting materials by gathering Notion context. https://github.com/makenotion/cursor-notion-plugin/blob/main/skills/meeting-intelligence/SKILL.md
+- **kanban-skill** (repository) - Markdown-based Kanban board with file-based cards, YAML frontmatter for status/priority/dependencies, and no database required. https://github.com/mattjoyce/kanban-skill/blob/master/README.md
+- **spotify-skill** (repository) - Spotify API integration. https://github.com/fabioc-aloha/spotify-skill/blob/main/README.md
+- **linear-cli-skill** (repository) - A skill teaching claude how to use linear-CLI (provided alongside the skill), meant to replace linear MCP. https://github.com/Valian/linear-cli-skill/blob/main/README.md
+- **trycourier-courier-skills** (repository) - Multi-channel notifications via email, SMS, push, and chat. https://github.com/trycourier/courier-skills/blob/main/README.md
+- **factory-floor** - Startup coaching skill combining Theory of Constraints, Customer Factory, How Brands Grow, and Marketing Strategy Discipline to help founders find and work their bottleneck. https://github.com/Swiftner/Factory-Floor/blob/main/SKILL.md
+- **solo-skills** (repository) - 7 bilingual (EN+中文) skills for solo founders and indie devs: launch tweets, customer emails, decision frameworks, postmortems. Each skill includes an explicit "When NOT to use" section. https://github.com/rockscy/solo-skills/blob/main/README.md
+- **rickygao-specrate** - Manage specs and changes in a structured workflow. https://github.com/rickygao/specrate/blob/main/SKILL.md
+- **flowhunt-skill** (repository) - Automation discovery audit: 5-question workflow intake + Gmail/Calendar/Slack analysis to identify automation opportunities. https://github.com/heyneuron/flowhunt-skill/blob/master/README.md
+- **gh-issue-triage** - Label taxonomy and triage workflow for GitHub issues. Defines type labels (bug/feature/enhancement/docs/chore), priority levels (critical/high/medium/low), status labels, and triage decision workflow. Use when categorizing and prioritizing issues. https://github.com/poindexter12/waypoint/blob/main/workflows/skills/gh-issue-triage/SKILL.md
+- **idea-hunt** - Find and validate painful workflows AI can replace before building. https://github.com/ANVEAI/idea-hunt-skill/blob/main/SKILL.md
+- **feishu-inout** - Lark/Feishu docs, messaging, calendar & bitable integration. https://github.com/joe960913/feishu-inout/blob/main/SKILL.md
+- **public-google-drive** - Create and edit Google Docs and Sheets without Google sign-in. Documents are hosted on Memyard and viewable at shareable links. https://github.com/zagmoai/public-google-drive/blob/main/SKILL.md
+- **agentfund-mcp** (repository) - Crowdfunding for AI agents. Milestone-based escrow on Base chain for proposals, project tracking, and payments. https://github.com/RioTheGreat-ai/agentfund-mcp/blob/master/README.md
+- **moodtrip-hotel-search** - Hotel search, comparison, reviews, pricing, and booking handoff via MoodTrip.ai MCP server. 12 tools including semantic search, room matching, and price intelligence. https://github.com/adiny/moodtrip-hotel-search/blob/main/SKILL.md

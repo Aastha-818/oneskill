@@ -1,5 +1,269 @@
 # data - best rated first
 
+- **d3** (repository) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: https://github.com/d3/d3/blob/main/README.md
+- **ml-for-beginners** (repository) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all https://github.com/microsoft/ML-For-Beginners/blob/main/README.md
+- **devops-exercises** (repository) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions https://github.com/bregman-arie/devops-exercises/blob/master/README.md
+- **grafana** (repository) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. https://github.com/grafana/grafana/blob/main/README.md
+- **superset** (repository) - Apache Superset is a Data Visualization and Data Exploration Platform https://github.com/apache/superset/blob/master/README.md
+- **scikit-learn** (repository) - scikit-learn: machine learning in Python https://github.com/scikit-learn/scikit-learn/blob/main/README.md
+- **echarts** (repository) - Apache ECharts is a powerful, interactive charting and data visualization library for browser https://github.com/apache/echarts/blob/master/README.md
+- **diagram-design** (repository) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. https://github.com/cathrynlavery/diagram-design/blob/main/README.md
+- **keras** (repository) - Deep Learning for humans https://github.com/keras-team/keras/blob/master/README.md
+- **analytics-2** - Set up and audit analytics tracking and measurement pipelines. https://github.com/coreyhaines31/marketingskills/blob/main/skills/analytics/SKILL.md
+- **pandas** (repository) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more https://github.com/pandas-dev/pandas/blob/main/README.md
+- **pythondatasciencehandbook** (repository) - Python Data Science Handbook: full text in Jupyter Notebooks https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/README.md
+- **made-with-ml** (repository) - Learn how to develop, deploy and iterate on production-grade ML applications. https://github.com/GokuMohandas/Made-With-ML/blob/main/README.md
+- **pixijs** (repository) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. https://github.com/pixijs/pixijs/blob/dev/README.md
+- **airflow** (repository) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows https://github.com/apache/airflow/blob/main/README.md
+- **data-engineering-zoomcamp** (repository) - Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. Join the course here 👇🏼 https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/README.md
+- **data-engineer-handbook** (repository) - This is a repo with links to everything you'd ever want to learn about data engineering https://github.com/DataExpert-io/data-engineer-handbook/blob/main/README.md
+- **spark** (repository) - Apache Spark - A unified analytics engine for large-scale data processing https://github.com/apache/spark/blob/master/README.md
+- **ray** (repository) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. https://github.com/ray-project/ray/blob/master/README.md
+- **gradio** (repository) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work! https://github.com/gradio-app/gradio/blob/main/README.md
+- **hybrid-cloud-networking** - Configure secure, high-performance connectivity between on-premises infrastructure and cloud platforms using VPN and dedicated connections. Use when building hybrid cloud architectures, connecting data centers to cloud, or implementing secure cross-premises networking. https://github.com/wshobson/agents/blob/main/plugins/cloud-infrastructure/skills/hybrid-cloud-networking/SKILL.md
+- **ml-pipeline-workflow** - Build end-to-end MLOps pipelines from data preparation through model training, validation, and production deployment. Use when creating ML pipelines, implementing MLOps practices, or automating model training and deployment workflows. https://github.com/wshobson/agents/blob/main/plugins/machine-learning-ops/skills/ml-pipeline-workflow/SKILL.md
+- **nft-standards** - Implement NFT standards (ERC-721, ERC-1155) with proper metadata handling, minting strategies, and marketplace integration. Use when creating NFT contracts, building NFT marketplaces, or implementing digital asset systems. https://github.com/wshobson/agents/blob/main/plugins/blockchain-web3/skills/nft-standards/SKILL.md
+- **spark-optimization** - Optimize Apache Spark jobs with partitioning, caching, shuffle optimization, and memory tuning. Use when improving Spark performance, debugging slow jobs, or scaling data processing pipelines. https://github.com/wshobson/agents/blob/main/plugins/data-engineering/skills/spark-optimization/SKILL.md
+- **appinsights-instrumentation** - Instrument a webapp to send useful telemetry data to Azure App Insights. https://github.com/github/awesome-copilot/blob/main/skills/appinsights-instrumentation/SKILL.md
+- **umami** (repository) - Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud. https://github.com/umami-software/umami/blob/master/README.md
+- **data-science-for-beginners** (repository) - 10 Weeks, 20 Lessons, Data Science for All! https://github.com/microsoft/Data-Science-For-Beginners/blob/main/README.md
+- **500-ai-machine-learning-deep-learning-computer-vision-nlp-pr** (repository) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/blob/main/README.md
+- **drizzle-orm** (repository) - ORM https://github.com/drizzle-team/drizzle-orm/blob/main/README.md
+- **spacy** (repository) - 💫 Industrial-strength Natural Language Processing (NLP) in Python https://github.com/explosion/spaCy/blob/master/README.md
+- **ml-from-scratch** (repository) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning. https://github.com/eriklindernoren/ML-From-Scratch/blob/master/README.md
+- **gws-sheets** - Read and write Google Sheets spreadsheets. https://github.com/googleworkspace/cli/blob/main/skills/gws-sheets/SKILL.md
+- **pytorch-lightning** (repository) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes. https://github.com/Lightning-AI/pytorch-lightning/blob/master/README.md
+- **tqdm** (repository) - :zap: A Fast, Extensible Progress Bar for Python and CLI https://github.com/tqdm/tqdm/blob/master/README.md
+- **ai-expert-roadmap** (repository) - Roadmap to becoming an Artificial Intelligence Expert in 2022 https://github.com/AMAI-GmbH/AI-Expert-Roadmap/blob/main/README.md
+- **applied-ml** (repository) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production. https://github.com/eugeneyan/applied-ml/blob/main/README.md
+- **helm** (repository) - The Kubernetes Package Manager https://github.com/helm/helm/blob/main/README.md
+- **sequelize** (repository) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i. https://github.com/sequelize/sequelize/blob/main/README.md
+- **awesome-datascience** (repository) - :memo: An awesome Data Science repository to learn and apply for real world problems. https://github.com/academic/awesome-datascience/blob/live/README.md
+- **kestra** (repository) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions. https://github.com/kestra-io/kestra/blob/develop/README.md
+- **d2l-en** (repository) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge. https://github.com/d2l-ai/d2l-en/blob/master/README.md
+- **data-science-ipython-notebooks** (repository) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines. https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/README.md
+- **reflex** (repository) - 🕸️ Web apps in pure Python 🐍 https://github.com/reflex-dev/reflex/blob/main/README.md
+- **probabilistic-programming-and-bayesian-methods-for-hackers** (repository) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;) https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/README.md
+- **ab-test-analysis** - Analyze A/B test results with statistical significance and recommendations. https://github.com/phuryn/pm-skills/blob/main/pm-data-analytics/skills/ab-test-analysis/SKILL.md
+- **cohort-analysis** - Cohort retention curves, feature adoption, and segment insights. https://github.com/phuryn/pm-skills/blob/main/pm-data-analytics/skills/cohort-analysis/SKILL.md
+- **dummy-dataset** - Generate realistic dummy datasets in CSV, JSON, or SQL. https://github.com/phuryn/pm-skills/blob/main/pm-execution/skills/dummy-dataset/SKILL.md
+- **metrics-dashboard** - Define product metrics dashboard with sources and alert thresholds. https://github.com/phuryn/pm-skills/blob/main/pm-product-discovery/skills/metrics-dashboard/SKILL.md
+- **sql-queries-gh** - Generate SQL queries from natural language across major dialects. https://github.com/phuryn/pm-skills/blob/main/pm-data-analytics/skills/sql-queries/SKILL.md
+- **user-segmentation** - Segment users by behavior, JTBD, and needs from feedback data. https://github.com/phuryn/pm-skills/blob/main/pm-market-research/skills/user-segmentation/SKILL.md
+- **postgrest** (repository) - REST API for any Postgres database https://github.com/PostgREST/postgrest/blob/main/README.md
+- **flink** (repository) - Apache Flink https://github.com/apache/flink/blob/master/README.md
+- **yfinance** (repository) - Download market data from Yahoo! Finance's API https://github.com/ranaroussi/yfinance/blob/main/README.md
+- **fastbook** (repository) - The fastai book, published as Jupyter Notebooks https://github.com/fastai/fastbook/blob/master/README.md
+- **turso** (repository) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases. https://github.com/tursodatabase/turso/blob/main/README.md
+- **tdengine** (repository) - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios https://github.com/taosdata/TDengine/blob/main/README.md
+- **dolt** (repository) - Dolt – Git for Data https://github.com/dolthub/dolt/blob/main/README.md
+- **homemade-machine-learning** (repository) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained https://github.com/trekhleb/homemade-machine-learning/blob/master/README.md
+- **dataease** (repository) - 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. https://github.com/dataease/dataease/blob/dev-v3/README.md
+- **dash** (repository) - Data Apps & Dashboards for Python. No JavaScript Required. https://github.com/plotly/dash/blob/dev/README.md
+- **prefect** (repository) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python. https://github.com/PrefectHQ/prefect/blob/main/README.md
+- **pandas-ai** (repository) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. https://github.com/sinaptik-ai/pandas-ai/blob/main/README.md
+- **alloydb-basics** - Manages clusters, instances, and backups for AlloyDB for PostgreSQL, and integrates with AlloyDB model context protocol (MCP) tools for automated database operations. https://github.com/google/skills/blob/main/skills/cloud/alloydb-basics/SKILL.md
+- **bigquery-basics** - Manages datasets, tables, and jobs in BigQuery, and integrates with BigQuery ML and Gemini for advanced data analytics and AI-driven insights. https://github.com/google/skills/blob/main/skills/cloud/bigquery-basics/SKILL.md
+- **cloud-sql-basics** - This file generates or explains Cloud SQL resources. https://github.com/google/skills/blob/main/skills/cloud/cloud-sql-basics/SKILL.md
+- **beekeeper-studio** (repository) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, ClickHouse, and more. Linux, MacOS, and Windows. https://github.com/beekeeper-studio/beekeeper-studio/blob/master/README.md
+- **best-of-ml-python** (repository) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly. https://github.com/lukasmasuch/best-of-ml-python/blob/main/README.md
+- **timescaledb** (repository) - A time-series database for high-performance real-time analytics packaged as a Postgres extension https://github.com/timescale/timescaledb/blob/main/README.md
+- **osquery** (repository) - SQL powered operating system instrumentation, monitoring, and analytics. https://github.com/osquery/osquery/blob/master/README.md
+- **marimo** (repository) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor. https://github.com/marimo-team/marimo/blob/main/README.md
+- **matplotlib** (repository) - matplotlib: plotting with Python https://github.com/matplotlib/matplotlib/blob/main/README.md
+- **chartdb** (repository) - Database diagrams editor that allows you to visualize and design your DB with a single query. https://github.com/chartdb/chartdb/blob/main/README.md
+- **airbyte** (repository) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud. https://github.com/airbytehq/airbyte/blob/master/README.md
+- **datasets** (repository) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools https://github.com/huggingface/datasets/blob/main/README.md
+- **cube** (repository) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics https://github.com/cube-js/cube/blob/master/README.md
+- **visx** (repository) - 🐯 visx | visualization components https://github.com/airbnb/visx/blob/master/README.md
+- **shardingsphere** (repository) - Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases. https://github.com/apache/shardingsphere/blob/master/README.md
+- **server** (repository) - Bitwarden infrastructure/backend (API, database, Docker, etc). https://github.com/bitwarden/server/blob/main/README.md
+- **bokeh** (repository) - Interactive Data Visualization in the browser, from  Python https://github.com/bokeh/bokeh/blob/branch-4.0/README.md
+- **mybatis-3** (repository) - MyBatis SQL mapper framework for Java https://github.com/mybatis/mybatis-3/blob/master/README.md
+- **taipy** (repository) - Turns Data and AI algorithms into production-ready web applications in no time. https://github.com/Avaiga/taipy/blob/develop/README.md
+- **abu** (repository) - 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构 https://github.com/bbfamily/abu/blob/master/README.md
+- **plotly-js** (repository) - Open-source JavaScript charting library behind Plotly and Dash https://github.com/plotly/plotly.js/blob/main/README.md
+- **wrenai** (repository) - GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more. https://github.com/Canner/WrenAI/blob/main/README.md
+- **lightweight-charts** (repository) - Performant financial charts built with HTML5 canvas https://github.com/tradingview/lightweight-charts/blob/master/README.md
+- **argo-workflows** (repository) - Workflow Engine for Kubernetes https://github.com/argoproj/argo-workflows/blob/main/README.md
+- **ipython** (repository) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc. https://github.com/ipython/ipython/blob/main/README.md
+- **screenshot-to-code** (repository) - A neural network that transforms a design mock-up into a static website. https://github.com/emilwallner/Screenshot-to-code/blob/master/README.md
+- **dagster** (repository) - An orchestration platform for the development, production, and observation of data assets. https://github.com/dagster-io/dagster/blob/master/README.md
+- **ds-cheatsheets** (repository) - List of Data Science Cheatsheets to rule the world https://github.com/FavioVazquez/ds-cheatsheets/blob/master/README.md
+- **pygwalker** (repository) - PyGWalker: Turn your dataframe into an interactive UI for visual analysis https://github.com/Kanaries/pygwalker/blob/main/README.md
+- **weflow** (repository) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用 https://github.com/hicccc77/WeFlow/blob/main/README.md
+- **kubeflow** (repository) - The Cloud Native AI Platform https://github.com/kubeflow/kubeflow/blob/master/README.md
+- **awesome-creative-coding** (repository) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources. https://github.com/terkelg/awesome-creative-coding/blob/main/README.md
+- **tushare** (repository) - TuShare is a utility for crawling historical data of China stocks https://github.com/waditu/tushare/blob/master/README.md
+- **jupyterlab** (repository) - JupyterLab computational environment. https://github.com/jupyterlab/jupyterlab/blob/main/README.md
+- **apexcharts-js** (repository) - 📊 Interactive JavaScript Charts built on SVG https://github.com/apexcharts/apexcharts.js/blob/main/README.md
+- **sampler** (repository) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. https://github.com/sqshq/sampler/blob/master/README.md
+- **deck-gl** (repository) - WebGL2 powered visualization framework https://github.com/visgl/deck.gl/blob/master/README.md
+- **awesome-bigdata** (repository) - A curated list of awesome big data frameworks, ressources and other awesomeness. https://github.com/oxnr/awesome-bigdata/blob/master/README.md
+- **semantica** (repository) - Graph-Native Infrastructure for Context and Accountable AI Systems https://github.com/semantica-agi/semantica/blob/main/README.md
+- **python-training** (repository) - Python training for business analysts and traders https://github.com/jpmorganchase/python-training/blob/main/README.md
+- **nivo** (repository) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries https://github.com/plouc/nivo/blob/master/README.md
+- **seaborn** (repository) - Statistical data visualization in Python https://github.com/mwaskom/seaborn/blob/master/README.md
+- **dask** (repository) - Parallel computing with task scheduling https://github.com/dask/dask/blob/main/README.md
+- **fg-data-profiling** (repository) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames. https://github.com/Data-Centric-AI-Community/fg-data-profiling/blob/develop/README.md
+- **notebook** (repository) - Jupyter Interactive Notebook https://github.com/jupyter/notebook/blob/main/README.md
+- **pandas-exercises** (repository) - Practice your pandas skills! https://github.com/guipsamora/pandas_exercises/blob/master/README.md
+- **data-engineer-roadmap** (repository) - Roadmap to becoming a data engineer in 2021 https://github.com/datastacktv/data-engineer-roadmap/blob/master/README.md
+- **primeng** (repository) - The Most Complete Angular UI Component Library https://github.com/primefaces/primeng/blob/master/README.md
+- **g6** (repository) - ♾ A Graph Visualization Framework in JavaScript. https://github.com/antvis/G6/blob/v5/README.md
+- **great-expectations** (repository) - Always know what to expect from your data. https://github.com/fivetran/great_expectations/blob/develop/README.md
+- **cocoindex** (repository) - Incremental engine for long horizon agents 🌟 Star if you like it! https://github.com/cocoindex-io/cocoindex/blob/main/README.md
+- **prml** (repository) - PRML algorithms implemented in Python https://github.com/ctgk/PRML/blob/main/README.md
+- **perspective** (repository) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets. https://github.com/perspective-dev/perspective/blob/master/README.md
+- **huggingface-datasets** - Create and manage datasets with SQL querying. https://github.com/huggingface/skills/blob/main/skills/huggingface-datasets/SKILL.md
+- **victory** (repository) - A collection of composable React components for building interactive data visualizations https://github.com/FormidableLabs/victory/blob/main/README.md
+- **dashboards** (repository) - Responsive dashboard templates 📊✨ https://github.com/keen/dashboards/blob/master/README.md
+- **mlcourse-ai** (repository) - Open Machine Learning Course https://github.com/Yorko/mlcourse.ai/blob/main/README.md
+- **uplot** (repository) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars https://github.com/leeoniya/uPlot/blob/master/README.md
+- **charts** (repository) - Bitnami Helm Charts https://github.com/bitnami/charts/blob/main/README.md
+- **modin** (repository) - Modin: Scale your Pandas workflows by changing a single line of code https://github.com/modin-project/modin/blob/main/README.md
+- **jupyter-themes** (repository) - Custom Jupyter Notebook Themes https://github.com/dunovank/jupyter-themes/blob/master/README.md
+- **cudf** (repository) - cuDF - GPU DataFrame Library https://github.com/NVIDIA/cudf/blob/main/README.md
+- **kit-2** (repository) - 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇 https://github.com/HugoBlox/kit/blob/main/README.md
+- **xonsh** (repository) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly. https://github.com/xonsh/xonsh/blob/main/README.md
+- **xberg** - Extract text, tables, and metadata from 101+ document formats. https://github.com/xberg-io/xberg/blob/main/plugin/skills/xberg/SKILL.md
+- **visidata** (repository) - A terminal spreadsheet multitool for discovering and arranging data https://github.com/saulpw/visidata/blob/develop/README.md
+- **risingwave** (repository) - Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale. https://github.com/risingwavelabs/risingwave/blob/main/README.md
+- **python-for-data-analysis-2nd-chinese-version** (repository) - 《利用Python进行数据分析·第2版》 https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version/blob/master/README.md
+- **mage-ai** (repository) - 🧙 Build, run, and manage data pipelines for integrating and transforming data. https://github.com/mage-ai/mage-ai/blob/master/README.md
+- **connect** (repository) - Fancy stream processing made operationally mundane https://github.com/redpanda-data/connect/blob/main/README.md
+- **sequoia-x** (repository) - A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 https://github.com/sngyai/Sequoia-X/blob/master/README.md
+- **growthbook** (repository) - Open Source Feature Flags, Experimentation, and Product Analytics https://github.com/growthbook/growthbook/blob/main/README.md
+- **gojs** (repository) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages. https://github.com/NorthwoodsSoftware/GoJS/blob/master/README.md
+- **docker-stacks** (repository) - Ready-to-run Docker images containing Jupyter applications https://github.com/jupyter/docker-stacks/blob/main/README.md
+- **primereact** (repository) - The Most Complete React UI Component Library https://github.com/primefaces/primereact/blob/master/README.md
+- **f2** (repository) - 📱📈An elegant, interactive and flexible charting library for mobile. https://github.com/antvis/F2/blob/master/README.md
+- **tam-sam-som-calculator** - Project market size with real-world data and citations. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/tam-sam-som-calculator/SKILL.md
+- **go-echarts** (repository) - 🎨 The adorable charts library for Golang. https://github.com/go-echarts/go-echarts/blob/master/README.md
+- **fl-chart** (repository) - FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, Radar Chart and Candlestick Chart. https://github.com/imaNNeo/fl_chart/blob/main/README.md
+- **unstract** (repository) - LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows https://github.com/Zipstack/unstract/blob/main/README.md
+- **feast** (repository) - The Open Source Feature Store for AI/ML https://github.com/feast-dev/feast/blob/master/README.md
+- **py** (repository) - Repository to store sample python programs for python learning https://github.com/codebasics/py/blob/master/README.md
+- **evidence** (repository) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown https://github.com/evidence-dev/evidence/blob/main/README.md
+- **react-chartjs-2** (repository) - React components for Chart.js, the most popular charting library https://github.com/reactchartjs/react-chartjs-2/blob/master/README.md
+- **lieflat-charts** (repository) - Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。 https://github.com/larashero3-dotcom/lieflat-charts/blob/main/README.md
+- **scottplot** (repository) - Interactive plotting library for .NET https://github.com/ScottPlot/ScottPlot/blob/main/README.md
+- **ibis** (repository) - the portable Python dataframe library https://github.com/ibis-project/ibis/blob/main/README.md
+- **n8n-code-javascript** - JavaScript in n8n Code nodes with data access patterns. https://github.com/czlonkowski/n8n-skills/blob/main/skills/n8n-code-javascript/SKILL.md
+- **n8n-workflow-patterns** - Workflow patterns for webhook, HTTP, database, and AI tasks. https://github.com/czlonkowski/n8n-skills/blob/main/skills/n8n-workflow-patterns/SKILL.md
+- **charts-css** (repository) - Open source CSS framework for data visualization. https://github.com/ChartsCSS/charts.css/blob/main/README.md
+- **pixie** (repository) - Instant Kubernetes-Native Application Observability https://github.com/pixie-io/pixie/blob/main/README.md
+- **cloudquery** (repository) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources. https://github.com/cloudquery/cloudquery/blob/main/README.md
+- **chartkick** (repository) - Create beautiful JavaScript charts with one line of Ruby https://github.com/ankane/chartkick/blob/master/README.md
+- **rickshaw** (repository) - JavaScript toolkit for creating interactive real-time graphs https://github.com/shutterstock/rickshaw/blob/main/README.md
+- **papermill** (repository) - 📚 Parameterize, execute, and analyze notebooks https://github.com/nteract/papermill/blob/main/README.md
+- **remove-ai-watermarks-2** - Remove AI watermarks and provenance metadata from images you own. https://github.com/wiltodelta/remove-ai-watermarks/blob/main/skills/remove-ai-watermarks/SKILL.md
+- **browser-act-skills** (repository) - 22 browser automation skills for structured data extraction. https://github.com/browser-act/skills/blob/main/README.md
+- **deepo** (repository) - Setup and customize deep learning environment in seconds. https://github.com/ufoym/deepo/blob/master/README.md
+- **machine-learning-mindmap** (repository) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning. https://github.com/dformoso/machine-learning-mindmap/blob/master/README.md
+- **helm-charts** (repository) - Prometheus community Helm charts https://github.com/prometheus-community/helm-charts/blob/main/README.md
+- **dlt** (repository) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️ https://github.com/dlt-hub/dlt/blob/devel/README.md
+- **voila** (repository) - Voilà turns Jupyter notebooks into standalone web applications https://github.com/voila-dashboards/voila/blob/main/README.md
+- **livebook** (repository) - Automate code & data workflows with interactive Elixir notebooks https://github.com/livebook-dev/livebook/blob/main/README.md
+- **mui-x** (repository) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more! https://github.com/mui/mui-x/blob/master/README.md
+- **daft** (repository) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale https://github.com/Eventual-Inc/Daft/blob/main/README.md
+- **panel** (repository) - Panel: The powerful data exploration & web app framework for Python https://github.com/holoviz/panel/blob/main/README.md
+- **aidlearning-framework** (repository) - 🔥🔥🔥AidLearning is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high performance acceleration...Linux on Android or HarmonyOS https://github.com/aidlearning/AidLearning-FrameWork/blob/master/README.md
+- **orange3** (repository) - 🍊 :bar_chart: :bulb: Orange: Interactive data analysis https://github.com/biolab/orange3/blob/master/README.md
+- **lakefs** (repository) - lakeFS - Data version control for your data lake | Git for data https://github.com/treeverse/lakeFS/blob/master/README.md
+- **lux-2** (repository) - Automatically visualize your pandas dataframe via a single print! 📊 💡 https://github.com/lux-org/lux/blob/master/README.md
+- **nbdev** (repository) - Create delightful software with Jupyter Notebooks https://github.com/AnswerDotAI/nbdev/blob/main/README.md
+- **geopandas** (repository) - Python tools for geographic data https://github.com/geopandas/geopandas/blob/main/README.md
+- **ta** (repository) - Technical Analysis Library using Pandas and Numpy https://github.com/bukosabino/ta/blob/master/README.md
+- **jupyterlite** (repository) - Wasm powered Jupyter running in the browser 💡 https://github.com/jupyterlite/jupyterlite/blob/main/README.md
+- **deepanalyze** (repository) - DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！ https://github.com/ruc-datalab/DeepAnalyze/blob/main/README.md
+- **awesome-jupyter** (repository) - A curated list of awesome Jupyter projects, libraries and resources https://github.com/markusschanta/awesome-jupyter/blob/master/README.md
+- **rudder-server** (repository) - Privacy and Security focused Segment-alternative, in Golang and React https://github.com/rudderlabs/rudder-server/blob/master/README.md
+- **alphalens** (repository) - Performance analysis of predictive (alpha) stock factors https://github.com/quantopian/alphalens/blob/master/README.md
+- **durable-objects** - Stateful coordination with RPC, SQLite, and WebSockets. https://github.com/cloudflare/skills/blob/main/skills/durable-objects/SKILL.md
+- **supabase-postgres-best-practices** - PostgreSQL best practices for Supabase. https://github.com/supabase/agent-skills/blob/main/skills/supabase-postgres-best-practices/SKILL.md
+- **pr-create-from-body** (repository) - Creates a GitHub Pull Request for the VChart project using a local markdown file as its body. This skill exclusively uses a logged-in gh CLI environment to operate. https://github.com/VisActor/VChart/blob/develop/README.md
+- **ava** - Analyze files and databases, reuse definitions, render interactive charts. https://github.com/antvis/AVA/blob/ai/skills/ava/SKILL.md
+- **youtube-full** (repository) - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits. https://github.com/ZeroPointRepo/youtube-skills/blob/main/README.md
+- **provider-resources** - Implement Terraform Provider resources and data sources. https://github.com/hashicorp/agent-skills/blob/main/plugins/terraform/skills/provider-resources/SKILL.md
+- **itr-wala** - Prepare Indian ITR-1 through ITR-4 returns with a deterministic tax engine. https://github.com/karanb192/itr-wala/blob/main/skills/itr-wala/SKILL.md
+- **firecrawl-alexandria** - Find and run Firecrawl Alexandria tools for structured data. https://github.com/firecrawl/cli/blob/main/skills/firecrawl-alexandria/SKILL.md
+- **claimable-postgres** - Claimable Postgres database provisioning with Neon. https://github.com/neondatabase/mcp-server-neon/blob/main/.agents/skills/claimable-postgres/SKILL.md
+- **attach-db** - Attach a DuckDB database file for interactive querying. https://github.com/duckdb/duckdb-skills/blob/main/skills/attach-db/SKILL.md
+- **query-2** - Run SQL queries against attached databases or ad-hoc files. https://github.com/duckdb/duckdb-skills/blob/main/skills/query/SKILL.md
+- **funes** (repository) - Durable cross-agent memory for Claude Code, Codex, pi, and Hermes. Your memory is a Hugging Face dataset you own: recall it from any machine or share it with your team. Single binary, local index, pinned local embedding models. https://github.com/huggingface/funes/blob/main/README.md
+- **claude-code-observability-stack** (repository) - A Dockerized OpenTelemetry-to-Grafana observability stack for Claude Code that implements Anthropic's observability guidance, surfacing session activity, performance, token usage, and cost in prebuilt dashboards. https://github.com/ColeMurray/claude-code-otel/blob/main/README.md
+- **hypergrok-trading-desk** (repository) - Coordinate research, risk review, and approval-based trading on Hyperliquid. https://github.com/galleonlabs/hypergrok-trading-desk/blob/main/README.md
+- **csv-data-summarizer** - Automatically analyzes CSV files and generates comprehensive insights with visualizations without requiring user prompts. https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill/blob/main/SKILL.md
+- **zapier-zapier-mcp** (repository) - Official plugin distribution for the hosted Zapier MCP server. Connects Claude to thousands of apps — send messages, pull data, trigger workflows. https://github.com/zapier/zapier-mcp/blob/main/README.md
+- **deep-research-2** - Execute autonomous multi-step research using Gemini Deep Research Agent for market analysis, competitive landscaping, and literature reviews. https://github.com/sanjay3290/ai-skills/blob/main/skills/deep-research/SKILL.md
+- **mssql** - Safe read-only SQL queries against Microsoft SQL Server databases. https://github.com/sanjay3290/ai-skills/blob/main/skills/mssql/SKILL.md
+- **mysql** - Safe read-only SQL queries against MySQL databases. https://github.com/sanjay3290/ai-skills/blob/main/skills/mysql/SKILL.md
+- **notebooklm** - Query and manage Google NotebookLM notebooks with persistent auth, batch/multi queries, source sync, and structured exports. https://github.com/sanjay3290/ai-skills/blob/main/skills/notebooklm/SKILL.md
+- **postgres** - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security. https://github.com/sanjay3290/ai-skills/blob/main/skills/postgres/SKILL.md
+- **sanjay3290-ai-skills** (repository) - Google Workspace (Gmail, Chat, Calendar, Docs, Drive, Sheets, Slides), AI delegation (Jules, Manus, Deep Research), and database skills. https://github.com/sanjay3290/ai-skills/blob/main/README.md
+- **phpunit-skill** - Generate PHPUnit tests in PHP with data providers and mocking. https://github.com/LambdaTest/agent-skills/blob/main/phpunit-skill/SKILL.md
+- **testng-skill** - Generate TestNG tests in Java with data providers and parallel execution. https://github.com/LambdaTest/agent-skills/blob/main/testng-skill/SKILL.md
+- **ccxray** (repository) - A transparent HTTP proxy and real-time dashboard that sits between Claude Code and the Anthropic API. Captures every request and response without configuration, presenting them in a Miller-column interface with session grouping, token/cost tracking, and context-window visualization. https://github.com/lis186/ccxray/blob/main/README.md
+- **apify-reddit-scraper** - Collect Reddit posts, comments, profiles, and communities through Apify. https://github.com/apify/awesome-skills/blob/main/skills/apify-reddit-scraper/SKILL.md
+- **x-twitter-scraper** - X/Twitter data extraction for AI coding agents: tweet search, user lookup, followers, engagement metrics, giveaway draws & trending topics. https://github.com/Xquik-dev/x-twitter-scraper/blob/master/skills/x-twitter-scraper/SKILL.md
+- **makenotion-skills** (repository) - Notion API integration, database operations, and content management. https://github.com/makenotion/skills/blob/main/README.md
+- **redis-core** - Redis development best practices — data structures, query engine, vector search, caching, and performance optimization. https://github.com/redis/agent-skills/blob/main/skills/redis-core/SKILL.md
+- **kgraph57-strategy-consulting-visualization** - McKinsey-style charts and consulting slide decks. https://github.com/kgraph57/mckinsey-style-visualization-skill/blob/main/SKILL.md
+- **venice-billing** - Balance, usage, and billing analytics endpoints. https://github.com/veniceai/skills/blob/main/skills/venice-billing/SKILL.md
+- **zilliztech-mfs** (repository) - mfs-find / mfs-ingest skills that search, grep and read across your code, docs, chat (Slack/Gmail/Jira), databases and object stores as one file-like, searchable namespace; self-hosted with local ONNX embeddings. https://github.com/zilliztech/mfs/blob/main/README.md
+- **kubestellar-console** (repository) - Multi-cluster Kubernetes dashboard with 10+ built-in agent skills for performance testing, cache compliance, CI debugging, and K8s troubleshooting. MCP server bridges agents to kubeconfig and Kubernetes APIs. https://github.com/kubestellar/console/blob/main/README.md
+- **claude-control** (repository) - A native macOS Electron dashboard that auto-discovers running Claude Code CLI sessions and shows live per-session status, git changes, PR checks, and conversation previews across repos and worktrees — and can focus, send input to, approve or reject, kill, or spawn sessions from one place. Electron + https://github.com/sverrirsig/claude-control/blob/main/README.md
+- **krexa** - Research, backtest, and deploy trading strategies through Krexa. https://github.com/Krexa-xyz/skills/blob/main/skills/krexa/SKILL.md
+- **scrapingbee-cli** - Scrape any page, search the web, crawl sites, extract data. https://github.com/ScrapingBee/scrapingbee-cli/blob/main/.agents/skills/scrapingbee-cli/SKILL.md
+- **kaggle-skill** (repository) - Complete Kaggle integration — account setup, competition reports, dataset/model downloads, notebook execution, submissions, and badge collection. https://github.com/shepsci/kaggle-skill/blob/main/README.md
+- **neon-postgres** - Best practices for Neon Serverless Postgres. https://github.com/neondatabase/agent-skills/blob/main/skills/neon-postgres/SKILL.md
+- **neon-postgres-egress-optimizer** (repository) - Optimize Neon Postgres egress and data transfer. https://github.com/neondatabase/agent-skills/blob/main/README.md
+- **backtest** - Develop trading strategies and backtest them against Hyperliquid market data. https://github.com/0xArchiveIO/0xarchive-quant/blob/main/skills/backtest/SKILL.md
+- **vmware-skills-vmware-aiops** (repository) - AI-powered VMware vCenter/ESXi monitoring and operations: inventory queries, health/alarms, VM lifecycle (create, delete, snapshot, clone, migrate), vSAN management, Aria Operations analytics, and scheduled log scanning. Supports Claude Code, Gemini CLI, Codex, Aider, Trae, Kimi, and MCP. https://github.com/vmware-skills/VMware-AIops/blob/main/README.md
+- **folio-wiki** - Search, read and carefully update a self-hosted team wiki (pages, data tables, whiteboards) through the Folio MCP server. https://github.com/evergreen-it-dev/folio/blob/main/skills/folio-wiki/SKILL.md
+- **llm-analytics** (repository) - Instrument LLM calls with token usage, latency, cost tracking, and model comparison. https://github.com/PostHog/skills/blob/main/README.md
+- **agentcairn** (repository) - Long-term, cross-project memory for AI coding agents. Your own Obsidian vault as the source of truth. Daemonless and without opaque databases, your memory belongs to you. https://github.com/ccf/agentcairn/blob/main/README.md
+- **ccdash** (repository) - Open-source unified usage dashboard for Claude — track tokens, quota, costs across Claude Code, claude.ai &amp; API in one panel. 开源 Claude 全平台用量监控面板，聚合 Claude Code / claude.ai / API 数据，适用于 Pro/Max 订阅用户与开发者。https://dyp23yngrtumg.ok.kimi.link. https://github.com/zihenghe04/CCDash/blob/master/README.md
+- **alpha-insights** - Structured business research skill with strategy frameworks, evidence grading, and report output. https://github.com/Ericyoung-183/alpha-insights/blob/main/SKILL.md
+- **k-kolomeitsev-data-structure-protocol** - Graph-based long-term memory skill for AI (LLM) coding agents — faster context, fewer tokens, safer refactors. https://github.com/k-kolomeitsev/data-structure-protocol/blob/main/skills/data-structure-protocol/SKILL.md
+- **claude-persona** (repository) - Build AI persona panels for customer research, interviews, concept tests, and executive reports. https://github.com/takechanman1228/claude-persona/blob/main/README.md
+- **claude-ecom** (repository) - Generate full ecommerce business reviews from order CSVs — KPIs, diagnostics, and action plans. https://github.com/takechanman1228/claude-ecom/blob/main/README.md
+- **recursive-research** (repository) - Recursive research up to PhD level across any domain (science, tech, business, arts, humanities) with source tiering, WDM + Munger inversion for autonomous decisions, and disk checkpointing to survive context compaction. https://github.com/Anjos2/recursive-research/blob/main/README.md
+- **netlify-blobs** - Key-value object storage for files and data. https://github.com/netlify/context-and-tools/blob/main/skills/netlify-blobs/SKILL.md
+- **netlify-database** - Managed Postgres with deploy preview branching. https://github.com/netlify/context-and-tools/blob/main/skills/netlify-database/SKILL.md
+- **etl-core-patterns** - Core ETL reliability patterns including idempotency, checkpointing, error handling, chunking, retry logic, and logging. https://github.com/majesticlabs-dev/majestic-marketplace/blob/master/plugins/majestic-data/skills/etl-core-patterns/SKILL.md
+- **better-ccflare** (repository) - A well-maintained and feature-enhanced fork of the glorious ccflare usage dashboard by @snipeship. better-ccflare builds on that foundation with performance enhancements, extended provider support, bug fixes, Docker deployment, and more. https://github.com/tombii/better-ccflare/blob/main/README.md
+- **claude-scientific-skills** (repository) - Comprehensive collection of ready-to-use scientific skills, including working with specialized scientific libraries and databases. https://github.com/K-Dense-AI/claude-scientific-skills/blob/main/README.md
 - **dashboard-design** - Design a dashboard or report that people can read at a glance - choosing metrics, chart types and layout. Use for dashboards, KPI reports, analytics views and data visualisation. `skills/data/dashboard-design/SKILL.md`
 - **data-analysis** - Analyse a dataset to answer a question - cleaning, exploration, statistics and clear findings. Use for data analysis, CSV or Excel exploration, metrics investigation and insight reports. `skills/data/data-analysis/SKILL.md`
+- **invokely-statistics** - Query official statistics through Invokely's hosted MCP service, with periods, units, source citations, and comparability notes. https://github.com/estevecastells/awesome-copilot/blob/9d96d33228f753cf26d7da5115598da2c19ad900/skills/invokely-statistics/SKILL.md
+- **linear-data-handling** - Data synchronization, backup, and consistency patterns for Linear. Use when implementing data sync, creating backups, or ensuring data consistency across systems. Trigger with phrases like "linear data sync", "backup linear", "linear data consistency", "sync linear issues", "linear data export". https://github.com/jeremylongshore/claude-code-plugins-plus-skills/blob/main/plugins/saas-packs/linear-pack/skills/linear-data-handling/SKILL.md
+- **sidekick-for-max** (repository) - A VS Code extension and standalone terminal dashboard that adds visibility and AI conveniences on top of your Claude Max subscription — inline completions, code transforms, AI commit messages, plus deep session observability (token-burn, a 13-week quota heatmap, multi-account management, cross-sessi https://github.com/cesarandreslopez/sidekick-for-claude-max/blob/main/README.md
+- **single-cellphone-db** - Run omicverse's CellPhoneDB v5 wrapper on annotated single-cell data to infer ligand-receptor networks and produce CellChat-style visualisations. https://github.com/Starlitnightly/omicverse/blob/master/.claude/skills/single-cellphone-db/SKILL.md
 - **spreadsheet-modeling** - Build a clear, auditable spreadsheet model - financial model, budget, forecast or calculator - with separated inputs, formulas and outputs. Use for Excel or Google Sheets models. `skills/data/spreadsheet-modeling/SKILL.md`
+- **honeydew-ai-honeydew-ai-coding-agents-plugins** (repository) - 11 skills for the Honeydew semantic layer over Snowflake, Databricks, and BigQuery: model exploration, entity/relation/attribute/metric/context/domain creation, validation, query, filtering, and workspace branching. https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins/blob/main/README.md
+- **librarian** (repository) - A standalone MCP server that gives Claude a markdown second-brain over any Obsidian vault or folder of .md files, with trigram search, auto-wikilinks on write, and real graph analytics (Louvain communities, PageRank, shortest-path, D3 visualization). Runs entirely locally with no network calls or te https://github.com/ngmeyer/librarian-mcp/blob/main/README.md
+- **coinpaprika-api** - Crypto market data for 12K+ coins, 350+ exchanges, tickers, OHLCV, historical prices. Free, no API key. https://github.com/coinpaprika/skills/blob/main/coinpaprika-api/SKILL.md
+- **dexpaprika-api** - DEX market data across 36 chains, including pools, tokens, streaming, and OHLCV. Keyless free tier. https://github.com/coinpaprika/skills/blob/main/dexpaprika-api/SKILL.md
+- **bilig-workpaper** - Formula-backed WorkPaper skill for agents to edit cells, recalculate, verify readback, and persist JSON workbook logic without an Excel UI. https://github.com/proompteng/bilig/blob/main/skills/bilig-workpaper/SKILL.md
+- **elicitation** - Psychological profiling through natural conversation using narrative identity and Motivational Interviewing techniques. https://github.com/tasteray/skills/blob/main/elicitation/SKILL.md
+- **recommendations** - Personalized recommendations across movies, restaurants, products, travel, and jobs via the TasteRay API. https://github.com/tasteray/skills/blob/main/recommendations/SKILL.md
+- **selvedge** - Long-term memory for AI-coded codebases. A git blame for AI agents — but for the why. MCP server that captures the agent's reasoning live, in context, as each change is made. Local SQLite, zero deps. https://github.com/masondelan/selvedge/blob/main/skills/selvedge/SKILL.md
+- **tinybird-best-practices** - Tinybird project guidelines for datasources, pipes, endpoints, and SQL. https://github.com/tinybirdco/tinybird-agent-skills/blob/main/skills/tinybird-best-practices/SKILL.md
+- **claumon** (repository) - Claude Code dashboard for Pro/Max users: live rate-limit gauges, calibrated usage forecasts, session costs, memory browser. Single binary, zero config. https://github.com/fabioconcina/claumon/blob/main/README.md
+- **fish-audio** - Generate speech and clone voices with Fish Audio. https://github.com/AceDataCloud/Skills/blob/main/skills/fish-audio/SKILL.md
+- **teable-assistant-ops** - Manage Teable data, SQL queries, automations, and apps. https://github.com/teableio/agent-skills/blob/main/skills/teable-assistant-ops/SKILL.md
+- **mama** (repository) - Always-on companion for Claude that remembers your decisions and their evolution. Local-first memory       using SQLite + transformers.js embeddings. https://github.com/jungjaehoon-lifegamez/MAMA/blob/main/README.md
+- **crowdcast** - Multi-agent social simulation as a Claude Code skill. Spawns dozens of AI agents that argue, post, and react on a simulated platform, then writes a prediction report. Zero dependencies. https://github.com/TheQmaks/crowdcast/blob/main/skills/crowdcast/SKILL.md
+- **simple-man** - Strips praise, recaps and filler from agent answers while keeping every fact you act on; findings carry location and fix, tutorials stay long-form. Benchmarked on 1,793 preregistered live calls, raw records committed. https://github.com/Maksim-Burtsev/simple-man/blob/master/skills/simple-man/SKILL.md
+- **chainaware-behavioral-prediction** - ChainAware Skill for AI-powered tools to analyze wallet behaviour prediction,fraud detection and rug pull prediction. https://github.com/ChainAware/behavioral-prediction-mcp/blob/main/SKILL.md
+- **sparda** - Converts a running Express or FastAPI app into an MCP server by AST-parsing its routes and injecting a marked, byte-for-byte-removable /mcp router, so the agent can operate your live application (real auth, real data) rather than just read files. Exceptionally safety-minded: writes are disabled by d https://github.com/zakariagharzouli/sparda/blob/main/SKILL.md
+- **equibles-research** - Research US stocks through the Equibles MCP server: SEC filings, financial statements, earnings call transcripts, insider trades and 13F holdings, each figure cited to its source; works in Claude Code, Codex and other skill loaders; needs an Equibles account (free plan). https://github.com/daniel3303/stock-market-mcp-server/blob/master/skills/equibles-research/SKILL.md
+- **gh-star-history** (repository) - Visualize and compare GitHub star history as interactive charts, with regional breakdown of stargazers. https://github.com/ykdojo/gh-star-history/blob/main/README.md
+- **octav-api-skill** - Query Octav's crypto portfolio API: wallet balances, transaction history, DeFi protocol positions, and token analytics across 20+ chains. https://github.com/Octav-Labs/octav-api-skill/blob/main/SKILL.md
+- **datacircle** - Datacircle lists all the GTM APIs. Download every GTM API plan on Datacircle as one file, with a skill that tells your AI how to query it: datacircle.dev/SKILL.md. https://github.com/waynehamadi/datacircle/blob/main/skills/datacircle/SKILL.md
+- **formo-analytics** - Query Formo product and onchain analytics through MCP, CLI, or REST. https://github.com/getformo/cli/blob/main/skills/formo-analytics/SKILL.md
+- **looot** (repository) - 20 data-job skills for the looot remote MCP server: work email, phone, company enrichment, Google SERP and web page reading from one API key and prepaid balance; paid per call. https://github.com/loootai/looot-skills/blob/main/README.md
+- **ivlad003-plugins** (repository) - Query and analyze Datadog logs, metrics, monitors, and traces directly from Claude Code via REST API. https://github.com/Ivlad003/plugins/blob/main/README.md
+- **sqwakie** (repository) - CLI and per-machine daemon that let a team's Claude Code and Codex agents post to channels and ask each other across machines, as CLI verbs or MCP tools (walkiepost, walkieask, walkieinbox), over a peer-to-peer signed team log (iroh QUIC or Tailscale); a live dashboard shows what every agent is work https://github.com/alexcarney460-hue/walkie/blob/main/README.md

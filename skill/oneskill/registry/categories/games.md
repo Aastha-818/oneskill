@@ -1,0 +1,116 @@
+# games - best rated first
+
+- **godot** (repository) - Godot Engine – Multi-platform 2D and 3D game engine https://github.com/godotengine/godot/blob/master/README.md
+- **imgui** (repository) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies https://github.com/ocornut/imgui/blob/master/README.md
+- **bevy** (repository) - A refreshingly simple data-driven game engine built in Rust https://github.com/bevyengine/bevy/blob/main/README.md
+- **aseprite** (repository) - Animated sprite editor & pixel art tool (Windows, macOS, Linux) https://github.com/aseprite/aseprite/blob/main/README.md
+- **phaser** (repository) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. https://github.com/phaserjs/phaser/blob/master/README.md
+- **claude-code-game-studios** (repository) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. https://github.com/Donchitos/Claude-Code-Game-Studios/blob/main/README.md
+- **raylib** (repository) - A simple and easy-to-use library to enjoy videogames programming https://github.com/raysan5/raylib/blob/master/README.md
+- **egui** (repository) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native https://github.com/emilk/egui/blob/main/README.md
+- **gdevelop** (repository) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone. https://github.com/4ian/GDevelop/blob/master/README.md
+- **opportunity-solution-tree-2** - Build Opportunity Solution Trees based on Teresa Torres' method. https://github.com/phuryn/pm-skills/blob/main/pm-product-discovery/skills/opportunity-solution-tree/SKILL.md
+- **ilspy** (repository) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform! https://github.com/icsharpcode/ILSpy/blob/master/README.md
+- **babylon-js** (repository) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. https://github.com/BabylonJS/Babylon.js/blob/master/README.md
+- **spacetimedb** (repository) - Development at the speed of light https://github.com/clockworklabs/SpacetimeDB/blob/master/README.md
+- **libgdx** (repository) - Desktop/Android/HTML5/iOS Java game development framework https://github.com/libgdx/libgdx/blob/master/README.md
+- **3d-game-shaders-for-beginners** (repository) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game. https://github.com/lettier/3d-game-shaders-for-beginners/blob/master/README.md
+- **ml-agents** (repository) - The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning. https://github.com/Unity-Technologies/ml-agents/blob/develop/README.md
+- **cocos2d-x** (repository) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of developers across the globe. Its core has evolved to serve as the foundation for Cocos Creator 1.x & 2.x. https://github.com/cocos2d/cocos2d-x/blob/v4/README.md
+- **pyxel** (repository) - A retro game engine for Python https://github.com/kitao/pyxel/blob/main/README.md
+- **openra** (repository) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X. https://github.com/OpenRA/OpenRA/blob/bleed/README.md
+- **magictools** (repository) - :video_game: :pencil: A list of Game Development resources to make magic happen. https://github.com/ellisonleao/magictools/blob/main/README.md
+- **aframe** (repository) - :a: Web framework for building virtual reality experiences. https://github.com/aframevr/aframe/blob/master/README.md
+- **engine** (repository) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF https://github.com/playcanvas/engine/blob/main/README.md
+- **unity-mcp** (repository) - Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity. https://github.com/CoplayDev/unity-mcp/blob/beta/README.md
+- **bullet3** (repository) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc. https://github.com/bulletphysics/bullet3/blob/master/README.md
+- **monogame** (repository) - One framework for creating powerful cross-platform games. https://github.com/MonoGame/MonoGame/blob/develop/README.md
+- **openage** (repository) - Clone of the Age of Empires II engine 🚀 https://github.com/SFTtech/openage/blob/master/README.md
+- **luanti** (repository) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation https://github.com/luanti-org/luanti/blob/master/README.md
+- **nakama** (repository) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games. https://github.com/heroiclabs/nakama/blob/master/README.md
+- **ebiten** (repository) - A dead simple 2D game engine for Go https://github.com/hajimehoshi/ebiten/blob/main/README.md
+- **assimp** (repository) - The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure. https://github.com/assimp/assimp/blob/master/README.md
+- **entt** (repository) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more https://github.com/skypjack/entt/blob/main/README.md
+- **tiled** (repository) - Flexible level editor https://github.com/mapeditor/tiled/blob/master/README.md
+- **piskel** (repository) - A simple web-based tool for Spriting and Pixel art. https://github.com/piskelapp/piskel/blob/master/README.md
+- **boardgame-io** (repository) - State Management and Multiplayer Networking for Turn-Based Games https://github.com/boardgameio/boardgame.io/blob/main/README.md
+- **joltphysics** (repository) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2. https://github.com/jrouwe/JoltPhysics/blob/master/README.md
+- **unitask** (repository) - Provides an efficient allocation free async/await integration for Unity. https://github.com/Cysharp/UniTask/blob/master/README.md
+- **pixelorama** (repository) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Avai https://github.com/Orama-Interactive/Pixelorama/blob/master/README.md
+- **awesome-godot** (repository) - A curated list of free/libre plugins, scripts and add-ons for Godot https://github.com/Calinou/awesome-godot/blob/master/README.md
+- **flame** (repository) - A Flutter based game engine. https://github.com/flame-engine/flame/blob/main/README.md
+- **xlua** (repository) - xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc. https://github.com/Tencent/xLua/blob/master/README.md
+- **et** (repository) - Unity3D Client And C# Server Framework https://github.com/egametang/ET/blob/master/README.md
+- **cocos-engine** (repository) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment. https://github.com/cocos/cocos-engine/blob/v3.8.9/README.md
+- **o3de** (repository) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations. https://github.com/o3de/o3de/blob/development/README.md
+- **fyrox** (repository) - 3D and 2D game engine written in Rust https://github.com/FyroxEngine/Fyrox/blob/master/README.md
+- **il2cppdumper** (repository) - Unity il2cpp reverse engineer https://github.com/Perfare/Il2CppDumper/blob/master/README.md
+- **bepinex** (repository) - Unity / XNA game patcher and plugin framework https://github.com/BepInEx/BepInEx/blob/master/README.md
+- **jynew** (repository) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable samples of game. https://github.com/jynew/jynew/blob/main/README.md
+- **assetripper** (repository) - GUI application to analyze game files https://github.com/AssetRipper/AssetRipper/blob/master/README.md
+- **flecs** (repository) - A fast entity component system (ECS) for C & C++ https://github.com/SanderMertens/flecs/blob/master/README.md
+- **multiplayernetworkingresources** (repository) - A curated list of Multiplayer Game Network Programming Resources https://github.com/0xFA11/MultiplayerNetworkingResources/blob/master/README.md
+- **libresprite** (repository) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite https://github.com/LibreSprite/LibreSprite/blob/master/README.md
+- **horizon** (repository) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher. https://github.com/horizon-rust/horizon/blob/main/README.md
+- **gitfiti** (repository) - abusing github commit history for the lulz https://github.com/gelstudios/gitfiti/blob/main/README.md
+- **awesome-gamedev-agent-skills** (repository) - 77 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), with a router that loads the right skill for your engine and task. Runs in Claude Code, Cursor, Kiro, https://github.com/gamedev-skills/awesome-gamedev-agent-skills/blob/main/README.md
+- **pixieditor** (repository) - PixiEditor is a Universal Editor for all your 2D needs https://github.com/PixiEditor/PixiEditor/blob/master/README.md
+- **hybridclr** (repository) - HybridCLR是一个特性完整、零成本、高性能、低内存的Unity全平台原生c#热更新解决方案。 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotupdate. https://github.com/focus-creative-games/hybridclr/blob/main/README.md
+- **opportunity-solution-tree** - Generate opportunities and solutions and recommend proof-of-concept tests. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/opportunity-solution-tree/SKILL.md
+- **stride** (repository) - Stride (formerly Xenko), a free and open-source cross-platform C# game engine. https://github.com/stride3d/stride/blob/master/README.md
+- **unityurptoonlitshaderexample** (repository) - A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample/blob/master/README.md
+- **uieffect** (repository) - UIEffect is an open-source package that allows you to intuitively apply rich UI effects directly from the Inspector or via code. Combine various filters, such as grayscale, blur, and dissolve, to decorate your UI with a unique visual style! https://github.com/mob-sakai/UIEffect/blob/main/README.md
+- **entitas** (repository) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity https://github.com/sschmid/Entitas/blob/main/README.md
+- **star-office-ui** (repository) - A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only. https://github.com/ringhyacinth/Star-Office-UI/blob/master/README.md
+- **wickedengine** (repository) - 3D engine with modern graphics https://github.com/turanszkij/WickedEngine/blob/master/README.md
+- **godogen** (repository) - Autonomous game development with Claude Code and Codex https://github.com/htdt/godogen/blob/master/README.md
+- **gameframework** (repository) - This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality. https://github.com/EllanJiang/GameFramework/blob/master/README.md
+- **messagepack-csharp** (repository) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#] https://github.com/MessagePack-CSharp/MessagePack-CSharp/blob/master/README.md
+- **pixelfx** (repository) - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own. https://github.com/patch-gg/pixelfx/blob/main/README.md
+- **harmony** (repository) - A library for patching, replacing and decorating .NET and Mono methods during runtime https://github.com/pardeike/Harmony/blob/master/README.md
+- **clawd-on-desk** (repository) - A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to. https://github.com/rullerzhou-afk/clawd-on-desk/blob/main/README.md
+- **godot-mcp** (repository) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output. https://github.com/Coding-Solo/godot-mcp/blob/main/README.md
+- **unity-script-collection** (repository) - A maintained collection of useful & free unity scripts / library's / plugins and extensions https://github.com/michidk/Unity-Script-Collection/blob/master/README.md
+- **projectlearn-project-based-learning** (repository) - A curated list of project tutorials for project-based learning. https://github.com/Xtremilicious/projectlearn-project-based-learning/blob/master/README.md
+- **mirror** (repository) - #1 Open Source Unity Networking Library https://github.com/MirrorNetworking/Mirror/blob/master/README.md
+- **puerts** (repository) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript. https://github.com/Tencent/puerts/blob/master/README.md
+- **redot-engine** (repository) - Redot Engine – Multi-platform 2D and 3D game engine https://github.com/Redot-Engine/redot-engine/blob/master/README.md
+- **blockbench** (repository) - Blockbench - A low poly 3D model editor https://github.com/JannisX11/blockbench/blob/master/README.md
+- **dialogic** (repository) - 💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game! https://github.com/dialogic-godot/dialogic/blob/main/README.md
+- **open-project-1** (repository) - Unity Open Project #1: Chop Chop https://github.com/UnityTechnologies/open-project-1/blob/main/README.md
+- **mixedrealitytoolkit-unity** (repository) - This repository is for the legacy Mixed Reality Toolkit (MRTK) v2.  For the latest version of the MRTK please visit https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity https://github.com/microsoft/MixedRealityToolkit-Unity/blob/main/README.md
+- **particleeffectforugui** (repository) - Render particle effect in UnityUI(uGUI). Maskable, sortable, and no extra Camera/RenderTexture/Canvas. https://github.com/mob-sakai/ParticleEffectForUGUI/blob/main/README.md
+- **git-city** (repository) - Your GitHub profile as a 3D pixel art building in an interactive city https://github.com/srizzon/git-city/blob/main/README.md
+- **godot-docs** (repository) - Godot Engine official documentation https://github.com/godotengine/godot-docs/blob/master/README.md
+- **qframework** (repository) - Godot/Unity3D System Design Architecture https://github.com/liangxiegame/QFramework/blob/master/README.md
+- **agent-sprite-forge** (repository) - Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts. https://github.com/0x0funky/agent-sprite-forge/blob/main/README.md
+- **gdext** (repository) - Rust bindings for Godot 4 https://github.com/godot-rust/gdext/blob/master/README.md
+- **opensc2k** (repository) - OpenSC2K - Open Source remake of Sim City 2000 using rust and godot. Available for macOS, Windows and Linux https://github.com/OpenSC2K/OpenSC2K/blob/main/README.md
+- **terrain3d** (repository) - A high performance, editable terrain system for Godot 4. https://github.com/TokisanGames/Terrain3D/blob/main/README.md
+- **luban** (repository) - luban是一个强大、易用、优雅、稳定的游戏配置解决方案。luban is a powerful, easy-to-use, elegant and stable game configuration solution. https://github.com/focus-creative-games/luban/blob/main/README.md
+- **petdex** (repository) - A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more. https://github.com/crafter-station/petdex/blob/main/README.md
+- **sprite-gen** (repository) - Generate clean 2D game sprites & animation atlases — component-row pipeline: state rows, alpha cleanup, frame extraction, runtime atlases. Codex/Claude skill. https://github.com/aldegad/sprite-gen/blob/main/README.md
+- **godot-dialogue-manager** (repository) - A powerful nonlinear dialogue system for Godot https://github.com/nathanhoad/godot_dialogue_manager/blob/main/README.md
+- **sharpide** (repository) - A modern, cross platform IDE for .NET, built with .NET & Godot https://github.com/MattParkerDev/SharpIDE/blob/main/README.md
+- **thrive** (repository) - The main repository for the development of the evolution game Thrive. https://github.com/Revolutionary-Games/Thrive/blob/master/README.md
+- **godot-minimal-theme** (repository) - Godot Minimal Theme https://github.com/passivestar/godot-minimal-theme/blob/main/README.md
+- **phantom-camera** (repository) - A Camera addon for Godot 4. Inspired by Cinemachine. https://github.com/ramokz/phantom-camera/blob/main/README.md
+- **rx** (repository) - 👾 Modern and minimalist pixel editor https://github.com/cloudhead/rx/blob/master/README.md
+- **godot-ai** (repository) - Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun. https://github.com/hi-godot/godot-ai/blob/main/README.md
+- **spritefusion-pixel-snapper** (repository) - A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI. https://github.com/Hugo-Dz/spritefusion-pixel-snapper/blob/main/README.md
+- **godotoceanwaves** (repository) - FFT-based ocean-wave rendering, implemented in Godot https://github.com/2Retr0/GodotOceanWaves/blob/main/README.md
+- **beehave** (repository) - 🐝 behavior tree AI for Godot Engine https://github.com/bitbrain/beehave/blob/godot-4.x/README.md
+- **godot-open-rpg** (repository) - Learn to create turn-based combat with this Open Source RPG demo ⚔ https://github.com/gdquest-demos/godot-open-rpg/blob/main/README.md
+- **oh-my-git** (repository) - An interactive Git learning game! https://github.com/git-learning-game/oh-my-git/blob/main/README.md
+- **learn-gdscript** (repository) - Learn Godot's GDScript programming language from zero, right in your browser, for free. https://github.com/GDQuest/learn-gdscript/blob/main/README.md
+- **godsvg** (repository) - A vector graphics application for structured SVG editing, available on all major desktop platforms and on web. Currently in late alpha. https://github.com/MewPurPur/GodSVG/blob/main/README.md
+- **img2css** (repository) - Convert any image to pure CSS. Recreates images using only box-shadows. https://github.com/javierbyte/img2css/blob/main/README.md
+- **obelisk-js** (repository) - Build pixel isometric graphics with HTML5 canvas https://github.com/nosir/obelisk.js/blob/master/README.md
+- **cytopia** (repository) - :deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game https://github.com/CytopiaTeam/Cytopia/blob/master/README.md
+- **pixel8** (repository) - A collection of low-res primitives for creating art and games in React https://github.com/vsmode/pixel8/blob/master/README.md
+- **was-node-suite-comfyui** (repository) - WAS-NS v3 Reborn; Tools for image processing, filters, masking, text, logic, numbers, latents, files, 3D scenes, and animation. https://github.com/WASasquatch/was-node-suite-comfyui/blob/main/README.md
+- **jumpy** (repository) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 https://github.com/fishfolk/jumpy/blob/main/README.md
+- **starnet** (repository) - A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. https://github.com/androoAGI/starnet/blob/feat/harness-backend/README.md
+- **pixelit** (repository) - Create pixel art from an image https://github.com/giventofly/pixelit/blob/master/README.md
+- **hypersomnia** (repository) - Multiplayer top-down shooter made from scratch in C++. Web version: https://play.hypersomnia.io Made in 🇵🇱 https://github.com/TeamHypersomnia/Hypersomnia/blob/master/README.md
+- **worldx** (repository) - One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on their own. 一句话生成一个AI自主驱动的世界. https://github.com/YGYOOO/WorldX/blob/main/README.md

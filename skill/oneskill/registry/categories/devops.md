@@ -1,0 +1,162 @@
+# devops - best rated first
+
+- **kubernetes** (repository) - Production-Grade Container Scheduling and Management https://github.com/kubernetes/kubernetes/blob/master/README.md
+- **the-book-of-secret-knowledge** (repository) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md
+- **stirling-pdf** (repository) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere https://github.com/Stirling-Tools/Stirling-PDF/blob/main/README.md
+- **uptime-kuma** (repository) - A fancy self-hosted monitoring tool https://github.com/louislam/uptime-kuma/blob/master/README.md
+- **mall** (repository) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 https://github.com/macrozheng/mall/blob/master/README.md
+- **act** (repository) - Run your GitHub Actions locally 🚀 https://github.com/nektos/act/blob/main/README.md
+- **moby** (repository) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems https://github.com/moby/moby/blob/master/README.md
+- **vaultwarden** (repository) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs https://github.com/dani-garcia/vaultwarden/blob/main/README.md
+- **prometheus** (repository) - The Prometheus monitoring system and time series database. https://github.com/prometheus/prometheus/blob/main/README.md
+- **coolify** (repository) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers. https://github.com/coollabsio/coolify/blob/main/README.md
+- **traefik** (repository) - The Cloud Native Application Proxy https://github.com/traefik/traefik/blob/master/README.md
+- **memos** (repository) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share. https://github.com/usememos/memos/blob/main/README.md
+- **plane** (repository) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. https://github.com/makeplane/plane/blob/preview/README.md
+- **gitea** (repository) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD https://github.com/go-gitea/gitea/blob/main/README.md
+- **appwrite** (repository) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more https://github.com/appwrite/appwrite/blob/main/README.md
+- **windows** (repository) - Windows inside a Docker container. https://github.com/dockur/windows/blob/master/README.md
+- **docker-osx** (repository) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. https://github.com/sickcodes/Docker-OSX/blob/master/README.md
+- **shannon** (repository) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. https://github.com/KeygraphHQ/shannon/blob/main/README.md
+- **mastodon** (repository) - Your self-hosted, globally interconnected microblogging community https://github.com/mastodon/mastodon/blob/main/README.md
+- **huginn** (repository) - Create agents that monitor and act on your behalf.  Your agents are standing by! https://github.com/huginn/huginn/blob/master/README.md
+- **terraform** (repository) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. https://github.com/hashicorp/terraform/blob/main/README.md
+- **gogs** (repository) - The painless way to host your own Git service https://github.com/gogs/gogs/blob/main/README.md
+- **astrbot** (repository) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ https://github.com/AstrBotDevs/AstrBot/blob/master/README.md
+- **full-stack-fastapi-template** (repository) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose. https://github.com/fastapi/full-stack-fastapi-template/blob/master/README.md
+- **sentry** (repository) - Developer-first error tracking and performance monitoring https://github.com/getsentry/sentry/blob/master/README.md
+- **pm2** (repository) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer. https://github.com/Unitech/pm2/blob/master/README.md
+- **gitlab-ci-patterns** - Build GitLab CI/CD pipelines with multi-stage workflows, caching, and distributed runners for scalable automation. Use when implementing GitLab CI/CD, optimizing pipeline performance, or setting up automated testing and deployment. https://github.com/wshobson/agents/blob/main/plugins/cicd-automation/skills/gitlab-ci-patterns/SKILL.md
+- **istio-traffic-management** - Configure Istio traffic management including routing, load balancing, circuit breakers, and canary deployments. Use when implementing service mesh traffic policies, progressive delivery, or resilience patterns. https://github.com/wshobson/agents/blob/main/plugins/cloud-infrastructure/skills/istio-traffic-management/SKILL.md
+- **risk-metrics-calculation** - Calculate portfolio risk metrics including VaR, CVaR, Sharpe, Sortino, and drawdown analysis. Use when measuring portfolio risk, implementing risk limits, or building risk monitoring systems. https://github.com/wshobson/agents/blob/main/plugins/quantitative-trading/skills/risk-metrics-calculation/SKILL.md
+- **outline** (repository) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. https://github.com/outline/outline/blob/main/README.md
+- **tooljet** (repository) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀 https://github.com/ToolJet/ToolJet/blob/main/README.md
+- **chatwoot** (repository) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 https://github.com/chatwoot/chatwoot/blob/develop/README.md
+- **trivy** (repository) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more https://github.com/aquasecurity/trivy/blob/main/README.md
+- **harness** (repository) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. https://github.com/harness/harness/blob/main/README.md
+- **portainer** (repository) - Making Docker and Kubernetes management easy. https://github.com/portainer/portainer/blob/release/2.45/README.md
+- **compose** (repository) - Define and run multi-container applications with Docker https://github.com/docker/compose/blob/main/README.md
+- **dokploy** (repository) - Open Source Alternative to Vercel, Netlify and Heroku. https://github.com/Dokploy/dokploy/blob/canary/README.md
+- **glance** (repository) - A self-hosted dashboard that puts all your feeds in one place https://github.com/glanceapp/glance/blob/main/README.md
+- **seaweedfs** (repository) - SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortless horizontal scaling. https://github.com/seaweedfs/seaweedfs/blob/master/README.md
+- **changedetection-io** (repository) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring— MCP included! all for free or enjoy our SaaS plan! https://github.com/dgtlmoon/changedetection.io/blob/master/README.md
+- **awesome-sysadmin** (repository) - A curated list of amazingly awesome open-source sysadmin resources. https://github.com/awesome-foss/awesome-sysadmin/blob/master/README.md
+- **k9s** (repository) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! https://github.com/derailed/k9s/blob/master/README.md
+- **k3s** (repository) - Lightweight Kubernetes https://github.com/k3s-io/k3s/blob/main/README.md
+- **glances** (repository) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems. https://github.com/nicolargo/glances/blob/develop/README.md
+- **deploy-to-vercel** - Deploy applications and websites to Vercel. https://github.com/vercel-labs/agent-skills/blob/main/skills/deploy-to-vercel/SKILL.md
+- **vercel-cli-with-tokens** - Deploy and manage Vercel projects with token authentication. https://github.com/vercel-labs/agent-skills/blob/main/skills/vercel-cli-with-tokens/SKILL.md
+- **podman** (repository) - Podman: A tool for managing OCI containers and pods. https://github.com/podman-container-tools/podman/blob/main/README.md
+- **signoz** (repository) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) i https://github.com/SigNoz/signoz/blob/main/README.md
+- **minikube** (repository) - Run Kubernetes locally https://github.com/kubernetes/minikube/blob/master/README.md
+- **dokku** (repository) - A docker-powered PaaS that helps you build and manage the lifecycle of applications https://github.com/dokku/dokku/blob/master/README.md
+- **colima** (repository) - Container runtimes on macOS (and Linux) with minimal setup https://github.com/abiosoft/colima/blob/main/README.md
+- **floci** (repository) - Light, fluffy, and always free - The AWS Local Emulator alternative https://github.com/floci-io/floci/blob/main/README.md
+- **gitleaks** (repository) - Find secrets with Gitleaks 🔑 https://github.com/gitleaks/gitleaks/blob/master/README.md
+- **90daysofdevops** (repository) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic. https://github.com/MichaelCade/90DaysOfDevOps/blob/main/README.md
+- **infisical** (repository) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents. https://github.com/Infisical/infisical/blob/main/README.md
+- **consul** (repository) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. https://github.com/hashicorp/consul/blob/main/README.md
+- **harbor** (repository) - An open source trusted cloud native registry project that stores, signs, and scans content. https://github.com/goharbor/harbor/blob/main/README.md
+- **beszel** (repository) - Lightweight server monitoring with historical data, docker stats, and alerts. https://github.com/henrygd/beszel/blob/main/README.md
+- **jenkins** (repository) - Jenkins automation server https://github.com/jenkinsci/jenkins/blob/master/README.md
+- **docker-practice** (repository) - 最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps practice! https://github.com/yeasy/docker_practice/blob/master/README.md
+- **cilium** (repository) - eBPF-based Networking, Security, and Observability https://github.com/cilium/cilium/blob/main/README.md
+- **argo-cd** (repository) - Declarative Continuous Deployment for Kubernetes https://github.com/argoproj/argo-cd/blob/master/README.md
+- **cloud-run-basics** - Manages Cloud Run services, jobs, and worker pools. https://github.com/google/skills/blob/main/skills/cloud/cloud-run-basics/SKILL.md
+- **firebase-basics** - Use this skill whenever you are working on a project that uses Firebase products or services, especially for mobile or web apps. https://github.com/google/skills/blob/main/skills/cloud/firebase-basics/SKILL.md
+- **gke-basics** - Plan, create, and configure production-ready Google Kubernetes Engine (GKE) clusters using the golden path Autopilot configuration. https://github.com/google/skills/blob/main/skills/cloud/gke-basics/SKILL.md
+- **google-cloud-networking-observability** - Investigates Google Cloud networking issues by analyzing logs, metrics, and diagnostics. https://github.com/google/skills/blob/main/skills/cloud/google-cloud-networking-observability/SKILL.md
+- **google-cloud-recipe-auth** - Provides expert guidance on authenticating and authorizing to Google Cloud services and APIs, covering human users, service identities, Application Default Credentials (ADC), and b. https://github.com/google/skills/blob/main/skills/cloud/google-cloud-recipe-auth/SKILL.md
+- **google-cloud-recipe-onboarding** - Guidance for a developer's first steps on Google Cloud, covering account creation, billing setup, project management, and deploying a first resource. https://github.com/google/skills/blob/main/skills/cloud/google-cloud-recipe-onboarding/SKILL.md
+- **sops** (repository) - Simple and flexible tool for managing secrets https://github.com/getsops/sops/blob/main/README.md
+- **lens** (repository) - Lens - The way the world runs Kubernetes https://github.com/lensapp/lens/blob/lens-desktop/README.md
+- **openobserve** (repository) - Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment. https://github.com/openobserve/openobserve/blob/main/README.md
+- **witr** (repository) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI. https://github.com/pranshuparmar/witr/blob/main/README.md
+- **vector** (repository) - A high-performance observability data pipeline. https://github.com/vectordotdev/vector/blob/master/README.md
+- **goaccess** (repository) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. https://github.com/allinurl/goaccess/blob/master/README.md
+- **devops-roadmap** (repository) - DevOps Roadmap for 2026. with learning resources https://github.com/milanm/DevOps-Roadmap/blob/master/README.md
+- **dokit** (repository) - 一款面向泛前端产品研发全生命周期的效率平台。 https://github.com/didi/DoKit/blob/master/README.md
+- **bettercap** (repository) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks. https://github.com/bettercap/bettercap/blob/master/README.md
+- **gobooks** (repository) - List of Golang books https://github.com/dariubs/GoBooks/blob/master/README.md
+- **fail2ban** (repository) - Daemon to ban hosts that cause multiple authentication errors https://github.com/fail2ban/fail2ban/blob/master/README.md
+- **cat** (repository) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。 https://github.com/dianping/cat/blob/master/README.md
+- **victoriametrics** (repository) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database https://github.com/VictoriaMetrics/VictoriaMetrics/blob/master/README.md
+- **telegraf** (repository) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. https://github.com/influxdata/telegraf/blob/master/README.md
+- **ctop** (repository) - Top-like interface for container metrics https://github.com/bcicen/ctop/blob/master/README.md
+- **wtf** (repository) - The personal information dashboard for your terminal https://github.com/wtfutil/wtf/blob/trunk/README.md
+- **kubesphere** (repository) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ https://github.com/kubesphere/kubesphere/blob/master/README.md
+- **lynis** (repository) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. https://github.com/CISOfy/lynis/blob/master/README.md
+- **task** (repository) - A fast, cross-platform build tool inspired by Make, designed for modern workflows. https://github.com/go-task/task/blob/main/README.md
+- **salt** (repository) - Software to automate the management and configuration of infrastructure and applications at scale. https://github.com/saltstack/salt/blob/master/README.md
+- **onedev** (repository) - The Unified and Autonomous Development Platform https://github.com/theonedev/onedev/blob/main/README.md
+- **aws-cdk** (repository) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code https://github.com/aws/aws-cdk/blob/main/README.md
+- **opensre** (repository) - The open-source agent for CI/CD reliability. https://github.com/Tracer-Cloud/opensre/blob/main/README.md
+- **infracost** (repository) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left! https://github.com/infracost/infracost/blob/master/README.md
+- **meshery** (repository) - Meshery, the cloud native manager https://github.com/meshery/meshery/blob/master/README.md
+- **earthly** (repository) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby. https://github.com/earthly/earthly/blob/main/README.md
+- **devops-guide** (repository) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently. https://github.com/Tikam02/DevOps-Guide/blob/master/README.md
+- **checkov** (repository) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew. https://github.com/bridgecrewio/checkov/blob/main/README.md
+- **origin** (repository) - Conformance test suite for OpenShift https://github.com/openshift/origin/blob/main/README.md
+- **goad** (repository) - game of active directory https://github.com/Orange-Cyberdefense/GOAD/blob/main/README.md
+- **concourse** (repository) - Concourse is a container-based automation system written in Go. It's mostly used for CI/CD. https://github.com/concourse/concourse/blob/master/README.md
+- **gocd** (repository) - GoCD - Continuous Delivery server main repository https://github.com/gocd/gocd/blob/master/README.md
+- **compose-examples** (repository) - Various Docker Compose examples of selfhosted FOSS and proprietary projects. https://github.com/Haxxnet/Compose-Examples/blob/main/README.md
+- **tfsec** (repository) - Tfsec is now part of Trivy https://github.com/aquasecurity/tfsec/blob/master/README.md
+- **devsecops** (repository) - Ultimate DevSecOps library https://github.com/sottlmarek/DevSecOps/blob/master/README.md
+- **awesome-tf** (repository) - Curated list of resources on HashiCorp's Terraform and OpenTofu https://github.com/shuaibiyy/awesome-tf/blob/master/README.md
+- **digger** (repository) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️ https://github.com/diggerhq/digger/blob/develop/README.md
+- **werf** (repository) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices. https://github.com/werf/werf/blob/main/README.md
+- **kubero** (repository) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes https://github.com/kubero-dev/kubero/blob/main/README.md
+- **google-gemini-vertex-ai-api-dev** (repository) - Developing Gemini apps on Google Cloud Vertex AI. https://github.com/google-gemini/gemini-skills/blob/main/README.md
+- **llm-twin-course** (repository) - 🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best practices: ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 12 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘭𝘦𝘴𝘴𝘰𝘯𝘴 https://github.com/decodingai-magazine/llm-twin-course/blob/main/README.md
+- **cml** (repository) - ♾️ CML - Continuous Machine Learning | CI/CD for ML https://github.com/iterative/cml/blob/main/README.md
+- **moon** (repository) - A build system and monorepo management tool for the web ecosystem, written in Rust. https://github.com/moonrepo/moon/blob/master/README.md
+- **cloudai-x-threejs-skills** (repository) - Three.js skills for creating 3D elements and interactive experiences. https://github.com/CloudAI-X/threejs-skills/blob/main/README.md
+- **eas-hosting** - Deploy Expo apps to production. https://github.com/expo/skills/blob/main/plugins/expo/skills/eas-hosting/SKILL.md
+- **dnscontrol** (repository) - Infrastructure as code for DNS! https://github.com/DNSControl/dnscontrol/blob/main/README.md
+- **gitkube** (repository) - Build and deploy docker images to Kubernetes using git push https://github.com/hasura/gitkube/blob/master/README.md
+- **octodns** (repository) - Tools for managing DNS across multiple providers https://github.com/octodns/octodns/blob/main/README.md
+- **paths-filter** (repository) - Conditionally run actions based on files modified by PR, feature branch or pushed commits https://github.com/dorny/paths-filter/blob/master/README.md
+- **web-perf** - Audit Core Web Vitals and render-blocking resources. https://github.com/cloudflare/skills/blob/main/skills/web-perf/SKILL.md
+- **wrangler** - Deploy and manage Workers, KV, R2, D1, Vectorize, Queues, Workflows. https://github.com/cloudflare/skills/blob/main/skills/wrangler/SKILL.md
+- **devops** (repository) - I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their DevOps journey. https://github.com/Pradumnasaraf/DevOps/blob/main/README.md
+- **vps-audit** (repository) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers. https://github.com/nuver-labs/vps-audit/blob/main/README.md
+- **create-pull-request** (repository) - A GitHub action to create a pull request for changes to your repository in the actions workspace https://github.com/peter-evans/create-pull-request/blob/main/README.md
+- **open-ontologies** (repository) - Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check. https://github.com/fabio-rovai/open-ontologies/blob/main/README.md
+- **database-lab-engine** (repository) - DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software quality. Follow to stay updated. https://github.com/postgres-ai/database-lab-engine/blob/master/README.md
+- **erda** (repository) - An enterprise-grade Cloud-Native application platform for Kubernetes. https://github.com/erda-project/erda/blob/master/README.md
+- **changed-files** (repository) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories. https://github.com/tj-actions/changed-files/blob/main/README.md
+- **kics** (repository) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx. https://github.com/Checkmarx/kics/blob/master/README.md
+- **astra** (repository) - Automated Security Testing For REST API's https://github.com/flipkart-incubator/Astra/blob/master/README.md
+- **driftctl** (repository) - Detect, track and alert on infrastructure drift https://github.com/snyk/driftctl/blob/main/README.md
+- **architect** (repository) - The simplest, most powerful way to build a functional web app (fwa) https://github.com/architect/architect/blob/main/README.md
+- **managing-devops-pipeline** - Manage BlueKing CI pipeline build operations, including querying build history, retrieving startup parameters, checking build status, and triggering builds. Use when the user mentions pipelines, builds, deployments, CI/CD, BlueKing, or needs to trigger a build job. https://github.com/TencentBlueKing/bk-ci/blob/master/ai/skills/managing-devops-pipeline/SKILL.md
+- **awesome-argo** (repository) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project) https://github.com/akuity/awesome-argo/blob/main/README.md
+- **pytest-testinfra** (repository) - Testinfra test your infrastructures https://github.com/pytest-dev/pytest-testinfra/blob/main/README.md
+- **cheat-sheet-pdf** (repository) - 📜 A Cheat-Sheet Collection from the WWW https://github.com/sk3pp3r/cheat-sheet-pdf/blob/master/README.md
+- **antonbabenko-terraform-skill** - Terraform and OpenTofu patterns: testing, modules, state, CI/CD. https://github.com/antonbabenko/terraform-skill/blob/master/skills/terraform-skill/SKILL.md
+- **terraform-skill** (repository) - Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns https://github.com/antonbabenko/terraform-skill/blob/master/README.md
+- **kcl** (repository) - KCL Language Core and API https://github.com/kcl-lang/kcl/blob/main/README.md
+- **devops-bootcamp** (repository) - This repository consists of the code samples, assignments, and notes for the DevOps bootcamp of WeMakeDevs. https://github.com/kunal-kushwaha/DevOps-Bootcamp/blob/main/README.md
+- **terracognita** (repository) - Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration https://github.com/cycloidio/terracognita/blob/master/README.md
+- **jpom** (repository) - 【dromara】🚀简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件 https://github.com/dromara/Jpom/blob/master/README.md
+- **trading-signal** - Monitor on-chain Smart Money buy/sell signals. https://github.com/binance/binance-skills-hub/blob/main/skills/binance-web3/trading-signal/SKILL.md
+- **rorkai-app-store-connect-cli-skills** (repository) - Automate App Store deployments and management using ASC CLI. https://github.com/rorkai/app-store-connect-cli-skills/blob/main/README.md
+- **new-terraform-provider** - Scaffold a new Terraform provider project using the Plugin Framework. https://github.com/hashicorp/agent-skills/blob/main/plugins/terraform/skills/new-terraform-provider/SKILL.md
+- **provider-test-patterns** - Acceptance test patterns for Terraform providers. https://github.com/hashicorp/agent-skills/blob/main/plugins/terraform/skills/provider-test-patterns/SKILL.md
+- **refactor-module** - Transform monolithic Terraform configurations into reusable modules. https://github.com/hashicorp/agent-skills/blob/main/plugins/terraform/skills/refactor-module/SKILL.md
+- **terraform-stacks** - Manage infrastructure across multiple environments, regions, and cloud accounts. https://github.com/hashicorp/agent-skills/blob/main/plugins/terraform/skills/terraform-stacks/SKILL.md
+- **terraform-style-guide** - Generate Terraform HCL code following HashiCorp's official style conventions. https://github.com/hashicorp/agent-skills/blob/main/plugins/terraform/skills/terraform-style-guide/SKILL.md
+- **cicd-pipeline-skill** - Generate CI/CD pipelines for tests on GitHub Actions, Jenkins, GitLab CI, and Azure DevOps. https://github.com/LambdaTest/agent-skills/blob/main/cicd-pipeline-skill/SKILL.md
+- **cloud-finops** (repository) - FinOps knowledge: cloud billing mechanics, commitments, allocation, AI spend. https://github.com/OptimNow/cloud-finops-skills/blob/main/README.md
+- **netlify-deploy-2** - Automated deployment workflow for Netlify sites. https://github.com/netlify/context-and-tools/blob/main/skills/netlify-deploy/SKILL.md
+- **aws-serverless** - Lambda, API Gateway, DynamoDB. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/aws-serverless/SKILL.md
+- **clerk-observability** - Implement monitoring, logging, and observability for Clerk authentication. Use when setting up monitoring, debugging auth issues in production, or implementing audit logging. Trigger with phrases like "clerk monitoring", "clerk logging", "clerk observability", "clerk metrics", "clerk audit log". https://github.com/jeremylongshore/claude-code-plugins-plus-skills/blob/main/plugins/saas-packs/clerk-pack/skills/clerk-observability/SKILL.md
+- **firebase** - Firebase Auth, Firestore, Cloud Functions. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/firebase/SKILL.md
+- **granola-deploy-integration** - Deploy Granola integrations to Slack, Notion, HubSpot, and other apps. Use when connecting Granola to productivity tools, setting up native integrations, or configuring auto-sync. Trigger with phrases like "granola slack", "granola notion", "granola hubspot", "granola integration", "connect granola" https://github.com/jeremylongshore/claude-code-plugins-plus-skills/blob/main/plugins/saas-packs/granola-pack/skills/granola-deploy-integration/SKILL.md
+- **openrouter-debug-bundle** - Execute set up comprehensive logging and debugging for OpenRouter. Use when investigating issues or monitoring requests. Trigger with phrases like 'openrouter debug', 'openrouter logging', 'openrouter trace', 'monitor openrouter'. https://github.com/jeremylongshore/claude-code-plugins-plus-skills/blob/main/plugins/saas-packs/openrouter-pack/skills/openrouter-debug-bundle/SKILL.md
+- **terraform-provider-config** - Configure terraform provider config operations. Auto-activating skill for DevOps Advanced. Triggers on: terraform provider config, terraform provider config Part of the DevOps Advanced skill category. Use when configuring systems or services. Trigger with phrases like "terraform provider config", "t https://github.com/jeremylongshore/claude-code-plugins-plus-skills/blob/main/skills/02-devops-advanced/terraform-provider-config/SKILL.md
+- **vercel-deployment** - Vercel deployment and edge functions. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/vercel-deployment/SKILL.md
+- **hermes-tweet** - Hermes-native plugin for X (Twitter) search, posting, monitoring, DMs, and automation. https://github.com/Xquik-dev/hermes-tweet/blob/master/skills/hermes-tweet/SKILL.md
+- **skill-md-21** - Deploy web projects with verified previews and confirmed production releases. https://github.com/d1vai/d1v-cli/blob/main/skills/d1v/SKILL.md
+- **appdeploy-ai-skills** (repository) - Deploy apps with full stack and get a live URL back. https://github.com/AppDeploy-AI/skills/blob/main/README.md

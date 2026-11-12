@@ -1,0 +1,172 @@
+# backend - best rated first
+
+- **nodebestpractices** (repository) - ✅ The Node.js best practices list (July 2026) https://github.com/goldbergyoni/nodebestpractices/blob/master/README.md
+- **supabase** (repository) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. https://github.com/supabase/supabase/blob/master/README.md
+- **netdata** (repository) - The fastest path to AI-powered full stack observability, even for lean teams. https://github.com/netdata/netdata/blob/master/README.md
+- **hoppscotch** (repository) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia https://github.com/hoppscotch/hoppscotch/blob/main/README.md
+- **github-readme-stats** (repository) - :zap: Dynamically generated stats for your github readmes https://github.com/anuraghazra/github-readme-stats/blob/master/README.md
+- **30-days-of-python** (repository) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw https://github.com/Asabeneh/30-Days-Of-Python/blob/master/README.md
+- **redis** (repository) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine. https://github.com/redis/redis/blob/unstable/README.md
+- **nest** (repository) - A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀 https://github.com/nestjs/nest/blob/master/README.md
+- **strapi** (repository) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. https://github.com/strapi/strapi/blob/develop/README.md
+- **twenty** (repository) - The open alternative to Salesforce, designed for AI. https://github.com/twentyhq/twenty/blob/main/README.md
+- **meilisearch** (repository) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. https://github.com/meilisearch/meilisearch/blob/main/README.md
+- **gatsby** (repository) - React-based framework with performance, scalability, and security built in. https://github.com/gatsbyjs/gatsby/blob/master/README.md
+- **etcd** (repository) - Distributed reliable key-value store for the most critical data of a distributed system https://github.com/etcd-io/etcd/blob/main/README.md
+- **prettier** (repository) - Prettier is an opinionated code formatter. https://github.com/prettier/prettier/blob/main/README.md
+- **dbeaver** (repository) - Free universal database tool and SQL client https://github.com/dbeaver/dbeaver/blob/devel/README.md
+- **clickhouse** (repository) - ClickHouse® is a real-time analytics database management system https://github.com/ClickHouse/ClickHouse/blob/master/README.md
+- **query** (repository) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query. https://github.com/TanStack/query/blob/main/README.md
+- **metabase** (repository) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: https://github.com/metabase/metabase/blob/master/README.md
+- **awesome-design-patterns** (repository) - A curated list of software and architecture related design patterns. https://github.com/DovAmir/awesome-design-patterns/blob/master/README.md
+- **orm** (repository) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute. https://github.com/prisma/orm/blob/main/README.md
+- **serverless** (repository) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services. https://github.com/serverless/serverless/blob/main/README.md
+- **system-design** (repository) - Learn how to design systems at scale and prepare for system design interviews https://github.com/karanpratapsingh/system-design/blob/main/README.md
+- **awesome-cheatsheets** (repository) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. https://github.com/LeCoupa/awesome-cheatsheets/blob/master/README.md
+- **payload** (repository) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. https://github.com/payloadcms/payload/blob/main/README.md
+- **kong** (repository) - 🦍 The API and AI Gateway https://github.com/Kong/kong/blob/master/README.md
+- **duckdb** (repository) - DuckDB is a high-performance analytical database system https://github.com/duckdb/duckdb/blob/main/README.md
+- **dubbo** (repository) - The java implementation of Apache Dubbo. An RPC and microservice framework. https://github.com/apache/dubbo/blob/3.3/README.md
+- **tidb** (repository) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling. https://github.com/pingcap/tidb/blob/master/README.md
+- **drawdb** (repository) - Free, simple, and intuitive online database diagram editor and SQL generator. https://github.com/drawdb-io/drawdb/blob/main/README.md
+- **insomnia** (repository) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage. https://github.com/Kong/insomnia/blob/develop/README.md
+- **sqlmap** (repository) - Automatic SQL injection and database takeover tool https://github.com/sqlmapproject/sqlmap/blob/master/README.md
+- **directus** (repository) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. https://github.com/directus/directus/blob/main/README.md
+- **istio** (repository) - Connect, secure, control, and observe services. https://github.com/istio/istio/blob/master/README.md
+- **interview** (repository) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, in https://github.com/huihut/interview/blob/master/README.md
+- **firecracker** (repository) - Secure and fast microVMs for serverless computing. https://github.com/firecracker-microvm/firecracker/blob/main/README.md
+- **typeorm** (repository) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more. https://github.com/typeorm/typeorm/blob/master/README.md
+- **sheetjs** (repository) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs https://github.com/SheetJS/sheetjs/blob/github/README.md
+- **refine** (repository) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility. https://github.com/refinedev/refine/blob/main/README.md
+- **backstage** (repository) - Backstage is an open framework for building developer portals https://github.com/backstage/backstage/blob/master/README.md
+- **pentagi** (repository) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks https://github.com/vxcontrol/pentagi/blob/main/README.md
+- **nacos** (repository) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. https://github.com/alibaba/nacos/blob/develop/README.md
+- **go-zero** (repository) - A cloud-native Go microservices framework with cli tool for productivity. https://github.com/zeromicro/go-zero/blob/master/README.md
+- **surrealdb** (repository) - A scalable, distributed, collaborative, document-graph database, for the realtime web https://github.com/surrealdb/surrealdb/blob/main/README.md
+- **cockroach** (repository) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement. https://github.com/cockroachdb/cockroach/blob/master/README.md
+- **rocksdb** (repository) - A library that provides an embeddable, persistent key-value store for fast storage. https://github.com/meta/rocksdb/blob/main/README.md
+- **graphql-engine** (repository) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events. https://github.com/hasura/graphql-engine/blob/master/README.md
+- **dragonfly** (repository) - A modern replacement for Redis and Memcached https://github.com/dragonflydb/dragonfly/blob/main/README.md
+- **influxdb** (repository) - Scalable datastore for metrics, events, and real-time analytics https://github.com/influxdata/influxdb/blob/main/README.md
+- **better-auth** (repository) - The most comprehensive authentication framework https://github.com/better-auth/better-auth/blob/main/README.md
+- **dbx** (repository) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 https://github.com/t8y2/dbx/blob/main/README.md
+- **apollo** (repository) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. https://github.com/apolloconfig/apollo/blob/master/README.md
+- **chroma** (repository) - Search infrastructure for AI https://github.com/chroma-core/chroma/blob/main/README.md
+- **authelia** (repository) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready. https://github.com/authelia/authelia/blob/master/README.md
+- **hey-xyz** (repository) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿 https://github.com/slymnoyann/hey.xyz/blob/main/README.md
+- **spring-cloud-alibaba** (repository) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware. https://github.com/alibaba/spring-cloud-alibaba/blob/2025.1.x/README.md
+- **mongo** (repository) - The MongoDB Database https://github.com/mongodb/mongo/blob/master/README.md
+- **next-auth** (repository) - Authentication for the Web. https://github.com/nextauthjs/next-auth/blob/main/README.md
+- **chat2db** (repository) - Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI,  https://github.com/OtterMind/Chat2DB/blob/main/README.md
+- **cs-books** (repository) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~ https://github.com/forthespada/CS-Books/blob/master/README.md
+- **kit** (repository) - A standard library for microservices. https://github.com/go-kit/kit/blob/master/README.md
+- **react-admin** (repository) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design https://github.com/marmelab/react-admin/blob/master/README.md
+- **authentik** (repository) - The authentication glue you need. https://github.com/goauthentik/authentik/blob/main/README.md
+- **faas** (repository) - OpenFaaS - Serverless Functions Made Simple https://github.com/openfaas/faas/blob/master/README.md
+- **dapr** (repository) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration. https://github.com/dapr/dapr/blob/master/README.md
+- **kratos** (repository) - Your ultimate Go microservices framework for the cloud-native era. https://github.com/go-kratos/kratos/blob/main/README.md
+- **pulumi** (repository) - Pulumi - Infrastructure as Code in any programming language 🚀 https://github.com/pulumi/pulumi/blob/master/README.md
+- **devise** (repository) - Flexible authentication solution for Rails with Warden. https://github.com/heartcombo/devise/blob/main/README.md
+- **saleor** (repository) - Saleor Core: the high performance, composable, headless commerce API. https://github.com/saleor/saleor/blob/main/README.md
+- **self-hosting-guide** (repository) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking. https://github.com/mikeroyal/Self-Hosting-Guide/blob/main/README.md
+- **rxdb** (repository) - The local-first database that runs on every JS runtime and replicates with your existing backend - no vendor, no lock-in - https://rxdb.info/ https://github.com/pubkey/rxdb/blob/master/README.md
+- **neon** (repository) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. https://github.com/neondatabase/neon/blob/main/README.md
+- **sentinel** (repository) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件) https://github.com/alibaba/Sentinel/blob/1.8/README.md
+- **grpc-go** (repository) - The Go language implementation of gRPC. HTTP/2 based RPC https://github.com/grpc/grpc-go/blob/master/README.md
+- **chi** (repository) - lightweight, idiomatic and composable router for building Go HTTP services https://github.com/go-chi/chi/blob/master/README.md
+- **thingsboard** (repository) - All-in-one IoT Platform - Device management, data collection, processing and visualization. https://github.com/thingsboard/thingsboard/blob/master/README.md
+- **parse-server** (repository) - Parse Server for Node.js / Express https://github.com/parse-community/parse-server/blob/alpha/README.md
+- **casbin** (repository) - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC. https://github.com/apache/casbin/blob/master/README.md
+- **graphql-js** (repository) - A reference implementation of GraphQL for JavaScript https://github.com/graphql/graphql-js/blob/17.x.x/README.md
+- **apollo-client** (repository) - The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate your app development. https://github.com/apollographql/apollo-client/blob/main/README.md
+- **yaak** (repository) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 https://github.com/mountain-loop/yaak/blob/main/README.md
+- **ice** (repository) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架） https://github.com/alibaba/ice/blob/master/README.md
+- **apijson** (repository) - 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 https://github.com/APIJSON/APIJSON/blob/main/README.md
+- **graphql** (repository) - RedwoodGraphQL https://github.com/redwoodjs/graphql/blob/main/README.md
+- **apisix** (repository) - The Cloud-Native API Gateway and AI Gateway https://github.com/apache/apisix/blob/master/README.md
+- **graphiql** (repository) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools. https://github.com/graphql/graphiql/blob/main/README.md
+- **qiankun** (repository) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends. https://github.com/umijs/qiankun/blob/next/README.md
+- **zheng** (repository) - 基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。 https://github.com/shuzheng/zheng/blob/master/README.md
+- **dagger** (repository) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud https://github.com/dagger/dagger/blob/main/README.md
+- **open-saas** (repository) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd depl https://github.com/wasp-lang/open-saas/blob/main/README.md
+- **amplication** (repository) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery across teams. https://github.com/amplication/amplication/blob/master/README.md
+- **zitadel** (repository) - ZITADEL - Identity infrastructure, simplified for you. https://github.com/zitadel/zitadel/blob/main/README.md
+- **supertokens-core** (repository) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito https://github.com/supertokens/supertokens-core/blob/master/README.md
+- **awesome-graphql** (repository) - Awesome list of GraphQL https://github.com/chentsulin/awesome-graphql/blob/master/README.md
+- **logto** (repository) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. https://github.com/logto-io/logto/blob/master/README.md
+- **casdoor** (repository) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD https://github.com/casdoor/casdoor/blob/master/README.md
+- **awesome-microservices** (repository) - A curated list of Microservice Architecture related principles and technologies. https://github.com/mfornos/awesome-microservices/blob/master/README.md
+- **jib** (repository) - 🏗 Build container images for your Java applications. https://github.com/GoogleContainerTools/jib/blob/master/README.md
+- **awesome-aws** (repository) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome. https://github.com/donnemartin/awesome-aws/blob/master/README.md
+- **piggymetrics** (repository) - Microservice Architecture with Spring Boot, Spring Cloud and Docker https://github.com/sqshq/piggymetrics/blob/master/README.md
+- **apollo-server** (repository) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more. https://github.com/apollographql/apollo-server/blob/main/README.md
+- **quicktype** (repository) - Generate types and converters from JSON, Schema, and GraphQL https://github.com/glideapps/quicktype/blob/master/README.md
+- **single-spa** (repository) - The router for easy microfrontends https://github.com/single-spa/single-spa/blob/main/README.md
+- **dataloader** (repository) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching. https://github.com/graphql/dataloader/blob/main/README.md
+- **stash** (repository) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc https://github.com/stashapp/stash/blob/develop/README.md
+- **crystal** (repository) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more! https://github.com/graphile/crystal/blob/main/README.md
+- **encore** (repository) - Infrastructure orchestration from local to your cloud https://github.com/encoredev/encore/blob/main/README.md
+- **redpanda** (repository) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM! https://github.com/redpanda-data/redpanda/blob/dev/README.md
+- **awesome-system-design** (repository) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources. https://github.com/madd86/awesome-system-design/blob/master/README.md
+- **crossplane** (repository) - The Cloud Native Control Plane https://github.com/crossplane/crossplane/blob/main/README.md
+- **functions-samples** (repository) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase https://github.com/firebase/functions-samples/blob/main/README.md
+- **grpc-java** (repository) - The Java gRPC implementation. HTTP/2 based RPC https://github.com/grpc/grpc-java/blob/master/README.md
+- **fastapi-mcp** (repository) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! https://github.com/tadata-org/fastapi_mcp/blob/main/README.md
+- **zappa** (repository) - Serverless Python https://github.com/Miserlou/Zappa/blob/master/README.md
+- **pipedream** (repository) - Connect APIs, remarkably fast.  Free for developers. https://github.com/PipedreamHQ/pipedream/blob/master/README.md
+- **examples** (repository) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more. https://github.com/serverless/examples/blob/v4/README.md
+- **jwt-auth** (repository) - 🔐 JSON Web Token Authentication for Laravel & Lumen https://github.com/tymondesigns/jwt-auth/blob/2.x/README.md
+- **cas** (repository) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond. https://github.com/apereo/cas/blob/master/README.md
+- **october** (repository) - Self-hosted CMS platform based on the Laravel PHP Framework. https://github.com/octobercms/october/blob/4.x/README.md
+- **chalice** (repository) - Python Serverless Microframework for AWS https://github.com/aws/chalice/blob/master/README.md
+- **automq** (repository) - Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. https://github.com/AutoMQ/automq/blob/main/README.md
+- **wasmedge** (repository) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. https://github.com/WasmEdge/WasmEdge/blob/master/README.md
+- **keda** (repository) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes https://github.com/kedacore/keda/blob/main/README.md
+- **django-allauth** (repository) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. 🔁 Mirror of https://codeberg.org/allauth/django-allauth/ https://github.com/pennersr/django-allauth/blob/main/README.md
+- **landscape** (repository) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location. https://github.com/cncf/landscape/blob/master/README.md
+- **serverless-application-model** (repository) - The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates. https://github.com/aws/serverless-application-model/blob/develop/README.md
+- **databend** (repository) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3. https://github.com/databendlabs/databend/blob/main/README.md
+- **git-credential-manager** (repository) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services. https://github.com/git-ecosystem/git-credential-manager/blob/main/README.md
+- **nhost** (repository) - The Open Source Firebase Alternative with GraphQL. https://github.com/nhost/nhost/blob/main/README.md
+- **artillery** (repository) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. https://github.com/artilleryio/artillery/blob/main/README.md
+- **hanko** (repository) - Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. https://github.com/teamhanko/hanko/blob/main/README.md
+- **tinyauth** (repository) - The tiniest OpenID Certified™ authorization and authentication server you have ever seen. https://github.com/tinyauthapp/tinyauth/blob/main/README.md
+- **nebular** (repository) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode https://github.com/akveo/nebular/blob/master/README.md
+- **omniauth** (repository) - OmniAuth is a flexible authentication system utilizing Rack middleware. https://github.com/omniauth/omniauth/blob/master/README.md
+- **saas-boilerplate** (repository) - 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing https://github.com/ixartz/SaaS-Boilerplate/blob/main/README.md
+- **deepstream-io** (repository) - deepstream.io server https://github.com/deepstreamIO/deepstream.io/blob/master/README.md
+- **firebase-ios-sdk** (repository) - Firebase SDK for Apple App Development https://github.com/firebase/firebase-ios-sdk/blob/main/README.md
+- **hexclave** (repository) - The user infrastructure platform. You choose the frontend, backend, and database. Hexclave handles everything else. https://github.com/hexclave/hexclave/blob/dev/README.md
+- **go-grpc-middleware** (repository) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more. https://github.com/grpc-ecosystem/go-grpc-middleware/blob/main/README.md
+- **lldap** (repository) - Light LDAP implementation https://github.com/lldap/lldap/blob/main/README.md
+- **cosmos-server** (repository) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot) https://github.com/azukaar/Cosmos-Server/blob/master/README.md
+- **trailbase** (repository) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime. https://github.com/trailbaseio/trailbase/blob/main/README.md
+- **serverpod** (repository) - Serverpod is a next-generation app and web server, explicitly built for the Flutter and Dart ecosystem. https://github.com/serverpod/serverpod/blob/main/README.md
+- **pavex** (repository) - A backend framework for Rust professionals https://github.com/LukeMathWalker/pavex/blob/main/README.md
+- **goyave** (repository) - 🍐 The enterprise REST API framework https://github.com/go-goyave/goyave/blob/master/README.md
+- **lavandula** (repository) - a lightweight web framework in c https://github.com/ashtonjamesd/lavandula/blob/main/README.md
+- **yokai** (repository) - Simple, modular, and observable Go framework for backend applications. https://github.com/ankorstore/yokai/blob/main/README.md
+- **eicrud** (repository) - An opinionated backend framework based on NestJS. Get your CRUD app up and running in no time! ⚙️🔒 https://github.com/eicrud/eicrud/blob/develop/README.md
+- **nullstack** (repository) - Feature-Driven Full Stack JavaScript Components https://github.com/nullstack/nullstack/blob/master/README.md
+- **fastschema** (repository) - All-in-One Backend as a Service with Headless CMS Power https://github.com/fastschema/fastschema/blob/develop/README.md
+- **kito** (repository) - 🐺 The high-performance, type-safe and modern TypeScript web framework written in Rust. https://github.com/kitojs/kito/blob/main/README.md
+- **vaahcms** (repository) - VaahCMS is a laravel based open-source web application development platform shipped with a headless content management system (CMS). https://github.com/webreinvent/vaahcms/blob/2.x/README.md
+- **lux** (repository) - Build scalable, Node.js-powered REST JSON APIs with almost no code. https://github.com/postlight/lux/blob/master/README.md
+- **marten** (repository) - The batteries-included web framework for Crystal. https://github.com/martenframework/marten/blob/main/README.md
+- **rune** (repository) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web framework such as React, Svelte, Vue, Threejs, PixiJS, Phaser. You can even use plain HTML and CSS. https://github.com/rune/rune/blob/staging/README.md
+- **raxx** (repository) - Interface for HTTP webservers, frameworks and clients https://github.com/CrowdHailer/raxx/blob/master/README.md
+- **kitajs** (repository) - 🌷 Performant & type safe fastify router — end-to-end safety with ZERO abstraction cost! https://github.com/kitajs/kitajs/blob/main/README.md
+- **sifrr** (repository) - :zap: Set of tiny, independent libraries for creating modern and fast webapps with javascript/typescript https://github.com/sifrr/sifrr/blob/main/README.md
+- **icms2** (repository) - Self-hosted Site Management System https://github.com/instantsoft/icms2/blob/master/README.md
+- **lunora** (repository) - Type-safe, real-time backend with Vite, Rsbuild and Rspack support, deployed on Cloudflare Workers and Durable Objects. Auth, storage, scheduling and an MCP server for AI agents. Convex-style DX. https://github.com/anolilab/lunora/blob/alpha/README.md
+- **goldeneye** (repository) - The CQRS flavoured framework that will speed up your WebAPI and Microservices development https://github.com/oskardudycz/GoldenEye/blob/main/README.md
+- **core** (repository) - The Buildsmith framework. Fast, async, and built with everything you need to ship. https://github.com/sillohq/core/blob/main/README.md
+- **fastro** (repository) - The Fast, Simple, and Scalable Web Framework for Deno https://github.com/fastrodev/fastro/blob/main/README.md
+- **goserve** (repository) - goserve is a robust Go backend architecture. It offers a performant and scalable framework, emphasizing feature separation, clean code, and testability. Ideal for REST API development, goserve simplifies unit and integration testing, ensuring high-quality, production-ready applications with ease. https://github.com/afteracademy/goserve/blob/main/README.md
+- **princejs** (repository) - The smallest backend framework and among the top three in the world. https://github.com/MatthewTheCoder1218/princejs/blob/main/README.md
+- **kora** (repository) - Kora is simple, easy, performant Java & Kotlin comprehensive framework for backend applications https://github.com/kora-projects/kora/blob/master/README.md
+- **candi** (repository) - A backend project library & utilities https://github.com/golangid/candi/blob/master/README.md
+- **full-stack-python** (repository) - Learn how to build web apps in pure Python using Reflex. https://github.com/codingforentrepreneurs/full-stack-python/blob/main/README.md
+- **pydantic-ai-backend** (repository) - File Storage & Sandbox Backends for Pydantic AI: console tools for file operations, Docker-isolated sandboxes for safe execution, and permission system with presets for access control. Enables secure multi-user handling and testing in agents via in-memory, local, or containerized storage. https://github.com/vstorm-co/pydantic-ai-backend/blob/main/README.md
+- **meta-system** (repository) - The *Everything* Framework for efficient developers https://github.com/mapikit/meta-system/blob/master/README.md
+- **thunder** (repository) - Thunder is a minimalist and powerful Go backend framework that effortlessly transforms gRPC services into fully functional REST and GraphQL APIs. https://github.com/Protocol-Lattice/thunder/blob/main/README.md

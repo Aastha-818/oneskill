@@ -1,0 +1,98 @@
+# mobile - best rated first
+
+- **flutter** (repository) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond https://github.com/flutter/flutter/blob/master/README.md
+- **react-native** (repository) - A framework for building native applications using React https://github.com/react/react-native/blob/main/README.md
+- **rustdesk** (repository) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. https://github.com/rustdesk/rustdesk/blob/master/README.md
+- **localsend** (repository) - An open-source cross-platform alternative to AirDrop https://github.com/localsend/localsend/blob/main/README.md
+- **appflowy** (repository) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. https://github.com/AppFlowy-IO/AppFlowy/blob/main/README.md
+- **flclash** (repository) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. https://github.com/chen08209/FlClash/blob/main/README.md
+- **awesome-flutter** (repository) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. https://github.com/Solido/awesome-flutter/blob/master/README.md
+- **joplin** (repository) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS. https://github.com/laurent22/joplin/blob/dev/README.md
+- **open-source-ios-apps** (repository) - :iphone: Collaborative List of Open-Source iOS Apps https://github.com/dkhamsing/open-source-ios-apps/blob/master/README.md
+- **spotube** (repository) - 🎧 Open source music streaming app! Available for both desktop & mobile! https://github.com/team-spotube/spotube/blob/master/README.md
+- **okhttp** (repository) - A meticulous HTTP client for the JVM, Android, and GraalVM. https://github.com/lysine-dev/okhttp/blob/main/README.md
+- **react-hook-form** (repository) - 📋 React Hooks for form state management and validation (Web + React Native) https://github.com/react-hook-form/react-hook-form/blob/master/README.md
+- **gkd** (repository) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules https://github.com/gkd-kit/gkd/blob/main/README.md
+- **kazumi** (repository) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 https://github.com/Predidit/Kazumi/blob/main/README.md
+- **mattermost** (repository) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. https://github.com/mattermost/mattermost/blob/master/README.md
+- **bitchat** (repository) - bluetooth mesh chat, IRC vibes https://github.com/permissionlesstech/bitchat/blob/main/README.md
+- **smarttube** (repository) - Browse media content with your own rules on Android TV https://github.com/yuliskov/SmartTube/blob/master/README.md
+- **awesome-react-native** (repository) - Awesome React Native components, news, tools, and learning material! https://github.com/jondot/awesome-react-native/blob/master/README.md
+- **formik** (repository) - Build forms in React, without the tears 😭 https://github.com/jaredpalmer/formik/blob/main/README.md
+- **seal** (repository) - 🦭 Video/Audio Downloader for Android, based on yt-dlp https://github.com/JunkFood02/Seal/blob/main/README.md
+- **ente** (repository) - 💚 End-to-end encrypted cloud for everything. https://github.com/ente/ente/blob/main/README.md
+- **leakcanary** (repository) - A memory leak detection library for Android. https://github.com/square/leakcanary/blob/main/README.md
+- **musicfree** (repository) - 插件化、定制化、无广告的免费音乐播放器 https://github.com/maotoumao/MusicFree/blob/master/README.md
+- **test-scenarios** - Create comprehensive test scenarios from user stories. https://github.com/phuryn/pm-skills/blob/main/pm-execution/skills/test-scenarios/SKILL.md
+- **gopeed** (repository) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter. https://github.com/GopeedLab/gopeed/blob/main/README.md
+- **lottie-ios** (repository) - An iOS library to natively render After Effects vector animations https://github.com/airbnb/lottie-ios/blob/master/README.md
+- **awesome-swift** (repository) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute! https://github.com/matteocrippa/awesome-swift/blob/master/README.md
+- **zulip** (repository) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused. https://github.com/zulip/zulip/blob/main/README.md
+- **sdwebimage** (repository) - Asynchronous image downloader with cache support as a UIImageView category https://github.com/SDWebImage/SDWebImage/blob/master/README.md
+- **mihon** (repository) - Free and open source manga reader for Android https://github.com/mihonapp/mihon/blob/main/README.md
+- **rxswift** (repository) - Reactive Programming in Swift https://github.com/ReactiveX/RxSwift/blob/main/README.md
+- **react-navigation** (repository) - Routing and navigation for React Native and Web apps https://github.com/react-navigation/react-navigation/blob/main/README.md
+- **kingfisher** (repository) - A lightweight, pure-Swift library for downloading and caching images from the web. https://github.com/onevcat/Kingfisher/blob/master/README.md
+- **exercises-dataset** (repository) - 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. https://github.com/hasaneyldrm/exercises-dataset/blob/main/README.md
+- **flutter-go** (repository) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 https://github.com/alibaba/flutter-go/blob/master/README.md
+- **codeedit** (repository) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. https://github.com/CodeEditApp/CodeEdit/blob/main/README.md
+- **best-flutter-ui-templates** (repository) - completely free for everyone. Its build-in Flutter Dart. https://github.com/mitesh77/Best-Flutter-UI-Templates/blob/master/README.md
+- **hero** (repository) - Elegant transition library for iOS & tvOS https://github.com/HeroTransitions/Hero/blob/develop/README.md
+- **react-native-web** (repository) - Cross-platform React UI packages https://github.com/necolas/react-native-web/blob/master/README.md
+- **nowinandroid** (repository) - A fully functional Android app built entirely with Kotlin and Jetpack Compose https://github.com/android/nowinandroid/blob/main/README.md
+- **animeko** (repository) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform https://github.com/open-ani/animeko/blob/main/README.md
+- **flutterexampleapps** (repository) - [Example APPS] Basic Flutter apps, for flutter devs. https://github.com/iampawan/FlutterExampleApps/blob/master/README.md
+- **piliplus** (repository) - PiliPlus https://github.com/bggRGjQaUbCoE/PiliPlus/blob/main/README.md
+- **komi-store** (repository) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store. https://github.com/komi-store/komi-store/blob/main/README.md
+- **linkwarden** (repository) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place. https://github.com/linkwarden/linkwarden/blob/main/README.md
+- **ignite** (repository) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more! 9 years of continuous development and counting. https://github.com/infinitered/ignite/blob/master/README.md
+- **compose-multiplatform** (repository) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable. https://github.com/JetBrains/compose-multiplatform/blob/master/README.md
+- **dsh-go** (repository) - dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 https://github.com/ccch1mneyyy/dsh-Go/blob/main/README.md
+- **mmkv** (repository) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS. https://github.com/Tencent/MMKV/blob/master/README.md
+- **react-native-vector-icons** (repository) - Customizable Icons for React Native with support for image source and full styling. https://github.com/oblador/react-native-vector-icons/blob/master/README.md
+- **flet** (repository) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required. https://github.com/flet-dev/flet/blob/main/README.md
+- **react-native-windows** (repository) - A framework for building native Windows apps with React. https://github.com/microsoft/react-native-windows/blob/main/README.md
+- **lottie-react-native** (repository) - Lottie wrapper for React Native. https://github.com/lottie-react-native/lottie-react-native/blob/master/README.md
+- **capacitor** (repository) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ https://github.com/ionic-team/capacitor/blob/main/README.md
+- **a2ui** (repository) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose. https://github.com/a2ui-project/a2ui/blob/main/README.md
+- **realm-swift** (repository) - Realm is a mobile database: a replacement for Core Data & SQLite https://github.com/realm/realm-swift/blob/community/README.md
+- **react-native-maps** (repository) - React Native Mapview component for iOS + Android https://github.com/react-native-maps/react-native-maps/blob/master/README.md
+- **gsy-github-app-flutter** (repository) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose ，Compose MultiPlatform，Harmony ArkUI 七个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。 https://github.com/CarGuo/gsy_github_app_flutter/blob/master/README.md
+- **gmscore** (repository) - Free implementation of Play Services https://github.com/microg/GmsCore/blob/master/README.md
+- **swifterswift** (repository) - A handy collection of more than 500 native Swift extensions to boost your productivity. https://github.com/SwifterSwift/SwifterSwift/blob/main/README.md
+- **xtool** (repository) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. https://github.com/xtool-org/xtool/blob/main/README.md
+- **cocoapods** (repository) - The Cocoa Dependency Manager. https://github.com/CocoaPods/CocoaPods/blob/master/README.md
+- **metrolist** (repository) - YouTube Music client for Android https://github.com/MetrolistGroup/Metrolist/blob/main/README.md
+- **omi-2** (repository) - AI that sees your screen, listens to your conversations and tells you what to do https://github.com/BasedHardware/omi/blob/main/README.md
+- **lawnchair** (repository) - No clever tagline needed. https://github.com/LawnchairLauncher/lawnchair/blob/16-dev/README.md
+- **cocoalumberjack** (repository) - A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS https://github.com/CocoaLumberjack/CocoaLumberjack/blob/master/README.md
+- **pixez-flutter** (repository) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端 https://github.com/Notsfsssf/pixez-flutter/blob/master/README.md
+- **simpmusic** (repository) - A cross-platform music app using YouTube Music for backend https://github.com/maxrave-dev/SimpMusic/blob/dev/README.md
+- **libretube** (repository) - An alternative frontend for YouTube, for Android. https://github.com/libre-tube/LibreTube/blob/master/README.md
+- **fluidvoice** (repository) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight!  Android, Linux waitlist open! A local Wispr Flow alternative. Follow https://x.com/fluidvoiceapp for more https://github.com/altic-dev/FluidVoice/blob/main/README.md
+- **skeletonview** (repository) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting https://github.com/Juanpe/SkeletonView/blob/main/README.md
+- **dio** (repository) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapters, etc. https://github.com/cfug/dio/blob/main/README.md
+- **bloc** (repository) - A predictable state management library that helps implement the BLoC design pattern https://github.com/felangel/bloc/blob/master/README.md
+- **svprogresshud** (repository) - A clean and lightweight progress HUD for your iOS and tvOS app. https://github.com/SVProgressHUD/SVProgressHUD/blob/master/README.md
+- **ipatool** (repository) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages. https://github.com/majd/ipatool/blob/main/README.md
+- **anki-android** (repository) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention. https://github.com/ankidroid/Anki-Android/blob/main/README.md
+- **material** (repository) - A UI/UX framework for creating beautiful applications. https://github.com/CosmicMind/Material/blob/development/README.md
+- **coil** (repository) - Image loading for Android and Compose Multiplatform. https://github.com/coil-kt/coil/blob/main/README.md
+- **eureka** (repository) - Elegant iOS form builder in Swift https://github.com/xmartlabs/Eureka/blob/master/README.md
+- **recyclerview-animators** (repository) - An Android Animation library which easily add itemanimator to RecyclerView items. https://github.com/wasabeef/recyclerview-animators/blob/master/README.md
+- **audiokit** (repository) - Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS https://github.com/AudioKit/AudioKit/blob/main/README.md
+- **immersionbar** (repository) - android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏切换、刘海屏、软键盘弹出等问题，可以修改状态栏字体颜色和导航栏图标颜色，以及不可修改字体颜色手机的适配，适用于Activity、Fragment、DialogFragment、Dialog，PopupWindow，一句代码轻松实现，以及对bar的其他设置，详见README。简书请参考：http://www.jianshu.com/p/2a884e211a62 https://github.com/gyf-dev/ImmersionBar/blob/master/README.md
+- **getx** (repository) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get. https://github.com/jonataslaw/getx/blob/master/README.md
+- **permissionsdispatcher** (repository) - A declarative API to handle Android runtime permissions. https://github.com/permissions-dispatcher/PermissionsDispatcher/blob/master/README.md
+- **animated-tab-bar** (repository) - :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion https://github.com/Ramotion/animated-tab-bar/blob/master/README.md
+- **ytdlnis** (repository) - Full-featured audio/video downloader for Android using yt-dlp https://github.com/deniscerri/ytdlnis/blob/main/README.md
+- **uhabits** (repository) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits https://github.com/iSoron/uhabits/blob/dev/README.md
+- **koin** (repository) - Koin - pragmatic dependency injection for Kotlin & Kotlin Multiplatform. Koin DSL or Koin Annotations (JSR-330), compile safe with the Koin Compiler Plugin. https://github.com/InsertKoinIO/koin/blob/main/README.md
+- **expo-router** - Create API routes in Expo Router with EAS Hosting. https://github.com/expo/skills/blob/main/plugins/expo/skills/expo-router/SKILL.md
+- **expo-upgrade** - Upgrade Expo SDK versions. https://github.com/expo/skills/blob/main/plugins/expo/skills/expo-upgrade/SKILL.md
+- **appium-skill** - Generate Appium mobile automation for Android and iOS in Java, Python, or JS. https://github.com/LambdaTest/agent-skills/blob/main/appium-skill/SKILL.md
+- **flutter-testing-skill** - Generate Flutter widget, integration, and golden tests in Dart. https://github.com/LambdaTest/agent-skills/blob/main/flutter-testing-skill/SKILL.md
+- **excalidraw-cli** - Turn text, JSON, or Graphviz DOT into editable Excalidraw diagrams. https://github.com/swiftlysingh/excalidraw-cli/blob/main/skills/excalidraw-cli/SKILL.md
+- **android-kotlin** - Android Kotlin development with Coroutines, Jetpack Compose, Hilt, and MockK testing. https://github.com/alinaqi/claude-bootstrap/blob/main/skills/android-kotlin/SKILL.md
+- **dependabot-triage** - Defensive Dependabot triage for JS/TS repos (npm, pnpm, yarn, bun) — picks the minimal patched version that supersets every CVE in the cluster, maps every import site into Public/API · Client-Bundle · Internal/Dev exposure buckets, enforces npm↔pnpm lockfile parity before opening the PR, and scrapes https://github.com/akshayrao14/git-practices/blob/main/skills/dependabot-triage/SKILL.md
+- **ramzesenok-ios-accessibility-audit-skill** (repository) - Audit iOS App against Accessibility norms. https://github.com/ramzesenok/iOS-Accessibility-Audit-Skill/blob/main/README.md

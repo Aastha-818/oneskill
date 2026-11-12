@@ -1,6 +1,184 @@
 # writing - best rated first
 
+- **brand-guidelines** - Apply Anthropic's official brand colors and typography to artifacts. https://github.com/anthropics/skills/blob/main/skills/brand-guidelines/SKILL.md
+- **bun-file-io** (repository) - Use this when you are working on file operations like reading, writing, scanning, or deleting files. It summarizes the preferred file APIs and patterns used in this repo. It also notes when to use filesystem helpers for directories. https://github.com/anomalyco/opencode/blob/dev/README.md
+- **doc-coauthoring** - Collaborative document editing and co-authoring. https://github.com/anthropics/skills/blob/main/skills/doc-coauthoring/SKILL.md
+- **internal-comms** - Write internal communications like status reports, newsletters, and FAQs. https://github.com/anthropics/skills/blob/main/skills/internal-comms/SKILL.md
+- **skill-md-19** - Develop and document capabilities. https://github.com/obra/superpowers/blob/main/skills/writing-skills/SKILL.md
+- **skill-md-6** - Create strategic documentation. https://github.com/obra/superpowers/blob/main/skills/writing-plans/SKILL.md
+- **hugo** (repository) - The world’s fastest framework for building websites. https://github.com/gohugoio/hugo/blob/master/README.md
+- **astro** (repository) - The web framework for content-driven websites. https://github.com/withastro/astro/blob/main/README.md
+- **git-advanced-workflows** - Master advanced Git workflows including rebasing, cherry-picking, bisect, worktrees, and reflog to maintain clean history and recover from any situation. Use when managing complex Git histories, collaborating on feature branches, or troubleshooting repository issues. https://github.com/wshobson/agents/blob/main/plugins/developer-essentials/skills/git-advanced-workflows/SKILL.md
+- **javascript-testing-patterns** - Implement comprehensive testing strategies using Jest, Vitest, and Testing Library for unit tests, integration tests, and end-to-end testing with mocking, fixtures, and test-driven development. Use when writing JavaScript/TypeScript tests, setting up test infrastructure, or implementing TDD/BDD work https://github.com/wshobson/agents/blob/main/plugins/javascript-typescript/skills/javascript-testing-patterns/SKILL.md
+- **halo** (repository) - Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 https://github.com/halo-dev/halo/blob/main/README.md
+- **writing-guidelines** - Review documentation against Writing Guidelines. https://github.com/vercel-labs/agent-skills/blob/main/skills/writing-guidelines/SKILL.md
+- **blog** (repository) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。 https://github.com/mqyqingfeng/Blog/blob/master/README.md
+- **grammar-check** - Identify grammar and flow errors with targeted fix suggestions. https://github.com/phuryn/pm-skills/blob/main/pm-toolkit/skills/grammar-check/SKILL.md
+- **sprint-plan** - Plan sprints with capacity, story selection, and risk mapping. https://github.com/phuryn/pm-skills/blob/main/pm-execution/skills/sprint-plan/SKILL.md
+- **redoc** (repository) - 📘  OpenAPI/Swagger-generated API Reference Documentation https://github.com/Redocly/redoc/blob/main/README.md
+- **chinese-independent-blogs** (repository) - 中文独立博客列表 https://github.com/timqian/chinese-independent-blogs/blob/master/README.md
+- **buildawesome** (repository) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML. https://github.com/11ty/buildawesome/blob/main/README.md
+- **antlr4** (repository) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. https://github.com/antlr/antlr4/blob/dev/README.md
+- **cs-interview-knowledge-map** (repository) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc. https://github.com/InterviewMap/CS-Interview-Knowledge-Map/blob/master/README.md
+- **zola** (repository) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org https://github.com/getzola/zola/blob/master/README.md
+- **chinese-copywriting-guidelines** (repository) - Chinese copywriting guidelines for better written communication／中文文案排版指北 https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.md
+- **languagetool** (repository) - Style and Grammar Checker for 25+ Languages https://github.com/languagetool-org/languagetool/blob/master/README.md
+- **gollum** (repository) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content. https://github.com/gollum/gollum/blob/master/README.md
+- **editor-md** (repository) - The open source embeddable online markdown editor (component). https://github.com/pandao/editor.md/blob/master/README.md
+- **hugo-papermod** (repository) - A fast, clean, responsive Hugo theme. https://github.com/adityatelange/hugo-PaperMod/blob/master/README.md
+- **showdoc** (repository) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具 https://github.com/star7th/showdoc/blob/master/README.md
+- **zeal** (repository) - Offline documentation browser. Your personal reference library, searchable in an instant. https://github.com/zealdocs/zeal/blob/main/README.md
+- **g2** (repository) - 📊 The concise and progressive visualization grammar. https://github.com/antvis/G2/blob/v5/README.md
+- **typecho** (repository) - A PHP Blogging Platform. Simple and Powerful. https://github.com/typecho/typecho/blob/master/README.md
+- **giscus** (repository) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem: https://github.com/giscus/giscus/blob/main/README.md
+- **milkdown** (repository) - 🍼 Plugin driven WYSIWYG  markdown editor framework. https://github.com/Milkdown/milkdown/blob/main/README.md
+- **notionnext** (repository) - Turn your Notion workspace into a fast, customizable website. Built with Next.js + Notion API, with multi-platform deployment and no self-hosted server required. https://github.com/notionnext-org/NotionNext/blob/main/README.md
+- **usehooks** (repository) - A collection of modern, server-safe React hooks – from the ui.dev team https://github.com/uidotdev/usehooks/blob/main/README.md
+- **blog-2** (repository) - 我是木易杨，公众号「高级前端进阶」作者，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！ https://github.com/yygmind/blog/blob/master/README.md
+- **nom** (repository) - Rust parser combinator framework https://github.com/rust-bakery/nom/blob/main/README.md
+- **lepton** (repository) - 💻     Democratizing Snippet Management (macOS/Win/Linux) https://github.com/hackjutsu/Lepton/blob/master/README.md
+- **gridea** (repository) - ✍️ A static blog writing client (一个静态博客写作客户端) https://github.com/getgridea/gridea/blob/master/README.md
+- **macdown** (repository) - Open source Markdown editor for macOS. https://github.com/MacDownApp/macdown/blob/master/README.md
+- **utterances** (repository) - :crystal_ball: A lightweight comments widget built on GitHub issues https://github.com/utterance/utterances/blob/master/README.md
+- **rust-blog** (repository) - Educational blog posts for Rust beginners https://github.com/pretzelhammer/rust-blog/blob/master/README.md
+- **dillinger** (repository) - The last Markdown editor, ever. https://github.com/joemccann/dillinger/blob/master/README.md
+- **hexo-theme-fluid** (repository) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo https://github.com/fluid-dev/hexo-theme-fluid/blob/master/README.md
+- **sphinx** (repository) - The Sphinx documentation generator https://github.com/sphinx-doc/sphinx/blob/master/README.md
+- **storyboard** - Visualize user journeys with 6-frame narrative storyboards. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/storyboard/SKILL.md
+- **user-story** - Write user stories with acceptance criteria using Mike Cohn and Gherkin formats. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/user-story/SKILL.md
+- **user-story-mapping** - Organize stories by user workflow using Jeff Patton's story mapping approach. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/user-story-mapping/SKILL.md
+- **user-story-mapping-workshop** - Walk through creating story maps with backbone and release slices. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/user-story-mapping-workshop/SKILL.md
+- **user-story-splitting** - Break down large stories using 8 proven splitting patterns. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/user-story-splitting/SKILL.md
+- **blog-3** (repository) - Too young, too simple. Sometimes, naive & stupid 🐌 https://github.com/jawil/blog/blob/master/README.md
+- **notebooklm-integration** - Lets Claude Code chat directly with NotebookLM for source-grounded answers based exclusively on uploaded documents. https://github.com/PleasePrompto/notebooklm-skill/blob/master/SKILL.md
+- **next-mdx-blog** (repository) - Next.js + MDX blog template with Tailwind CSS and TypeScript. https://github.com/leerob/next-mdx-blog/blob/main/README.md
+- **dendron** (repository) - The personal knowledge management (PKM) tool that grows as you do! https://github.com/dendronhq/dendron/blob/master/README.md
+- **djangoblog** (repository) - 🍺基于Django的博客系统 https://github.com/liangliangyy/DjangoBlog/blob/master/README.md
+- **nextjs-notion-starter-kit** (repository) - Deploy your own Notion-powered website in minutes with Next.js and Vercel. https://github.com/transitive-bullshit/nextjs-notion-starter-kit/blob/main/README.md
+- **yn** (repository) - A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code snippets, chart embedding, HTML applets, plugins, and macro replacement. Its integrated sidebar terminal makes working with AI faster and more convenient. https://github.com/purocean/yn/blob/develop/README.md
+- **wechatsync** (repository) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力 https://github.com/wechatsync/Wechatsync/blob/v2/README.md
+- **bizcharts** (repository) - Powerful data visualization library based on G2 and React. https://github.com/alibaba/BizCharts/blob/master/README.md
+- **the-documentation-compendium** (repository) - 📢 Various README templates & tips on writing high-quality documentation that people want to read. https://github.com/race2infinity/The-Documentation-Compendium/blob/master/README.md
+- **lark** (repository) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity. https://github.com/lark-parser/lark/blob/master/README.md
+- **markedit** (repository) - Just like TextEdit on Mac but dedicated to Markdown. https://github.com/MarkEdit-app/MarkEdit/blob/main/README.md
+- **documentation** (repository) - :book: documentation for modern JavaScript https://github.com/documentationjs/documentation/blob/master/README.md
+- **liam** (repository) - Automatically generates beautiful and easy-to-read ER diagrams from your database. https://github.com/liam-hq/liam/blob/main/README.md
+- **dplyr** (repository) - dplyr: A grammar of data manipulation https://github.com/tidyverse/dplyr/blob/main/README.md
+- **plotnine** (repository) - A Grammar of Graphics for Python https://github.com/has2k1/plotnine/blob/main/README.md
+- **markdown-preview-enhanced** (repository) - One of the 'BEST' markdown preview extensions for Atom editor! https://github.com/shd101wyy/markdown-preview-enhanced/blob/master/README.md
+- **tbls** (repository) - tbls is a CI-Friendly tool to document a database, written in Go. https://github.com/k1LoW/tbls/blob/main/README.md
+- **hashmd** (repository) - Hackable Markdown Editor and Viewer (WIP) https://github.com/pd4d10/hashmd/blob/main/README.md
+- **compodoc** (repository) - :notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application https://github.com/compodoc/compodoc/blob/develop/README.md
+- **markdown-guide** (repository) - The comprehensive Markdown reference guide. https://github.com/mattcone/markdown-guide/blob/master/README.md
+- **behat** (repository) - BDD in PHP https://github.com/Behat/Behat/blob/4.x/README.md
+- **participle** (repository) - A parser library for Go https://github.com/alecthomas/participle/blob/master/README.md
+- **lazyllm** (repository) - Easiest and laziest way for  building multi-agent LLMs applications. https://github.com/LazyAGI/LazyLLM/blob/main/README.md
+- **nanako0129-sepia** - De-AI writing skill fixing narrative structure before word choice. https://github.com/Nanako0129/sepia/blob/main/skills/sepia/SKILL.md
+- **sepia** (repository) - De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136). https://github.com/Nanako0129/sepia/blob/main/README.md
+- **editor-2** (repository) - A rich text editor React component for markdown https://github.com/mdx-editor/editor/blob/main/README.md
+- **lalrpop** (repository) - LR(1) parser generator for Rust https://github.com/lalrpop/lalrpop/blob/master/README.md
+- **pine** (repository) - A modern, native macOS markdown editor https://github.com/lukakerr/Pine/blob/master/README.md
+- **markdownediting** (repository) - Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. https://github.com/SublimeText-Markdown/MarkdownEditing/blob/master/README.md
+- **easy-markdown-editor** (repository) - EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking. https://github.com/Ionaru/easy-markdown-editor/blob/master/README.md
+- **react-md-editor** (repository) - A simple markdown editor with preview, implemented with React.js and TypeScript. https://github.com/uiwjs/react-md-editor/blob/master/README.md
+- **zk** (repository) - A plain text note-taking assistant https://github.com/zk-org/zk/blob/main/README.md
+- **protoc-gen-doc** (repository) - Documentation generator plugin for Google Protocol Buffers https://github.com/pseudomuto/protoc-gen-doc/blob/master/README.md
+- **codecrumbs** (repository) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more. https://github.com/CodecrumbsIO/codecrumbs/blob/master/README.md
+- **md-editor-v3** (repository) - Markdown editor for vue3, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it... https://github.com/imzbf/md-editor-v3/blob/develop/README.md
+- **pdoc** (repository) - API Documentation for Python Projects https://github.com/mitmproxy/pdoc/blob/main/README.md
+- **apiauto** (repository) - ☔ 敏捷开发最强大易用的接口工具，机器学习零代码测试与 AI 问答、生成代码与静态检查、生成文档与光标悬浮注释，腾讯、华为、SHEIN、传音、工行等使用 ☔ The most advanced tool for HTTP API. Machine learning no-code testing and AI assistant, generating codes and static analysis, generating comments and floating hints. Used by Tencent, Huawei, SHEIN, TRANSSION, ICBC, etc. https://github.com/TommyLemon/APIAuto/blob/main/README.md
+- **node-llama-cpp** (repository) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level https://github.com/withcatai/node-llama-cpp/blob/master/README.md
+- **pegtl** (repository) - Parsing Expression Grammar Template Library https://github.com/taocpp/PEGTL/blob/main/README.md
+- **react-markplus** (repository) - A React markdown editor and previewer. https://github.com/markpluslabs/react-markplus/blob/main/README.md
+- **retext** (repository) - ReText: Simple but powerful editor for Markdown and reStructuredText https://github.com/retext-project/retext/blob/master/README.md
+- **nimbalyst** (repository) - Nimbalyst - The open-source visual workspace for Claude Code, Codex, and OpenCode. Run multiple coding agents in parallel, edit their work visually in markdown, mockups, and diagrams, and track tasks. Free, MIT-licensed desktop app for macOS, Windows, Linux, with mobile companion for iOS and Android https://github.com/nimbalyst/nimbalyst/blob/main/README.md
+- **rime-wanxiang-data** (repository) - 万象拼音数据与工具中心: 简繁扩展词库/声调编码/声调标注工具链/万象更新工具链/Rime语法模型 https://github.com/amzxyz/rime-wanxiang-data/blob/wanxiang/README.md
+- **typed-japanese** (repository) - 🌸 Learn Japanese grammar with TypeScript https://github.com/typedgrammar/typed-japanese/blob/main/README.md
+- **write-concisely** - Applies the famous The Elements of Style book principles to make documentation and writing clearer and more professional by eliminating wordiness and improving structure. https://github.com/NeoLabHQ/context-engineering-kit/blob/master/plugins/docs/skills/write-concisely/SKILL.md
+- **jsdoc-to-markdown** (repository) - Generate markdown documentation from jsdoc-annotated javascript https://github.com/jsdoc2md/jsdoc-to-markdown/blob/master/README.md
+- **autocorrect** (repository) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean). https://github.com/huacnlee/autocorrect/blob/main/README.md
+- **rust-peg** (repository) - Parsing Expression Grammar (PEG) parser generator for Rust https://github.com/kevinmehall/rust-peg/blob/master/README.md
+- **gramformer** (repository) - A framework for detecting, highlighting and correcting grammatical errors on natural language text. Created by Prithiviraj Damodaran. Open to pull requests and other forms of collaboration. https://github.com/PrithivirajDamodaran/Gramformer/blob/main/README.md
+- **graphdoc** (repository) - Static page generator for documenting GraphQL Schema https://github.com/2fd/graphdoc/blob/master/README.md
+- **eralchemy** (repository) - Entity Relation Diagrams generation tool https://github.com/eralchemy/eralchemy/blob/main/README.md
+- **dictionaries** (repository) - Hunspell dictionaries in UTF-8 https://github.com/wooorm/dictionaries/blob/main/README.md
+- **bridgetown** (repository) - A next-generation progressive site generator & fullstack framework, powered by Ruby https://github.com/bridgetownrb/bridgetown/blob/main/README.md
+- **lexy** (repository) - C++ parsing DSL https://github.com/foonathan/lexy/blob/main/README.md
+- **speak-human-tw** (repository) - 「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。 https://github.com/Raymondhou0917/speak-human-tw/blob/master/README.md
+- **vim-grammarous** (repository) - A powerful grammar checker for Vim using LanguageTool. https://github.com/rhysd/vim-grammarous/blob/master/README.md
+- **ecommerce-visual-copywriting-skill** (repository) - 电商视觉文案设计SOP Skill - 让电商设计小白也能一键做出5年资深设计经验的商品图片.兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent. AI-powered e-commerce visual strategy skill for main images, PDP/A+, copywriting, localization, evidence-aware compliance and image prompts. https://github.com/feichanggege/ecommerce-visual-copywriting-skill/blob/main/README.md
+- **argdown** (repository) - a simple syntax for complex argumentation https://github.com/argdown/argdown/blob/main/README.md
+- **exprtk** (repository) - C++ Mathematical Expression Parsing And Evaluation Library   https://www.partow.net/programming/exprtk/index.html https://github.com/ArashPartow/exprtk/blob/master/README.md
+- **opencypher** (repository) - Specification of the Cypher property graph query language https://github.com/opencypher/openCypher/blob/main/README.md
+- **easy-writing** (repository) - 易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。 https://github.com/yilujian/easy-writing/blob/main/README.md
+- **grammar-kit** (repository) - Grammar files support & parser/PSI generation for IntelliJ IDEA https://github.com/JetBrains/Grammar-Kit/blob/master/README.md
+- **seo-skills** (repository) - SEO skills for Claude Code, Cursor and Codex: SEO autopilot, title tags, blog refreshes, backlinks, customer journeys, video transcripts and copywriting. https://github.com/Illyism/seo-skills/blob/main/README.md
+- **wechat-article-skills** (repository) - 微信公众号 AI 运营助手 | 选题、写稿、审稿、排版、配图、发布全流程 Skill，支持 OpenClaw / Claude Code / Cursor / Codex https://github.com/aiworkskills/wechat-article-skills/blob/main/README.md
+- **vscode-textmate** (repository) - A library that helps tokenize text using Text Mate grammars. https://github.com/microsoft/vscode-textmate/blob/main/README.md
+- **nlprule** (repository) - A fast, low-resource Natural Language Processing and Text Correction library written in Rust. https://github.com/bminixhofer/nlprule/blob/main/README.md
+- **self-media-content-workflow** (repository) - Modular, tool-agnostic agent skills for social media content: briefs, trend research, platform-native copy for Xiaohongshu, WeChat, X and YouTube, short video, publishing, and analytics. https://github.com/yanhua1010/self-media-content-workflow/blob/main/README.md
+- **jflex** (repository) - The fast scanner generator for Java™ with full Unicode support https://github.com/jflex-de/jflex/blob/master/README.md
+- **kgt** (repository) - BNF wrangling and railroad diagrams https://github.com/katef/kgt/blob/main/README.md
+- **grmtools** (repository) - Rust grammar tool libraries and binaries https://github.com/softdevteam/grmtools/blob/master/README.md
+- **marketing-os** (repository) - An entire marketing department as one Claude skill. 14 modules: audits scored 0-100, an 18-tactic hook engine, copy graded before you see it, ad diagnosis, GEO, email, launches, pricing. Works in Claude, Codex and Cursor. https://github.com/Yuzzyuk/marketing-os/blob/main/README.md
+- **humanizer-ru-2** (repository) - humanizer-ru: редактура русского текста для AI-агентов. Убирает канцелярит и шаблонные обороты, сверяет смысл и факты. 67 признаков, 21 жёсткий запрет, сканер, CLI, MCP и расширение Chrome. | Russian text editing for AI agents: removes bureaucratese and template phrasing, checks facts. https://github.com/ilyautov/humanizer-ru/blob/main/README.md
+- **humanizer-ru-2-2** - Removes 64 AI-writing markers from Russian text, with scanner. https://github.com/ilyautov/humanizer-ru/blob/main/skills/humanizer-ru/SKILL.md
+- **taishang-laojun** (repository) - 太上老君·AI炼丹炉：抖音/小红书短视频创作 Skill。不知道拍啥、不会写稿，丢给你的 AI：找对标拆爆款、选题、系列策划、口播稿、标题、复盘、去AI味。Claude Code / Codex 等 npx 一行安装，豆包等聊天智能体用 Bot 版。 https://github.com/liuhaisi2026212-maker/taishang-laojun/blob/main/README.md
+- **language-tool-python** (repository) - a free, non-AI python grammar checker 📝✅ https://github.com/jxmorris12/language_tool_python/blob/master/README.md
+- **sloptrim** (repository) - A local detector for AI-writing patterns. Scores every prose file your agent saves. Python standard library only, no network, no model. https://github.com/seyedehsanhadi/sloptrim/blob/main/README.md
+- **story-skills** (repository) - Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins. https://github.com/danjdewhurst/story-skills/blob/main/README.md
+- **patina** (repository) - AI-writing humanizer for KO/EN/ZH/JA https://github.com/devswha/patina/blob/main/README.md
+- **humanizer-stack** (repository) - Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306 https://github.com/NulightJens/humanizer-stack/blob/main/README.md
+- **email-marketing-bible** (repository) - Email marketing skill for Claude Code. 88K words, 908 sources, 19 industry playbooks. Install the skill and Claude becomes your email marketing expert. https://github.com/CosmoBlk/email-marketing-bible/blob/main/README.md
+- **social-account-doctor** (repository) - 小红书/抖音/快手/视频号/B站 自媒体账号体检+爆款拆解工具。扫同赛道找对标、拆爆款为什么爆、诊断为什么没人看，顺手出可粘贴仿写初稿。支持带货电商模式。支持codex, claude code, workbuddy https://github.com/JuneYaooo/social-account-doctor/blob/main/README.md
+- **clarity** (repository) - Clarity - an Agent skill for clearer writing https://github.com/addyosmani/clarity/blob/main/README.md
+- **xiaoma-durex-copywriter** (repository) - 杜蕾斯式文案与海报 Skill for Claude Code —— 双层语义方法论 + 8 个文案公式 + 从 260 张原始海报拆解的视觉系统 + AI 出图/代码排版管线 https://github.com/crawfordxx/xiaoma-durex-copywriter/blob/main/README.md
+- **humanizer-skill** (repository) - Free, open-source AI writing humanizer and detector. 55 patterns, 5 voices, a 0-100 AI-tell score, and nothing leaves your machine. https://github.com/Aboudjem/humanizer-skill/blob/main/README.md
+- **thinkwithblack-skill** (repository) - 365 free AI marketing skills (zh-TW/en) for ChatGPT, Claude, Gemini, Claude Code & Cursor — copywriting, ads budget, margin, CRM, email. 365 個免費 AI 行銷 Skills https://github.com/backtrue/thinkwithblack-skill/blob/main/README.md
+- **hyacehila-humanizer-zh-next** - Chinese writing editor with academic and grant proposal modes. https://github.com/Hyacehila/humanizer-zh-next/blob/main/SKILL.md
+- **content-skills** (repository) - A free Agent Skill for writing short-form hooks, scripts, and carousels for TikTok, Reels, and YouTube Shorts. https://github.com/vyralcontent/content-skills/blob/main/README.md
+- **stealthhumanizer** (repository) - 🔓 Free open-source AI text humanizer — bypass GPTZero, Turnitin & AI detectors with 16+ Languages support. 35 providers, 4 rewrite levels, 6 Writing Styles, 9 Text Purposes, 13 Tone Presets, multi-pass ninja mode. No login. Built for students & writers. https://github.com/rudra496/StealthHumanizer/blob/master/README.md
+- **redaktura-skills** (repository) - Agent Skills for Russian editing, writing, editorial policy, promo copy, posts, and UX copy. https://github.com/N1arko/redaktura-skills/blob/main/README.md
+- **humanizer-ru** (repository) - Skill для AI-агентов (Claude Code, Codex, OpenClaw, Hermes): убирает 37 признаков AI-генерации из русского текста и проверяет, писала ли его нейросеть - канцелярит, штампы ChatGPT, артефакты копипаста | Russian AI-text humanizer & detector skill for coding agents https://github.com/smixs/humanizer-ru/blob/main/README.md
+- **humanizer-de** (repository) - Deutscher Text-Humanizer für Claude Code & Codex. Redigiert KI-Floskeln, schützt deine Schreibstimme und prüft 72 deutsche Muster quellentreu. https://github.com/marmbiz/humanizer-de/blob/main/README.md
+- **mdskill-web** (repository) - Markdown 排版工具：33 种主题，一键复制到微信公众号/知乎/掘金，可导出 HTML/图片｜Markdown formatter for WeChat articles https://github.com/AIPMAndy/MDskill-Web/blob/main/README.md
+- **mohamedabdallah-14-unslop** - Removes named AI writing tells (tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocab like "delve"/"crucial"). Split lint/rewrite modes for auditing your own text without auto-rewriting. Five intensity levels, MIT. https://github.com/MohamedAbdallah-14/unslop/blob/main/skills/unslop/SKILL.md
+- **unslop** (repository) - Make AI output sound human. Strips AI-isms (sycophancy, stock vocab, hedging stacks, em-dash pileups), preserves code/URLs/headings. Plugin for Claude Code, Cursor, Windsurf, Codex, Cline, Copilot, Gemini. https://github.com/MohamedAbdallah-14/unslop/blob/main/README.md
+- **copybook** (repository) - Copy book is a collection of texts that are commonly used around the web. https://github.com/praveenjuge/copybook/blob/main/README.md
+- **coppiegpt** (repository) - CoppieGPT is a role for ChatGPT that rewrites any headline or content using up to 232 different copywriting frameworks and formulas. https://github.com/WynterJones/CoppieGPT/blob/main/README.md
+- **zeroslop** (repository) - Open-source Agent Skill that finds and removes AI slop from your writing https://github.com/manavmishra/ZeroSlop/blob/main/README.md
+- **claude-style-patch** (repository) - A CLAUDE.md section that constrains Claude's prose style. It bans specific habits, including announcing a point before making it, colon-hinged sentences where the left side labels the right, verbless fragment openers, and stacked compression. Each rule names the habit, shows an example, and gives th https://github.com/andrewroxby/claude-style-patch/blob/main/README.md
+- **book-genesis-studio** (repository) - Open-source writing skills for Claude Code, Codex, OpenCode, Antigravity, Gemini, OpenClaw, and Hermes. Your creativity. Your agent. Your book. https://github.com/felipelobomotta-blip/book-genesis-studio/blob/master/README.md
+- **human-speak** (repository) - Remove recognizable AI writing patterns without flattening the writer's voice. https://github.com/nateherkai/human-speak/blob/main/README.md
+- **family-history-research** - Provides assistance with planning family history and genealogy research projects. https://github.com/emaynard/claude-family-history-research-skill/blob/main/SKILL.md
+- **narracat-novel-agent** (repository) - 面向中国网文作者的 AI 共创桌面应用 | AI-powered desktop writing studio for Chinese web novels https://github.com/yannikzz/narracat-novel-agent/blob/main/README.md
+- **oh-my-patent** - A plugin for turning technical ideas into patent disclosures. https://github.com/illusionaireal/oh-my-patent/blob/master/skills/oh-my-patent/SKILL.md
+- **ai-slop-detector** (repository) - 120 patterns that make writing read like AI slop, with an agent skill for Claude Code and Codex. https://github.com/FeedHive/ai-slop-detector/blob/main/README.md
+- **worldcraft-codex** (repository) - A local-first desktop workspace for worldbuilding, game narrative, quests, maps, relationships, novels, scripts, and AI-assisted writing. https://github.com/TaylliSun/worldcraft-codex/blob/main/README.md
+- **handwriting-ocr-scriptreader** (repository) - ScriptReader allows you to perform Optical Character Recognition (OCR) on your handwritten notes! https://github.com/LPBeaulieu/Handwriting-OCR-ScriptReader/blob/main/README.md
+- **funnel-architect-plugin** (repository) - Turn Claude into a full-stack sales funnel architect. Build high-converting funnels with optimized UI/UX, page speed, mobile responsiveness, and deploy to any platform. https://github.com/ominou5/funnel-architect-plugin/blob/main/README.md
+- **turkish-native** (repository) - Agent skill for writing native Turkish and removing translationese from AI and localized copy. https://github.com/oguzhankayan/turkish-native/blob/main/README.md
+- **visant-skills-public** (repository) - Skills de Claude Code da Visant: auditoria de UI anti-slop, motion, frontend, copy. Com detectores executáveis. https://github.com/pedrojaques99/visant-skills-public/blob/main/README.md
+- **viral-copywriting-skill** (repository) - 把《爆款文案》的销售型文案方法蒸馏成 14 个可执行的 AI skill 工具包 https://github.com/kangarooking/viral-copywriting-skill/blob/main/README.md
+- **create-viral-content** (repository) - Agent Skill for viral social content that reads as human: hooks, titles, thumbnails, platform rules and 2026 AI-tell removal for Reddit, X, LinkedIn, YouTube, TikTok. Works in Claude (claude.ai and Claude Code), Codex, Gemini CLI and opencode. https://github.com/aaaronmiller/create-viral-content/blob/main/README.md
+- **kindling** (repository) - Free, open-source fiction writing software. Your outline stays visible while you draft. Import from Scrivener, Plottr, yWriter, or Obsidian. macOS, Windows & Linux. https://github.com/smith-and-web/kindling/blob/main/README.md
+- **voiceprint** (repository) - Turn your own spoken words into a finished article. AI does the research, structure and checking. You supply the sentences, by talking. https://github.com/charlie947/voiceprint/blob/main/README.md
+- **book-os** (repository) - Novel-OS is a structured workflow system that gives AI the context it needs to help you write   compelling fiction—consistently and efficiently. It provides three layers of context (Standards,   Novel, and Manuscripts) to ensure AI writes prose that sounds like YOU. Works with Claude Code,   Cursor, https://github.com/forsonny/book-os/blob/main/README.md
+- **mindfluence** (repository) - An AI prompt-skill that turns 20 cognitive biases into high-converting marketing copy. Playbooks for ads, landing pages, email, social, webinars, and launches. https://github.com/MADEVAL/MindFluence/blob/main/README.md
+- **copywriting-correct** (repository) - 中英文文案排版纠正器 https://github.com/ricoa/copywriting-correct/blob/master/README.md
+- **proseforge** (repository) - AI长篇小说工程化写作流水线 — SQLite记忆、21道Guard门禁、Agent陪审团、防幻觉检查、多小说独立数据库、人工味质量层 https://github.com/remacheybn408-boop/ProseForge/blob/master/README.md
+- **scrivener-mcp** (repository) - The definitive MCP server for Scrivener — connect your novels, screenplays, and manuscripts to Claude, ChatGPT, and any AI assistant. 53 tools: document management, writing analysis, content enhancement, offline semantic search, and character/plot tracking. https://github.com/writerslogic/scrivener-mcp/blob/main/README.md
+- **quiron** (repository) - AI humanizer skill for Claude Code, Codex and Cursor. Removes AI slop and the signs of AI writing, then measures the rewrite against human baselines. https://github.com/ilien-dev/quiron/blob/main/README.md
+- **humanize-writing-skill** (repository) - Rewrite AI-generated text to sound human. 3-pass editing system with 36+ banned words, 10 structural patterns, and a quality checklist. Works with any LLM — Claude, ChatGPT, Gemini, Cursor, Windsurf. Also available as a Claude Code plugin. https://github.com/lguz/humanize-writing-skill/blob/main/README.md
+- **shadowpr0-beautiful-prose** - Hard-edged writing style contract for timeless, forceful English prose without AI tics. https://github.com/SHADOWPR0/beautiful_prose/blob/main/SKILL.md
+- **forjd-better-writing** - Rewrites AI-sounding prose without inventing facts; eval-tested. https://github.com/forjd/better-writing/blob/main/skills/better-writing/SKILL.md
+- **novel-writing** (repository) - Codex skill for fiction planning and revision: grounded viewpoints, consequential dialogue, and style-preserving edits. English and Chinese examples. https://github.com/wgwtest/novel-writing/blob/main/README.md
+- **surendranb-writing-skills** (repository) - 15 writing-style skills: 8 measurable frameworks (plain language, ASD-STE100, AP journalism, GOV.UK, business BLUF) and 7 character voices, each with a verify checklist. https://github.com/surendranb/writing-skills/blob/main/README.md
+- **article-extractor** - Extract full article text and metadata from web pages. https://github.com/michalparkola/tapestry-skills-for-claude-code/blob/main/article-extractor/SKILL.md
 - **blog-post** - Write a blog post or article with a clear angle, strong opening and readable structure. Use for articles, essays, thought leadership and long-form content. `skills/writing/blog-post/SKILL.md`
+- **book-factory** (repository) - A comprehensive pipeline of Skills that replicates traditional publishing infrastructure for nonfiction book creation using specialized Claude skills. https://github.com/robertguss/claude-skills/blob/main/README.md
 - **cold-email** - Write cold outreach emails that get replies - short, specific and personal. Use for sales prospecting, job outreach, partnership pitches and follow-up sequences. `skills/writing/cold-email/SKILL.md`
 - **copy-editing** - Edit and proofread existing text for clarity, concision, grammar and tone without changing the meaning or the author's voice. Use for editing, proofreading, tightening and rewriting drafts. `skills/writing/copy-editing/SKILL.md`
 - **linkedin-post** - Write LinkedIn posts that sound like a person and earn engagement - hook, story, takeaway. Use for LinkedIn content, personal branding and social posts for professionals. `skills/writing/linkedin-post/SKILL.md`
+- **scientific-writing-skills** (repository) - Six Agent Skills for scientific writing based on Stanford's Writing in the Sciences course: sentence-level prose editing, IMRaD manuscript structure, the writing process, peer review and publication, grants and recommendation letters, and lay summaries and press. Ships as the sciwrite Claude Code pl https://github.com/dvdsosa/scientific-writing-skills/blob/master/README.md
+- **nagametw-formosa-humanizer** - Removes AI-writing markers from Taiwan Traditional Chinese text. https://github.com/nagameTW/formosa-humanizer/blob/main/SKILL.md

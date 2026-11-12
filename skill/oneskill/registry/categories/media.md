@@ -1,0 +1,215 @@
+# media - best rated first
+
+- **moneyprinterturbo** (repository) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. https://github.com/harry0703/MoneyPrinterTurbo/blob/main/README.md
+- **slack-gif-creator** - Create animated GIFs optimized for Slack's size constraints. https://github.com/anthropics/skills/blob/main/skills/slack-gif-creator/SKILL.md
+- **voicestudio** (repository) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. https://github.com/debpalash/VoiceStudio/blob/main/README.md
+- **opencv** (repository) - Open Source Computer Vision Library https://github.com/opencv/opencv/blob/5.x/README.md
+- **openmontage** (repository) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. https://github.com/OpenMontageInc/OpenMontage/blob/main/README.md
+- **unsloth** (repository) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more. https://github.com/unslothai/unsloth/blob/main/README.md
+- **image-enhancer** - Improves the quality of images, especially screenshots. https://github.com/ComposioHQ/awesome-claude-skills/blob/master/image-enhancer/SKILL.md
+- **video-downloader** - Downloads videos from YouTube and other platforms for offline viewing, editing, or archival. https://github.com/ComposioHQ/awesome-claude-skills/blob/master/video-downloader/SKILL.md
+- **humanizer-2** - Remove AI writing signs from text. https://github.com/blader/humanizer/blob/main/SKILL.md
+- **gpt-sovits** (repository) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) https://github.com/RVC-Boss/GPT-SoVITS/blob/main/README.md
+- **supervision** (repository) - We write your reusable computer vision tools. 💜 https://github.com/roboflow/supervision/blob/develop/README.md
+- **tts** (repository) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production https://github.com/coqui-ai/TTS/blob/dev/README.md
+- **voxcpm** (repository) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning https://github.com/OpenBMB/VoxCPM/blob/main/README.md
+- **photoprism** (repository) - AI-Powered Photos App 🌈💎✨ https://github.com/photoprism/photoprism/blob/develop/README.md
+- **chattts** (repository) - A generative speech model for daily dialogue. https://github.com/2noise/ChatTTS/blob/main/README.md
+- **openvoice** (repository) - Instant voice cloning by MIT and MyShell. Audio foundation model. https://github.com/myshell-ai/OpenVoice/blob/main/README.md
+- **mediapipe** (repository) - Cross-platform, customizable ML solutions for live and streaming media. https://github.com/google-ai-edge/mediapipe/blob/master/README.md
+- **mockingbird** (repository) - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time https://github.com/babysor/MockingBird/blob/main/README.md
+- **sharp** (repository) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library. https://github.com/lovell/sharp/blob/main/README.md
+- **spleeter** (repository) - Deezer source separation library including pretrained models. https://github.com/deezer/spleeter/blob/master/README.md
+- **graphite** (repository) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine https://github.com/GraphiteEditor/Graphite/blob/master/README.md
+- **rembg** (repository) - Rembg is a tool to remove images background https://github.com/danielgatis/rembg/blob/main/README.md
+- **index-tts** (repository) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System https://github.com/index-tts/index-tts/blob/main/README.md
+- **cosyvoice** (repository) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability. https://github.com/QwenAudio/CosyVoice/blob/main/README.md
+- **cvpr2026-papers-with-code** (repository) - CVPR 2026 论文和开源项目合集 https://github.com/amusi/CVPR2026-Papers-with-Code/blob/main/README.md
+- **humanizer-zh** - Humanizer Chinese version. https://github.com/op7418/Humanizer-zh/blob/main/SKILL.md
+- **pyvideotrans** (repository) - Translate the video from one language to another and embed dubbing & subtitles. https://github.com/jianchang512/pyvideotrans/blob/main/README.md
+- **dia** (repository) - A TTS model capable of generating ultra-realistic dialogue in one pass. https://github.com/nari-labs/dia/blob/main/README.md
+- **stop-slop** - Agent skill to strip AI tells from prose: banned phrases, structural clichés, sentence-level rules; reference phrase/structure lists and before/after examples; 5-dimension scoring rubric. https://github.com/hardikpandya/stop-slop/blob/main/SKILL.md
+- **imagemagick** (repository) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms. https://github.com/ImageMagick/ImageMagick/blob/main/README.md
+- **leon** (repository) - 🧠 Leon is your open-source personal assistant. https://github.com/leon-ai/leon/blob/develop/README.md
+- **filepond** (repository) - 🌊 A flexible and fun JavaScript file upload library https://github.com/pqina/filepond/blob/master/README.md
+- **sherpa-onnx** (repository) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket ser https://github.com/k2-fsa/sherpa-onnx/blob/master/README.md
+- **lightcraft** (repository) - LightCraft: An open-source non-destructive photo editor written from scratch in pure Rust https://github.com/storytold/lightcraft/blob/main/README.md
+- **blind-watermark** (repository) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ https://github.com/guofei9987/blind_watermark/blob/master/README.md
+- **lemo-opuscar** (repository) - A toolbox of film styles made in code for Claude Code: 66 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：66 种现成风格，也能做出你自己的 https://github.com/lemomo-ai/lemo-opuscar/blob/main/README.md
+- **pillow** (repository) - Python Imaging Library (fork) https://github.com/python-pillow/Pillow/blob/main/README.md
+- **cropperjs** (repository) - JavaScript image cropper. https://github.com/fengyuanchen/cropperjs/blob/main/README.md
+- **voice-pro** (repository) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation. https://github.com/abus-aikorea/voice-pro/blob/main/README.md
+- **yue** (repository) - YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. https://github.com/multimodal-art-projection/YuE/blob/main/README.md
+- **awesome-podcasts** (repository) - Collection of awesome podcasts https://github.com/rShetty/awesome-podcasts/blob/master/README.md
+- **smartcrop-js** (repository) - Content aware image cropping https://github.com/jwagner/smartcrop.js/blob/main/README.md
+- **edge-tts** (repository) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge https://github.com/rany2/edge-tts/blob/master/README.md
+- **kornia** (repository) - 🐍 Geometric Computer Vision Library for Spatial AI https://github.com/kornia/kornia/blob/main/README.md
+- **speechbrain** (repository) - A PyTorch-based Speech Toolkit https://github.com/speechbrain/speechbrain/blob/develop/README.md
+- **segmentation-models-pytorch** (repository) - Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones. https://github.com/qubvel-org/segmentation_models.pytorch/blob/main/README.md
+- **libvips** (repository) - A fast image processing library with low memory needs. https://github.com/libvips/libvips/blob/master/README.md
+- **imgproxy** (repository) - Fast and secure standalone server for resizing, processing, and converting images on the fly https://github.com/imgproxy/imgproxy/blob/master/README.md
+- **rapidraw** (repository) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind. https://github.com/CyberTimon/RapidRAW/blob/main/README.md
+- **caire** (repository) - Content aware image resize library https://github.com/esimov/caire/blob/master/README.md
+- **thumbor** (repository) - thumbor is an open-source photo thumbnail service by globo.com https://github.com/thumbor/thumbor/blob/master/README.md
+- **amphion** (repository) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development. https://github.com/open-mmlab/Amphion/blob/main/README.md
+- **autoclip** (repository) - AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing. https://github.com/zhouxiaoka/autoclip/blob/main/README.md
+- **tts-2** (repository) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts) https://github.com/mozilla/TTS/blob/master/README.md
+- **espnet** (repository) - End-to-End Speech Processing Toolkit https://github.com/espnet/espnet/blob/master/README.md
+- **u-2-net** (repository) - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection." https://github.com/xuebinqin/U-2-Net/blob/master/README.md
+- **glide-transformations** (repository) - An Android transformation library providing a variety of image transformations for Glide. https://github.com/wasabeef/glide-transformations/blob/main/README.md
+- **introtodeeplearning** (repository) - Lab Materials for MIT 6.S191: Introduction to Deep Learning https://github.com/MITDeepLearning/introtodeeplearning/blob/master/README.md
+- **google-images-download** (repository) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code! https://github.com/hardikvasa/google-images-download/blob/master/README.md
+- **emotivoice** (repository) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine https://github.com/netease-youdao/EmotiVoice/blob/main/README.md
+- **ffmpegfreeui** (repository) - 3FUI 是 ffmpeg 在 Windows 上的轻度专业交互外壳，收录大量参数，界面美观，交互友好。此项目面向国内使用环境，让普通人也能够轻松压制视频和转换格式。 https://github.com/Lake1059/FFmpegFreeUI/blob/main/README.md
+- **mlx-audio** (repository) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. https://github.com/Neywa-Labs/mlx-audio/blob/main/README.md
+- **imagesharp** (repository) - A modern, cross-platform, 2D Graphics library for .NET https://github.com/SixLabors/ImageSharp/blob/main/README.md
+- **vits** (repository) - VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech https://github.com/jaywalnut310/vits/blob/main/README.md
+- **ods** (repository) - ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into a private AI server. https://github.com/Osmantic/ODS/blob/main/README.md
+- **melotts** (repository) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean. https://github.com/myshell-ai/MeloTTS/blob/main/README.md
+- **gocv** (repository) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO. https://github.com/hybridgroup/gocv/blob/release/README.md
+- **espeak-ng** (repository) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents. https://github.com/espeak-ng/espeak-ng/blob/master/README.md
+- **eqmac** (repository) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧 https://github.com/bitgapp/eqMac/blob/master/README.md
+- **podcastfy** (repository) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI https://github.com/souzatharsis/podcastfy/blob/main/README.md
+- **photoview** (repository) - Photo gallery for self-hosted personal servers https://github.com/photoview/photoview/blob/master/README.md
+- **pedalboard** (repository) - 🎛 🔊 A Python library for audio. https://github.com/spotify/pedalboard/blob/master/README.md
+- **argmax-oss-swift** (repository) - On-device Speech AI for Apple Silicon https://github.com/argmaxinc/argmax-oss-swift/blob/main/README.md
+- **awesome-prompt-engineering** (repository) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc https://github.com/promptslab/Awesome-Prompt-Engineering/blob/main/README.md
+- **nasuno-songhumanizer** (repository) - AI audio watermark removal & forensic anti-attribution toolkit. Neutralizes Suno, Udio, and neural fingerprints with ISO 226 perceptual masking. https://github.com/AhmadHassan-BTed/NaSuno-SongHumanizer/blob/main/README.md
+- **auto-editor** (repository) - Effort free video editing! https://github.com/WyattBlue/auto-editor/blob/master/README.md
+- **dali** (repository) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications. https://github.com/NVIDIA/DALI/blob/main/README.md
+- **awesome-learning-resources** (repository) - 🔥 Awesome list of resources on Web Development. https://github.com/lauragift21/awesome-learning-resources/blob/master/README.md
+- **seek-tune** (repository) - An implementation of Shazam's song recognition algorithm. https://github.com/cgzirim/seek-tune/blob/main/README.md
+- **awesome-devsecops** (repository) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions. https://github.com/devsecops/awesome-devsecops/blob/master/README.md
+- **ace-step-ui** (repository) - 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno! https://github.com/fspecii/ace-step-ui/blob/main/README.md
+- **ffmpeg-skill** (repository) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. https://github.com/kajisho5/ffmpeg-skill/blob/main/README.md
+- **ahsilence** (repository) - An open-source Android Active Noise Cancellation (ANC) engine. Leveraging low-latency DSP to neutralize environmental hums and help you reclaim your quiet. https://github.com/AhmadHassan-BTed/AhSilence/blob/master/README.md
+- **cliamp** (repository) - cliamp - Terminal music player inspired by winamp https://github.com/bjarneo/cliamp/blob/main/README.md
+- **rawtherapee** (repository) - A powerful cross-platform raw photo processing program https://github.com/RawTherapee/RawTherapee/blob/dev/README.md
+- **audio-cpp** (repository) - An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency. https://github.com/0xShug0/audio.cpp/blob/main/README.md
+- **piwigo** (repository) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute! https://github.com/Piwigo/Piwigo/blob/master/README.md
+- **libjxl** (repository) - JPEG XL image format reference implementation https://github.com/libjxl/libjxl/blob/main/README.md
+- **audioflux** (repository) - A library for audio and music analysis, feature extraction. https://github.com/libAudioFlux/audioFlux/blob/master/README.md
+- **stemroller** (repository) - Isolate vocals, drums, bass, and other instrumental stems from any song https://github.com/stemrollerapp/stemroller/blob/main/README.md
+- **awesome-deep-learning-music** (repository) - List of articles related to deep learning applied to music https://github.com/ybayle/awesome-deep-learning-music/blob/master/README.md
+- **audio-reactive-led-strip** (repository) - :musical_note: :rainbow: Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi https://github.com/scottlawsonbc/audio-reactive-led-strip/blob/master/README.md
+- **snapotter** (repository) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your network. https://github.com/snapotter-hq/SnapOtter/blob/main/README.md
+- **audio** (repository) - Data manipulation and transformation for audio signal processing, powered by PyTorch https://github.com/pytorch/audio/blob/main/README.md
+- **metadata-extractor** (repository) - Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files https://github.com/drewnoakes/metadata-extractor/blob/main/README.md
+- **vox-director-2** - Turn one topic into a finished Vox-style paper-collage explainer or ad video. https://github.com/Alisa0808/vox-director/blob/main/SKILL.md
+- **otto** (repository) - Sampler, Sequencer, Multi-engine synth and effects - in a box! [WIP] https://github.com/bitfieldaudio/OTTO/blob/develop/README.md
+- **afilmory** (repository) - Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. https://github.com/Afilmory/afilmory/blob/main/README.md
+- **codexffmpeg** (repository) - Support for https://www.gyan.dev/ffmpeg https://github.com/GyanD/codexffmpeg/blob/main/README.md
+- **ailia-models** (repository) - The collection of pre-trained, state-of-the-art AI models for ailia SDK https://github.com/ailia-ai/ailia-models/blob/master/README.md
+- **nextlevel** (repository) - ⬆️ Media Capture in Swift https://github.com/NextLevel/NextLevel/blob/main/README.md
+- **claude-real-video** - Let Claude or any LLM watch a video via scene-aware keyframes and a timestamped transcript. https://github.com/HUANGCHIHHUNGLeo/claude-real-video/blob/main/skills/claude-real-video/SKILL.md
+- **beep** (repository) - A little package that brings sound to any Go application. Suitable for playback and audio-processing. https://github.com/faiface/beep/blob/master/README.md
+- **unsplash-js** (repository) - 🤖 Official JavaScript wrapper for the Unsplash API https://github.com/unsplash/unsplash-js/blob/master/README.md
+- **yovoice** (repository) - Open-source local AI audio & music studio for macOS & Windows. TTS, voice cloning, songs with lyrics, and multi-track scores — 100% offline, zero API fees. https://github.com/leemysw/yovoice/blob/main/README.md
+- **giada** (repository) - Your Hardcore Loop Machine. https://github.com/monocasual/giada/blob/master/README.md
+- **ledfx** (repository) - LedFx is a network based LED effect engine designed to deliver advanced real-time audio effects to a wide variety of devices. https://github.com/LedFx/LedFx/blob/main/README.md
+- **chinese-podcasts** (repository) - 播客 🎧 编程、设计、Vlog、音乐、访谈、博客... https://github.com/alaskasquirrel/Chinese-Podcasts/blob/master/README.md
+- **pagelm** (repository) - PageLM is a community driven version of NotebookLM & a education platform that transforms study materials into interactive resources like quizzes, flashcards, notes, and podcasts. https://github.com/CaviraOSS/PageLM/blob/main/README.md
+- **yue2-studio** (repository) - Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Windows app, no Python, installer with auto-update. https://github.com/timoncool/YuE2-Studio/blob/main/README.md
+- **musegan** (repository) - An AI for Music Generation https://github.com/salu133445/musegan/blob/main/README.md
+- **videoagent** (repository) - [EMNLP2026] "VideoAgent: All-in-One Agentic Framework for Video Understanding and Editing, and Remaking" https://github.com/HKUDS/VideoAgent/blob/main/README.md
+- **kokoro-tts** (repository) - A CLI text-to-speech tool using the Kokoro model, supporting multiple languages, voices (with blending), and various input formats including EPUB books and PDF documents. https://github.com/nazdridoy/kokoro-tts/blob/main/README.md
+- **podgrab** (repository) - A self-hosted podcast manager/downloader/archiver tool to download podcast episodes as soon as they become live with an integrated player. https://github.com/akhilrex/podgrab/blob/master/README.md
+- **podsync** (repository) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds https://github.com/mxpv/podsync/blob/main/README.md
+- **photonix** (repository) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognition, face recognition, location awareness, color analysis and other ML algorithms. https://github.com/photonixapp/photonix/blob/master/README.md
+- **julius** (repository) - Open-Source Large Vocabulary Continuous Speech Recognition Engine https://github.com/julius-speech/julius/blob/master/README.md
+- **kfr** (repository) - Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, AVX-512, ARM NEON, RISC-V RVV) https://github.com/kfrlib/kfr/blob/main/README.md
+- **mlt** (repository) - MLT Multimedia Framework https://github.com/mltframework/mlt/blob/master/README.md
+- **aaxaudioconverter** (repository) - Convert Audible aax files to mp3 and m4a/m4b https://github.com/audiamus/AaxAudioConverter/blob/master/README.md
+- **deeplearn** (repository) - Implementation of research papers on Deep Learning+ NLP+ CV in Python using Keras, Tensorflow and Scikit Learn. https://github.com/GauravBh1010tt/DeepLearn/blob/master/README.md
+- **damselfly** (repository) - Damselfly is a server-based Photograph Management app. The goal of Damselfly is to index an extremely large collection of images, and allow easy search and retrieval of those images, using metadata such as the IPTC keyword tags, as well as the folder and file names. Damselfly includes support for ob https://github.com/Webreaper/Damselfly/blob/master/README.md
+- **sglang-omni** (repository) - High Performance Serving Runtime For Interactive Super Intelligence System https://github.com/sgl-project/sglang-omni/blob/main/README.md
+- **exif-photo-blog** (repository) - Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for each image. https://github.com/sambecker/exif-photo-blog/blob/main/README.md
+- **rawmakase** (repository) - 📸 Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows. https://github.com/pch/rawmakase/blob/main/README.md
+- **postbot** (repository) - PostBot 内容同步助手 一款开源的多平台内容同步分发生产力工具。 支持将文章、笔记、动态、图片、视频、音频等内容，一键同步发布至主流媒体平台。覆盖微信/微博/今日头条/小红书/知乎/百家号/企鹅号/视频号/抖音/快手/哔哩哔哩（B站）等国内主流媒体平台，可轻松扩展兼容 X（Twitter）、Facebook、Instagram、TikTok、YouTube、LinkedIn 等国际媒体平台。 https://github.com/gitcoffee-os/postbot/blob/main/README.md
+- **anidoodle-2** - Create hand-drawn illustrations, animations, stickers, and short films as code. https://github.com/alexgreensh/anidoodle/blob/main/skills/anidoodle/SKILL.md
+- **ruic-poseatlas** (repository) - RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。 https://github.com/HRuiCcc/RuiC-PoseAtlas/blob/main/README.md
+- **elodie** (repository) - An EXIF-based photo assistant, organizer  and workflow automation tool. https://github.com/jmathai/elodie/blob/master/README.md
+- **moss-ttsd** (repository) - A multilingual model for long-form, multi-speaker dialogue synthesis with flexible speaker control and zero-shot voice cloning https://github.com/OpenMOSS/MOSS-TTSD/blob/main/README.md
+- **book** (repository) - 「硬地骇客 - 两个月 $12000 ARR 实践之路」是由 硬地骇客 团队编著，本书是关于 Podwise 产品历程的忠实记录：内容包含 灵感 - 构建 - 发布 - 增长 - 复盘 五个章节。如果你觉得一个人读不够过瘾，欢迎加入「硬地骇客」官方知识星球与专家们一起讨论！Podwise 的故事才刚刚开始，我们也将在星球持续分享我们的认知，成功可能无法复制，但失败一定可以借鉴。现在就点击下方链接加入吧！ https://github.com/hardhackerlabs/book/blob/main/README.md
+- **chubbyskills** (repository) - 把中文全渠道内容（抖音 / B站 / 小红书 / 公众号 / X / 播客）采集进个人知识库的 14 个 AI Skill：图文存图、视频转文字稿、字幕优先免 GPU、RSS/YouTube 订阅调度与每日情报简报，附带知识库 MCP server。｜ Ingest Chinese content into your personal knowledge base — image/video routing, subtitle-first transcription, feed subscriptions with daily digests, and a KB MCP server. https://github.com/chubbyguan/chubbyskills/blob/main/README.md
+- **jam** (repository) - 🍓 Jam is your own open source Clubhouse for mini conferences, friends, communities https://github.com/jam-systems/jam/blob/master/README.md
+- **twocast** (repository) - AI Podcast Generator for bilingual episodes, Multi Languages, Alternative to NotebookLLM；真人对话AI播客生成器，多语言，多音色 https://github.com/panyanyany/Twocast/blob/master/README.md
+- **podaura** (repository) - All-in-on podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support! https://github.com/SkyD666/PodAura/blob/master/README.md
+- **podcastmenu** (repository) - Put Overcast on your Mac's menu bar https://github.com/insidegui/PodcastMenu/blob/master/README.md
+- **pigeon-pod** (repository) - Listen to YouTube & Bilibili. Anywhere. https://github.com/aizhimou/pigeon-pod/blob/main/README.md
+- **home-gallery** (repository) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery https://github.com/xemle/home-gallery/blob/master/README.md
+- **apps-android-commons** (repository) - The Wikimedia Commons Android app allows users to upload pictures from their Android phone/tablet to Wikimedia Commons https://github.com/commons-app/apps-android-commons/blob/main/README.md
+- **mindcast** (repository) - A React-Native streaming-audio app that provides knowledge in the shape of Podcasts. https://github.com/steniowagner/mindCast/blob/master/README.md
+- **russia-it-podcast** (repository) - Список русскоязычных подкастов на тему информационных технологий https://github.com/avevlad/russia-it-podcast/blob/master/README.md
+- **negpy** (repository) - Tool for processing film negatives. https://github.com/marcinz606/NegPy/blob/main/README.md
+- **capcut-cli** (repository) - A zero-dependency Node CLI (and Claude Code plugin/skill) that lets the agent edit CapCut / JianYing video projects programmatically — inspect timelines, build drafts, add text/audio, word-level captions and Whisper transcription, templates, and cut long-form into shorts — JSON in, JSON out, no serv https://github.com/renezander030/capcut-cli/blob/master/README.md
+- **photoncamera** (repository) - Android Camera that uses Enhanced image processing https://github.com/eszdman/PhotonCamera/blob/dev/README.md
+- **t3mujinpack** (repository) - Collection of film emulation presets for open-source RAW developer software Darktable. https://github.com/t3mujinpack/t3mujinpack/blob/master/README.md
+- **autoshade** (repository) - AI-assisted RAW photo developer: GPT vision advisor proposes an EditRecipe, a deterministic Rust engine renders it — Lightroom-compatible XMP sidecars, 24 RAW formats + baked images, measured (not guessed) Lightroom mask geometry, local GUI/web UI, AI denoise & segmentation sidecars https://github.com/skymanbp/autoshade/blob/main/README.md
+- **rclip** (repository) - grep for images – local, offline image search for the terminal https://github.com/yurijmikhalevich/rclip/blob/main/README.md
+- **agent-plugin** (repository) - AI video editor for agents. ChatCut plugin and MCP server for Codex, ChatGPT, Claude Code, Cursor, Grok, Gemini CLI, WorkBuddy, Doubao Work and Qwen Work: edit your own footage by chatting, add captions and subtitles, remove silences and filler words, create motion graphics, and export an editable t https://github.com/ChatCut-Inc/agent-plugin/blob/main/README.md
+- **box** (repository) - The most advanced, fully offline client-side AI suite on Android today. https://github.com/jegly/Box/blob/main/README.md
+- **ai-audio-datasets** (repository) - AI Audio Datasets (AI-ADS) 🎵, including Speech, Music, and Sound Effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio applications. https://github.com/Yuan-ManX/ai-audio-datasets/blob/main/README.md
+- **audio-ai-hub** (repository) - The hub for audio AI research: papers, open models, benchmarks & datasets across audio LLMs, speech recognition, TTS, music & audio generation. https://github.com/BinWang28/audio-ai-hub/blob/main/README.md
+- **maestro** (repository) - An all-in-one, 100% local AI video, image, and music studio. Director mode plans full music videos and short films from a single prompt. Built on the WanGP pipeline. Install via Pinokio. https://github.com/Blizaine/Maestro/blob/main/README.md
+- **optocamzero** (repository) - Optocam Zero is a Raspberry Pi Zero based compact digital camera made using off the shelf components. https://github.com/dorukkumkumoglu/optocamzero/blob/main/README.md
+- **miditok** (repository) - MIDI / symbolic music tokenizers for Deep Learning models 🎶 https://github.com/Natooz/MidiTok/blob/main/README.md
+- **tuneflow-py** (repository) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥 https://github.com/tuneflow/tuneflow-py/blob/main/README.md
+- **anygpt** (repository) - A unified multimodal language model based on discrete sequence modeling https://github.com/OpenMOSS/AnyGPT/blob/main/README.md
+- **downtify** (repository) - Download and listen to your music, playlists, and podcasts, along with album art and metadata https://github.com/henriquesebastiao/downtify/blob/main/README.md
+- **thumbsup** (repository) - Generate static HTML photo / video galleries https://github.com/thumbsup/thumbsup/blob/master/README.md
+- **claude-replay** (repository) - An outstanding, creative library that converts Claude Code session transcripts into self-contained, embeddable HTML replays - interactive playback with speed control, a local editor, collapsible tool-call and thinking blocks, redaction for private information - the output is fantastic. Also supports https://github.com/es617/claude-replay/blob/main/README.md
+- **mdsilo-app** (repository) - Lightweight Knowledge Base and Feed Reader. https://github.com/mdSilo/mdSilo-app/blob/main/README.md
+- **open-webui-tools** (repository) - Open‑WebUI Tools is a modular toolkit designed to extend and enrich your Open WebUI instance, turning it into a powerful AI workstation. With a suite of over 15 specialized tools, function pipelines, and filters, this project supports academic research, agentic autonomy, multimodal creativity, workf https://github.com/Haervwe/open-webui-tools/blob/main/README.md
+- **awesome-russian-it** (repository) - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ - https://awesomeit.ru https://github.com/unchase/awesome-russian-it/blob/master/README.md
+- **gitpodcast** (repository) - Convert any git repository into an engaging podcast https://github.com/BandarLabs/gitpodcast/blob/main/README.md
+- **genmusic-demo-list** (repository) - a list of demo websites for automatic music generation research https://github.com/affige/genmusic_demo_list/blob/master/README.md
+- **audio-diffusion** (repository) - Apply diffusion models using the new Hugging Face diffusers package to synthesize music instead of images. https://github.com/teticio/audio-diffusion/blob/main/README.md
+- **rao-pics** (repository) - :electron: 帮助你远程访问 Eagle 的素材库。 https://github.com/meetqy/rao-pics/blob/main/README.md
+- **filmulator-gui** (repository) - Filmulator --- Simplified raw editing with the power of film https://github.com/CarVac/filmulator-gui/blob/master/README.md
+- **midi2lr** (repository) - An application and plugin to remotely control Lightroom with a MIDI controller https://github.com/rsjaffe/MIDI2LR/blob/develop/README.md
+- **cpod** (repository) - (UNMAINTAINED) A simple, beautiful podcast app for Windows, macOS, and Linux. https://github.com/z-------------/CPod/blob/master/README.md
+- **music-generation-with-dl** (repository) - Resources on Music Generation with Deep Learning https://github.com/umbrellabeach/music-generation-with-DL/blob/master/README.md
+- **linuxwave** (repository) - Generate music from the entropy of Linux 🐧🎵 https://github.com/orhun/linuxwave/blob/main/README.md
+- **claude-ai-music-skills** (repository) - Claude Code plugin for AI music creation covering lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution. https://github.com/bitwize-music-studio/claude-ai-music-skills/blob/main/README.md
+- **audio-studio-mcp** (repository) - Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key. https://github.com/kanaworksai-hue/audio-studio-mcp/blob/main/README.md
+- **openmusic** (repository) - OpenMusic: SOTA Text-to-music (TTM) Generation https://github.com/ivcylc/OpenMusic/blob/main/README.md
+- **jjazzlab** (repository) - A complete and open application for automatic backing tracks generation. https://github.com/jjazzboss/JJazzLab/blob/master/README.md
+- **remi** (repository) - "Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions", ACM Multimedia 2020 https://github.com/YatingMusic/remi/blob/master/README.md
+- **youtube-transcript-2** - Fetch transcripts from YouTube videos and prepare summaries. https://github.com/michalparkola/tapestry-skills/blob/main/youtube-transcript/SKILL.md
+- **musical-neural-net** (repository) - Train an LSTM to generate piano or violin/piano music. https://github.com/mcleavey/musical-neural-net/blob/master/README.md
+- **open-musiclm** (repository) - Implementation of MusicLM, a text to music model published by Google Research, with a few modifications. https://github.com/zhvng/open-musiclm/blob/main/README.md
+- **awesome-ai-voice** (repository) - List of open-source TTS, voice cloning, and music generation models https://github.com/wildminder/awesome-ai-voice/blob/main/README.md
+- **noizai-skills** (repository) - Human-like TTS workflows with local/cloud backends, style presets, and app delivery scripts. https://github.com/NoizAI/skills/blob/main/README.md
+- **ai-shortfilm-prompts** (repository) - Turn any idea into a cinematic, model-ready video prompt for Sora, Kling, Veo, or Seedance. https://github.com/jnMetaCode/ai-shortfilm-prompts/blob/main/README.md
+- **muspy** (repository) - A toolkit for symbolic music generation https://github.com/salu133445/muspy/blob/main/README.md
+- **kinetograph** - Create and render motion graphics and videos with Kinetograph. https://github.com/0xS4N4TG/kinetograph/blob/main/packages/cli/skills/kinetograph/SKILL.md
+- **elevenlabs** - Text-to-speech narration and two-host podcast generation from documents using ElevenLabs API. https://github.com/sanjay3290/ai-skills/blob/main/skills/elevenlabs/SKILL.md
+- **google-tts** - Text-to-speech narration and podcast generation using Google Cloud TTS. https://github.com/sanjay3290/ai-skills/blob/main/skills/google-tts/SKILL.md
+- **imagen** - Generate images using Google Gemini's image generation API for UI mockups, icons, illustrations, and visual assets. https://github.com/sanjay3290/ai-skills/blob/main/skills/imagen/SKILL.md
+- **product-launch-motion** - Create animated product launch videos from a website URL. https://github.com/AbubakrChan/product-launch-motion/blob/main/SKILL.md
+- **skill-md** - Route video briefs to generation, composition, editing, or mixed workflows. https://github.com/Orkas-AI/Orkas-VideoStudio/blob/7387d99d468e0cce22508854ba8bca04e79657e1/packages/skills/video-router/SKILL.md
+- **creative-director-skill** (repository) - AI creative director for ideation, scoring, recursive refinement, and storytelling frameworks. https://github.com/smixs/creative-director-skill/blob/main/README.md
+- **awesome-seedance-2-5-prompts-skills** (repository) - Plan storyboards and create Seedance video prompts with agent skills. https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/README.md
+- **anydesign** - Analyzes any image, URL, or Figma file and generates a structured design.md with the full design system, component inventory, and reconstruction notes — portable to v0, Lovable, Cursor or any AI builder. https://github.com/uxKero/anydesign/blob/main/SKILL.md
+- **swiftui-design-skill** - SwiftUI 前端设计 skill — 反 AI Slop 六条铁律、设计方向顾问、品牌资产协议、五维评审。支持 Claude Code / Cursor / Codex / OpenCode 等全部 AI agent 平台。. https://github.com/wholiver/swiftui-design-skill/blob/main/SKILL.md
+- **blender-kiln** - Create and refine game-ready 3D assets in Blender. https://github.com/elithril/blender-kiln/blob/main/SKILL.md
+- **dashmotion** - A Claude skill that turns a description or Mermaid source into a self-contained animated technical diagram. https://github.com/csthink/dashmotion/blob/main/skills/dashmotion/SKILL.md
+- **video-prompting-skill** (repository) - Draft and refine prompts for video generation models (LTX-2, Sora, Veo 3, etc.). https://github.com/Square-Zero-Labs/video-prompting-skill/blob/main/README.md
+- **papercut-explainer** - Turn links into narrated cut-paper explainer videos using Remotion. https://github.com/0xS4N4TG/papercut-explainer/blob/main/skills/papercut-explainer/SKILL.md
+- **ecommerce-image-skills** (repository) - Ecommerce image skills for product photos, infographics, and Amazon listings. https://github.com/xianyu110/ecommerce-image-skills/blob/main/README.md
+- **vibe-creating-skill** (repository) - Rewrite a rough idea into a model-ready text-to-video prompt for Seedance, Sora, Kling, Veo, and more. https://github.com/Alisa0808/vibe-creating-skill/blob/main/README.md
+- **genai-mesh-gradient** - Create editable mesh gradients for websites, presentations, and brand visuals. https://github.com/9929y/genai-mesh-gradient/blob/main/SKILL.md
+- **videodb-skills** (repository) - See, understand, and act on video & audio — ingest, search, edit, generate, and stream media via VideoDB. https://github.com/video-db/skills/blob/main/README.md
+- **ecommerce-video-skills** (repository) - Ecommerce video skills for hooks, storyboards, voice-overs, and subtitles. https://github.com/xianyu110/ecommerce-video-skills/blob/main/README.md
+- **video-to-music** - Compose original soundtracks for finished videos with Sonilo. https://github.com/sonilo-ai/skills/blob/main/video-to-music/SKILL.md
+- **design-os-3d-blender** - Build and verify parametric 3D models in Blender for export. https://github.com/jangtrinh/design-os-3d-blender/blob/main/skills/design-os-3d-blender/SKILL.md
+- **bria-ai** - Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, and transparent PNGs. https://github.com/Bria-AI/bria-skill/blob/dev/skills/bria-ai/SKILL.md
+- **claude-video-plus** (repository) - Ask a video a question and retrieve only the chapters, facts, and on-screen moments that answer it. https://github.com/abe238/claude-video-plus/blob/main/README.md
+- **deapi-ai-claude-code-skills** (repository) - AI media toolkit: generate images (Flux), text-to-speech, transcribe YouTube/audio, OCR, video generation, upscale, and remove backgrounds via deAPI. Works with Cursor, Windsurf & Continue.dev. https://github.com/deapi-ai/claude-code-skills/blob/main/README.md
+- **youtube-transcript** - Fetch transcripts from YouTube videos and prepare summaries. https://github.com/michalparkola/tapestry-skills-for-claude-code/blob/main/youtube-transcript/SKILL.md
+- **youtube-transcript-skills** (repository) - Fetch YouTube transcripts and search videos, channels, and playlists. https://github.com/tubeagentkit/youtube-transcript-skills/blob/main/README.md
+- **arcmira** - Search YouTube and podcast transcripts for quotes, mentions, and sponsors. https://github.com/arcmira/mcp/blob/master/plugins/arcmira/skills/arcmira/SKILL.md
+- **pixelbin-media-generation** (repository) - Generate and edit images & videos with 85+ API portfolio and build visually appealing website pages. https://github.com/anandpareek-hub/pixelbin-claude-skill/blob/main/README.md
+- **molecular-animation** (repository) - A new-film skill, agent guide (AGENTS.md) and Python framework with which Claude Code drives Blender over MCP to turn a scientific brief and PDB or AlphaFold structures into a molecular animation film. The agent checks the brief's structural claims, builds the scene from a script, and writes a produ https://github.com/AmadeusBio-ai/Molecular_Animation/blob/main/README.md
+- **moltdj** - AI music and podcast platform for autonomous agents — generate tracks, discover, earn tips and royalties. https://github.com/polaroteam/moltdj-skill/blob/main/SKILL.md

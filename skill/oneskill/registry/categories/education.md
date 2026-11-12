@@ -1,0 +1,165 @@
+# education - best rated first
+
+- **computer-science** (repository) - 🎓 Path to a free self-taught education in Computer Science! https://github.com/ossu/computer-science/blob/master/README.md
+- **developer-roadmap** (repository) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. https://github.com/nilbuild/developer-roadmap/blob/master/README.md
+- **free-programming-books** (repository) - :books: Freely available programming books https://github.com/EbookFoundation/free-programming-books/blob/main/README.md
+- **fucking-algorithm** (repository) - Crack LeetCode, not only how, but also why. https://github.com/labuladong/fucking-algorithm/blob/master/README.md
+- **project-based-learning** (repository) - Curated list of project-based tutorials https://github.com/practical-tutorials/project-based-learning/blob/master/README.md
+- **system-design-primer** (repository) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. https://github.com/donnemartin/system-design-primer/blob/master/README.md
+- **llm-course** (repository) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. https://github.com/mlabonne/llm-course/blob/main/README.md
+- **awesome-react** (repository) - A collection of awesome things regarding React ecosystem https://github.com/enaqx/awesome-react/blob/master/README.md
+- **awesome-courses** (repository) - :books: List of awesome university courses for learning Computer Science! https://github.com/prakhar1989/awesome-courses/blob/master/README.md
+- **up** (repository) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生 https://github.com/byoungd/up/blob/main/README.md
+- **front-end-developer-interview-questions** (repository) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/main/README.md
+- **first-contributions** (repository) - 🚀✨ Help beginners to contribute to open source projects https://github.com/firstcontributions/first-contributions/blob/main/README.md
+- **100-days-of-ml-code** (repository) - 100 Days of ML Coding https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/README.md
+- **claude-howto** (repository) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. https://github.com/luongnv89/claude-howto/blob/main/README.md
+- **tensorflow-examples** (repository) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2) https://github.com/aymericdamien/TensorFlow-Examples/blob/master/README.md
+- **hello-python** (repository) - Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA... https://github.com/mouredev/Hello-Python/blob/main/README.md
+- **wtfpython** (repository) - What the f*ck Python? 😱 https://github.com/satwikkansal/wtfpython/blob/master/README.md
+- **hello-algorithm** (repository) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站 https://github.com/geekxh/hello-algorithm/blob/master/README.md
+- **awesome-cto** (repository) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups https://github.com/kuchin/awesome-cto/blob/main/README.md
+- **the-way-to-go-zh-cn** (repository) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》 https://github.com/unknwon/the-way-to-go_ZH_CN/blob/master/README.md
+- **interactive-coding-challenges** (repository) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards. https://github.com/donnemartin/interactive-coding-challenges/blob/master/README.md
+- **awesome-generative-ai-guide** (repository) - A one stop repository for generative AI research updates, interview resources, notebooks and much more! https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/README.md
+- **awesome-low-level-design** (repository) - Learn Low Level Design (LLD) and prepare for interviews using free resources. https://github.com/ashishps1/awesome-low-level-design/blob/main/README.md
+- **en-javascript-info** (repository) - Modern JavaScript Tutorial https://github.com/javascript-tutorial/en.javascript.info/blob/master/README.md
+- **tinyrenderer** (repository) - A brief computer graphics / rendering course https://github.com/ssloy/tinyrenderer/blob/master/README.md
+- **mostly-adequate-guide** (repository) - Mostly adequate guide to FP (in javascript) https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/README.md
+- **c** (repository) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes. https://github.com/TheAlgorithms/C/blob/master/README.md
+- **100-days-of-ml-code-2** (repository) - 100-Days-Of-ML-Code中文版 https://github.com/MLEveryday/100-Days-Of-ML-Code/blob/master/README.md
+- **teachyourselfcs-cn** (repository) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS https://github.com/izackwu/TeachYourselfCS-CN/blob/master/README.md
+- **intellij-idea-tutorial** (repository) - IntelliJ IDEA 简体中文专题教程 https://github.com/judasn/IntelliJ-IDEA-Tutorial/blob/master/README.md
+- **recommenders** (repository) - Best Practices on Recommendation Systems https://github.com/recommenders-team/recommenders/blob/main/README.md
+- **security-guide-for-developers** (repository) - Security Guide for Developers https://github.com/FallibleInc/security-guide-for-developers/blob/master/README.md
+- **easy-vibe** (repository) - 💻  Vibe Coding 101｜Your First Course For AI Product Builders. https://github.com/datawhalechina/easy-vibe/blob/main/README.md
+- **js-stack-from-scratch** (repository) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack. https://github.com/verekia/js-stack-from-scratch/blob/master/README.md
+- **aspnetcore-developer-roadmap** (repository) - Roadmap to becoming an ASP.NET Core developer in 2026 https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/README.md
+- **reverse-interview-zh** (repository) - 技术面试最后反问面试官的话 https://github.com/perkfly/reverse-interview-zh/blob/master/README.md
+- **book-mathematical-foundation-of-reinforcement-learning** (repository) - This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning." https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning/blob/main/README.md
+- **golang-developer-roadmap** (repository) - Roadmap to becoming a Go developer in 2020 https://github.com/darius-khll/golang-developer-roadmap/blob/master/README.md
+- **interview-2** (repository) - Everything you need to prepare for your technical interview https://github.com/Olshansk/interview/blob/master/README.md
+- **architecture-decision-record** (repository) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation https://github.com/architecture-decision-record/architecture-decision-record/blob/main/README.md
+- **openproject** (repository) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us https://github.com/opf/openproject/blob/dev/README.md
+- **embodied-ai-guide** (repository) - [Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide https://github.com/TianxingChen/Embodied-AI-Guide/blob/main/README.md
+- **leedl-tutorial** (repository) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases https://github.com/datawhalechina/leedl-tutorial/blob/master/README.md
+- **java8-tutorial** (repository) - Modern Java - A Guide to Java 8 https://github.com/winterbe/java8-tutorial/blob/master/README.md
+- **digital-video-introduction** (repository) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸 https://github.com/leandromoreira/digital_video_introduction/blob/master/README.md
+- **awesome-kubernetes** (repository) - A curated list for awesome kubernetes sources :ship::tada: https://github.com/ramitsurana/awesome-kubernetes/blob/master/README.md
+- **learn-vim** (repository) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖 https://github.com/iggredible/Learn-Vim/blob/master/README.md
+- **n-blog** (repository) - 《一起学 Node.js》 https://github.com/nswbmw/N-blog/blob/master/README.md
+- **mind-expanding-books** (repository) - :books: Find your next book to read! https://github.com/hackerkid/Mind-Expanding-Books/blob/master/README.md
+- **leetcode-patterns** (repository) - A pattern-based approach to learn technical interview questions https://github.com/seanprashad/leetcode-patterns/blob/main/README.md
+- **embedded-engineering-roadmap** (repository) - Comprehensive roadmap for aspiring Embedded Systems Engineers, featuring a curated list of learning resources https://github.com/m3y54m/Embedded-Engineering-Roadmap/blob/master/README.md
+- **cosmos** (repository) - World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project https://github.com/OpenGenus/cosmos/blob/master/README.md
+- **expert-readed-books** (repository) - 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍 https://github.com/0voice/expert_readed_books/blob/master/README.md
+- **android-interview-questions** (repository) - Your Cheat Sheet For Android Interview - Android Interview Questions and Answers https://github.com/amitshekhariitbhu/android-interview-questions/blob/master/README.md
+- **cs-book** (repository) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍 https://github.com/iamshuaidi/CS-Book/blob/master/README.md
+- **software-architecture-books** (repository) - A comprehensive list of books on Software Architecture. https://github.com/mhadidg/software-architecture-books/blob/master/README.md
+- **github** (repository) - GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest. https://github.com/phodal/github/blob/gh-pages/README.md
+- **awesome-database-learning** (repository) - A list of learning materials to understand databases internals https://github.com/pingcap/awesome-database-learning/blob/master/README.md
+- **defi-developer-road-map** (repository) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/README.md
+- **game-programmer-study-notes** (repository) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding. https://github.com/QianMo/Game-Programmer-Study-Notes/blob/master/README.md
+- **awesome-compilers** (repository) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes https://github.com/aalhour/awesome-compilers/blob/master/README.md
+- **sjtu-courses** (repository) - 上海交通大学课程资料分享 https://github.com/kxxwz/SJTU-Courses/blob/master/README.md
+- **roadmap** (repository) - GitHub public roadmap https://github.com/github/roadmap/blob/main/README.md
+- **roadmap-retos-programacion** (repository) - Ruta de estudio basada en ejercicios de código de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación. https://github.com/mouredev/roadmap-retos-programacion/blob/main/README.md
+- **lkmpg** (repository) - The Linux Kernel Module Programming Guide (updated for 5.0+ kernels) https://github.com/sysprog21/lkmpg/blob/master/README.md
+- **android-developer-roadmap** (repository) - 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems. https://github.com/skydoves/android-developer-roadmap/blob/main/README.md
+- **books** (repository) - Awesome Books https://github.com/gendotnew/books/blob/master/README.md
+- **from-0-to-research-scientist-resources-guide** (repository) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation. https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide/blob/main/README.md
+- **awesome-roadmaps** (repository) - A curated list of roadmaps. https://github.com/liuchong/awesome-roadmaps/blob/master/README.md
+- **52-technologies-in-2016** (repository) - Let's learn a new technology every week. A new technology blog every Sunday in 2016. https://github.com/shekhargulati/52-technologies-in-2016/blob/master/README.md
+- **net-backend-developer-roadmap** (repository) - Roadmap for a .NET Backend Developer working with Microservices https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap/blob/master/README.md
+- **openlibrary** (repository) - One webpage for every book ever published! https://github.com/internetarchive/openlibrary/blob/master/README.md
+- **gamedevmind** (repository) - 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。 https://github.com/gonglei007/GameDevMind/blob/main/README.md
+- **hacking-security-ebooks** (repository) - Top 100 Hacking & Security E-Books (Free Download) https://github.com/yeahhub/Hacking-Security-Ebooks/blob/master/README.md
+- **jantt** (repository) - The AI-native JSON Gantt chart engine. Dependency-free interactive timelines with React, script-tag, CLI, topological DAG solver, and formal JSON schema. https://github.com/AhmadHassan-BTed/Jantt/blob/main/README.md
+- **awesome-certificates** (repository) - Curated list of 20,000+ hours and 200+ free courses with certificates in IT, CS, Design and Business. https://github.com/PanXProject/awesome-certificates/blob/main/README.md
+- **awesome-javascript-learning** (repository) - A tiny list limited to the best JavaScript Learning Resources https://github.com/micromata/awesome-javascript-learning/blob/master/README.md
+- **awesome-infosec** (repository) - A curated list of awesome infosec courses and training resources. https://github.com/onlurking/awesome-infosec/blob/master/README.md
+- **kubernetes-handbook** (repository) - Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz https://github.com/feiskyer/kubernetes-handbook/blob/master/README.md
+- **containers-roadmap** (repository) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). https://github.com/aws/containers-roadmap/blob/master/README.md
+- **backend-cheats** (repository) - 📃 White paper for Backend developers https://github.com/cheatsnake/backend-cheats/blob/master/README.md
+- **awesome-scifi** (repository) - Sci-Fi worth consuming https://github.com/sindresorhus/awesome-scifi/blob/main/README.md
+- **tlroadmap** (repository) - Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим. https://github.com/tlbootcamp/tlroadmap/blob/master/README.md
+- **pdf-2** (repository) - 📚 计算机经典编程书籍、大黑书、编程电子书、电子书、编程书籍，包括计算机基础、C/C++、Java、Python、面试题、架构设计、算法系列等经典电子书。 https://github.com/GrindGold/pdf/blob/main/README.md
+- **awesome-vehicle-security** (repository) - 🚗  A curated list of resources for learning about vehicle security and car hacking. https://github.com/jaredthecoder/awesome-vehicle-security/blob/master/README.md
+- **awesome-ai-ml-resources** (repository) - Learn AI/ML for beginners with a roadmap and free resources. https://github.com/armankhondker/awesome-ai-ml-resources/blob/main/README.md
+- **awesome-books** (repository) - :books: 开发者推荐阅读的书籍 https://github.com/guanpengchn/awesome-books/blob/master/README.md
+- **java-developer-roadmap** (repository) - Roadmap to becoming a Java developer in 2026 https://github.com/s4kibs4mi/java-developer-roadmap/blob/main/README.md
+- **ai-ml-roadmap-from-scratch** (repository) - Become skilled in Artificial Intelligence, Machine Learning, Generative AI, Deep Learning, Data Science, Natural Language Processing, Reinforcement Learning and more with this complete 0 to 100 repository. https://github.com/aadi1011/AI-ML-Roadmap-from-scratch/blob/main/README.md
+- **awesome-computer-science-opportunities** (repository) - An awesome list of events and fellowship opportunities for Computer Science students https://github.com/anu0012/awesome-computer-science-opportunities/blob/master/README.md
+- **linux-bash-commands** (repository) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources https://github.com/trinib/Linux-Bash-Commands/blob/main/README.md
+- **sde-interview-and-prep-roadmap** (repository) - Welcome to the SDE Interview Preparation Roadmap! This repository is not just about my personal journey; it's a collaborative space for collective learning. As I prepare for Software Development Engineer (SDE) interviews, I've created a comprehensive checklist to guide my preparation. https://github.com/aasthas2022/SDE-Interview-and-Prep-Roadmap/blob/main/README.md
+- **book-notes** (repository) - Notes from books and other interesting things that I've read. Table of contents at the end 👇 https://github.com/mgp/book-notes/blob/master/README.md
+- **full-speed-python** (repository) - Full Speed Python: a book for self-learners https://github.com/joaoventura/full-speed-python/blob/master/README.md
+- **dockercheatsheet** (repository) - 🐋 Docker Cheat Sheet 🐋 https://github.com/eon01/DockerCheatSheet/blob/master/README.md
+- **awesome-css-learning** (repository) - A tiny list limited to the best CSS Learning Resources https://github.com/micromata/awesome-css-learning/blob/master/README.md
+- **awesome-cyber-security-university** (repository) - 🎓 Because Education should be free. Contributions welcome! 🕵️ https://github.com/brootware/awesome-cyber-security-university/blob/main/README.md
+- **dotnet-developer-roadmap** (repository) - The comprehensive .NET Developer Roadmap for 2026 by seniority level. https://github.com/milanm/DotNet-Developer-Roadmap/blob/main/README.md
+- **awesome-learn-gamedev** (repository) - A curated collection of game development learning resources https://github.com/dawdle-deer/awesome-learn-gamedev/blob/main/README.md
+- **coding-resources** (repository) - A month-by-month roadmap for CS students: programming, DSA, development and placement prep, with curated free resources. https://github.com/nishant-Tiwari24/coding-resources/blob/main/README.md
+- **cppdeveloperroadmap** (repository) - The roadmap for learning the C++ programming language for beginners and experienced devs. https://github.com/salmer/CppDeveloperRoadmap/blob/main/README.md
+- **technical-books** (repository) - :books:🔥收集全网最热门的技术书籍 (GO、黑客、Android、计算机原理、人工智能、大数据、机器学习、数据库、PHP、java、架构、消息队列、算法、python、爬虫、操作系统、linux、C语言)，不间断更新中:hotsprings: https://github.com/TIM168/technical_books/blob/master/README.md
+- **awesome-katas** (repository) - A curated list of code katas https://github.com/gamontal/awesome-katas/blob/master/README.md
+- **study-floder** (repository) - 相当不错的图书，例如《数学之美》《提问的智慧》《软件工程可靠性》《时间简史》《毛泽东选集【全四卷】》《浪潮之巅》《金字塔原理》《TCP/IP卷一/卷二/卷三》《[荐]深入浅出设计模式》等；一些大的上传受限制的文件《图解TCP_IP_第5版》等在README https://github.com/singgel/Study-Floder/blob/master/README.md
+- **booknotes** (repository) - A collection of my book notes on various subjects, mainly computer science https://github.com/presmihaylov/booknotes/blob/master/README.md
+- **computer-vision-in-action** (repository) - A computer vision closed-loop learning platform where code can be run interactively online. 学习闭环《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...） 📘 在线电子书 https://charmve.github.io/computer-vision-in-action/   👇项目主页 https://github.com/Charmve/computer-vision-in-action/blob/main/README.md
+- **karpathy-llm-wiki-2** - Markdown-first skill for building and maintaining a personal LLM wiki from raw sources, compiled knowledge pages, query workflows, and linting. https://github.com/Astro-Han/karpathy-llm-wiki/blob/main/SKILL.md
+- **sqa-wiki** (repository) - My own notes (drafts mostly) about software quality https://github.com/ligurio/sqa-wiki/blob/master/README.md
+- **study-is-wonderful** (repository) - awesome public courses and wonderful study resource https://github.com/xioacd99/study-is-wonderful/blob/main/README.md
+- **awesome-ai-agents** (repository) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents. https://github.com/jim-schwoebel/awesome_ai_agents/blob/main/README.md
+- **learn-x-by-doing-y** (repository) - 🛠️ Learn a technology X by doing a project  - Search engine of project-based learning https://github.com/aquadzn/learn-x-by-doing-y/blob/main/README.md
+- **free-courses-for-everyone** (repository) - Download or get free coupons from famous course websites. https://github.com/MasterBrian99/Free-Courses-For-Everyone/blob/master/README.md
+- **awesome-economics** (repository) - A curated collection of links for economists https://github.com/antontarasenko/awesome-economics/blob/default/README.md
+- **awesome-cn** (repository) - 超赞列表合集 https://github.com/icopy-site/awesome-cn/blob/master/README.md
+- **cs-awesome-courses** (repository) - 计算机的优秀课程 https://github.com/jackwener/CS-Awesome-Courses/blob/master/README.md
+- **computer-science-cn** (repository) - 🎓计算机技术与科学自学之旅 https://github.com/ossu/computer-science-cn/blob/master/README.md
+- **bevibing-tutor-skills** (repository) - Transform docs or codebases into Obsidian StudyVaults with interactive quizzes. https://github.com/bevibing/tutor-skills/blob/main/README.md
+- **dev-resources** (repository) - A collaborative list of resources for developers https://github.com/marcelscruz/dev-resources/blob/main/README.md
+- **awesome-learning** (repository) - A curated list of awesome learning resources for a Software Test Automation Engineer https://github.com/mfaisalkhatri/awesome-learning/blob/main/README.md
+- **courselit** (repository) - Create/Sell courses and digital downloads and publish blogs on your own branded website. An open source alternative to Teachable, Thinkific, Podia and the likes. https://github.com/codelitdev/courselit/blob/main/README.md
+- **free-resources** (repository) - آرشیو منابع رایگان آموزش برنامه نویسی به زبان فارسی ( هر کسی باید بتونه برنامه نویسی رو یاد بگیره، مهم نیست پول داره یا نداره، به امید اینکه کسی به خاطر نداشتن پول از آموزش عقب نمونه ) https://github.com/barnamenevisi/free-resources/blob/master/README.md
+- **courses** (repository) - Awesome Courses https://github.com/gendotnew/courses/blob/master/README.md
+- **free-certifications** (repository) - This repository contains the list of all the development courses available with  free certifications. https://github.com/ArslanYM/Free-Certifications/blob/main/README.md
+- **data-analyst-roadmap** (repository) - Based on my own experience, I believe this roadmap provides clear answers to all the key questions about becoming a data analyst from scratch, including which technologies and programming languages to learn, what soft skills are essential, and how to start a professional career in this field. https://github.com/mtahiraslan/data-analyst-roadmap/blob/main/README.md
+- **tju-coursesharing** (repository) - 天津大学课程共享计划 https://github.com/superpung/TJU-CourseSharing/blob/main/README.md
+- **repl** (repository) - The Learning Hub for UoL's Online CS Students https://github.com/world-class/REPL/blob/master/README.md
+- **assessment-validity-checker** - Audits assessments for validity, reliability, and learning alignment. https://github.com/GarethManning/education-agent-skills/blob/main/skills/curriculum-assessment/assessment-validity-checker/SKILL.md
+- **learning-target-authoring-guide** - Authors observable competency learning targets across developmental bands. https://github.com/GarethManning/education-agent-skills/blob/main/skills/original-frameworks/learning-target-authoring-guide/SKILL.md
+- **progressive-hint-ladder** - Provides graduated hints while preserving learner thinking and agency. https://github.com/GarethManning/education-agent-skills/blob/main/skills/student-learning/progressive-hint-ladder/SKILL.md
+- **curated-lists** (repository) - Curated lists on various topics https://github.com/gendotnew/curated-lists/blob/main/README.md
+- **community** (repository) - Repository for public issue-tracking and discussions https://github.com/scrimba/community/blob/master/README.md
+- **free-courses-with-certificates** (repository) - Collection of free courses with certificates https://github.com/avinash201199/Free-courses-with-Certificates/blob/main/README.md
+- **awesome-learn-by-playing** (repository) - A collection of tech resources that allow you to learn new things by playing games https://github.com/lmammino/awesome-learn-by-playing/blob/main/README.md
+- **free-courses** (repository) - Free IT courses https://github.com/alinebastos/free-courses/blob/master/README.md
+- **learn-ruby** (repository) - Learning resources for Ruby, Rails, and related skills. https://github.com/fpsvogel/learn-ruby/blob/main/README.md
+- **turingcourses** (repository) - 浙江大学图灵班课程学习指南 https://github.com/ZJU-Turing/TuringCourses/blob/master/README.md
+- **awesome-matlab-students** (repository) - An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink. https://github.com/mathworks/awesome-matlab-students/blob/main/README.md
+- **ai-developer-resources** (repository) - I am Duncan, a cofounder at Rose City Robotics. This public repository is used as an easy to update list of resources for AI developers including technical courses, books, and tutorials on artificial intelligence, deep learning and machine learning. PRs welcome! https://github.com/RoseCityRobotics/ai-developer-resources/blob/main/README.md
+- **awesome-fsrs** (repository) - A curated list of awesome FSRS implementations, papers and resources https://github.com/open-spaced-repetition/awesome-fsrs/blob/main/README.md
+- **awesome-ai-summerschool** (repository) - An awesome list of summer schools on Artificial Intelligence, Machine Learning, and Healthcare https://github.com/hazratali/awesome-ai-summerschool/blob/main/README.md
+- **mlops-coding-course** (repository) - Learn how to create, develop, and maintain a state-of-the-art MLOps code base https://github.com/fmind/mlops-coding-course/blob/main/README.md
+- **awesome-ios-books** (repository) - 📚 Directory of iOS books https://github.com/bystritskiy/awesome-ios-books/blob/master/README.md
+- **deep-learning-resources** (repository) - 由淺入深的深度學習資源 Collection of deep learning materials for everyone https://github.com/leemengtw/deep-learning-resources/blob/master/README.md
+- **claudemy** - Create short audio courses with research, lesson cards, and practice exercises. https://github.com/assafkip/claudemy/blob/main/skills/claudemy/SKILL.md
+- **youtube-channels** (repository) - A comprehensive list of YouTube channels and other resources. https://github.com/PrejudiceNeutrino/YouTube_Channels/blob/main/README.md
+- **all-in-one-cybersecurity-resources** (repository) - List of CyberSecurity Resources and some different Sub-Domains of CyberSecurity https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/blob/main/README.md
+- **learn-this** - Extract web content and create an action plan. https://github.com/michalparkola/tapestry-skills/blob/main/learn-this/SKILL.md
+- **ship-learn-next-2** - Skill to help iterate on what to build or learn next, based on feedback loops. https://github.com/michalparkola/tapestry-skills/blob/main/ship-learn-next/SKILL.md
+- **free-courses-2** (repository) - A collection of free courses about programming :book: https://github.com/Leocardoso94/Free-Courses/blob/master/README.md
+- **awesome-embodied-ai** (repository) - A curated list of awesome papers on Embodied AI and related research/industry-driven resources. https://github.com/haoranD/Awesome-Embodied-AI/blob/main/README.md
+- **courses-2** (repository) - 课件：数字图像处理，深度学习，计算机视觉，机器学习 https://github.com/fei-aiart/courses/blob/main/README.md
+- **command-line-tools** (repository) - Awesome Command Line Utilities https://github.com/gendotnew/command-line-tools/blob/master/README.md
+- **everything-web-scraping** (repository) - Learn everything web scraping with David Teather Codes on YouTube https://github.com/davidteather/everything-web-scraping/blob/main/README.md
+- **python-developer-roadmap** (repository) - Roadmap for becoming Python developer. https://github.com/ErdemOzgen/Python-developer-roadmap/blob/main/README.md
+- **safari-extensions** (repository) - Awesome Safari extensions https://github.com/gendotnew/safari-extensions/blob/master/README.md
+- **universal-exam-cram-coach** (repository) - Study for exams using your notes, cited explanations, and practice questions. https://github.com/ZeKaiNie/universal-examprep-skill/blob/main/README.md
+- **awesome** (repository) - collection of awesome lists https://github.com/icopy-site/awesome/blob/master/README.md
+- **master-skill-skill** - Turn an industry's mental models and workflows into reusable agent skills. https://github.com/swaylq/master-skill/blob/main/SKILL.md
+- **llm-wiki** (repository) - Build and maintain an LLM-curated personal knowledge base with sharded indexes and search. https://github.com/praneybehl/llm-wiki-plugin/blob/main/README.md
+- **understanding-ladder** - Choose text, diagrams, interactive visuals, or video to explain concepts. https://github.com/ChangWenC/understanding-ladder/blob/main/skills/understanding-ladder/SKILL.md
+- **wiki** - Manage indexed Markdown knowledge bases for agents with scoped retrieval and deterministic indexes. https://github.com/plasma-ai/wiki/blob/main/wiki/skills/wiki/SKILL.md
+- **research-field-onboarding** (repository) - Learn unfamiliar research fields through prerequisite checks and guided lessons. https://github.com/ljx-chase/research-field-onboarding/blob/main/README.md
+- **roundtable02-tutor-skills** (repository) - Transform docs or codebases into interactive StudyVaults. https://github.com/RoundTable02/tutor-skills/blob/main/README.md

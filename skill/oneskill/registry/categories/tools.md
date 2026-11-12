@@ -1,0 +1,170 @@
+# tools - best rated first
+
+- **anthropic-skills-repository** (repository) - Official example skills. https://github.com/anthropics/skills/blob/main/README.md
+- **garrytan-gstack** - Full gstack collection: YC founder stack for planning, review, QA, and shipping. https://github.com/garrytan/gstack/blob/main/SKILL.md
+- **plan-ceo-review** - CEO/Founder plan review modes. https://github.com/garrytan/gstack/blob/main/plan-ceo-review/SKILL.md
+- **skill-md-18** - Validate work before finalizing. https://github.com/obra/superpowers/blob/main/skills/verification-before-completion/SKILL.md
+- **skill-md-7** - Implement and run strategic plans. https://github.com/obra/superpowers/blob/main/skills/executing-plans/SKILL.md
+- **theme-factory** - Style artifacts with professional themes or generate custom themes. https://github.com/anthropics/skills/blob/main/skills/theme-factory/SKILL.md
+- **ad-creative** - Generate and iterate ad creative including headlines, descriptions, and primary text. https://github.com/coreyhaines31/marketingskills/blob/main/skills/ad-creative/SKILL.md
+- **content-strategy** - Plan content strategy and decide what topics and formats to prioritize. https://github.com/coreyhaines31/marketingskills/blob/main/skills/content-strategy/SKILL.md
+- **launch** - Plan product launches, feature announcements, and go-to-market strategies. https://github.com/coreyhaines31/marketingskills/blob/main/skills/launch/SKILL.md
+- **onboarding** - Optimize post-signup onboarding and user activation to improve time-to-value. https://github.com/coreyhaines31/marketingskills/blob/main/skills/onboarding/SKILL.md
+- **popups** - Create and optimize popups, modals, and slide-ins for conversions. https://github.com/coreyhaines31/marketingskills/blob/main/skills/popups/SKILL.md
+- **signup** - Optimize signup, registration, and trial activation flows for higher conversion. https://github.com/coreyhaines31/marketingskills/blob/main/skills/signup/SKILL.md
+- **site-architecture** - Plan and restructure page hierarchy, navigation, and URL structure. https://github.com/coreyhaines31/marketingskills/blob/main/skills/site-architecture/SKILL.md
+- **patrickjs-awesome-cursorrules** (repository) - The most comprehensive collection of .cursorrules files, categorized by framework and language. https://github.com/PatrickJS/awesome-cursorrules/blob/main/README.md
+- **npx-skills** (repository) - CLI to search, install, and manage skills. https://github.com/vercel-labs/skills/blob/main/README.md
+- **vercel-optimize** - Metric-backed Vercel cost and performance optimization audits. https://github.com/vercel-labs/agent-skills/blob/main/skills/vercel-optimize/SKILL.md
+- **gws-drive** - Manage Google Drive files, folders, and shared drives. https://github.com/googleworkspace/cli/blob/main/skills/gws-drive/SKILL.md
+- **analyze-feature-requests** - Prioritize feature requests by theme, impact, effort, and risk. https://github.com/phuryn/pm-skills/blob/main/pm-product-discovery/skills/analyze-feature-requests/SKILL.md
+- **beachhead-segment** - Identify the first beachhead market segment for product launch. https://github.com/phuryn/pm-skills/blob/main/pm-go-to-market/skills/beachhead-segment/SKILL.md
+- **brainstorm-ideas-new** - Brainstorm feature ideas for new products in early discovery. https://github.com/phuryn/pm-skills/blob/main/pm-product-discovery/skills/brainstorm-ideas-new/SKILL.md
+- **brainstorm-okrs** - Brainstorm team OKRs aligned with company objectives. https://github.com/phuryn/pm-skills/blob/main/pm-execution/skills/brainstorm-okrs/SKILL.md
+- **competitive-battlecard** - Create sales-ready battlecards against specific competitors. https://github.com/phuryn/pm-skills/blob/main/pm-go-to-market/skills/competitive-battlecard/SKILL.md
+- **create-prd** - Create a PRD with 8-section template covering problem to release. https://github.com/phuryn/pm-skills/blob/main/pm-execution/skills/create-prd/SKILL.md
+- **draft-nda** - Draft NDAs covering information types, jurisdiction, and clauses. https://github.com/phuryn/pm-skills/blob/main/pm-toolkit/skills/draft-nda/SKILL.md
+- **gtm-strategy** - Create GTM strategy with channels, messaging, and launch timeline. https://github.com/phuryn/pm-skills/blob/main/pm-go-to-market/skills/gtm-strategy/SKILL.md
+- **identify-assumptions-existing** - Identify risky assumptions across Value, Usability, Viability, Feasibility. https://github.com/phuryn/pm-skills/blob/main/pm-product-discovery/skills/identify-assumptions-existing/SKILL.md
+- **identify-assumptions-new** - Identify risky assumptions for new products across 8 risk categories. https://github.com/phuryn/pm-skills/blob/main/pm-product-discovery/skills/identify-assumptions-new/SKILL.md
+- **job-stories** - Create job stories with acceptance criteria in JTBD format. https://github.com/phuryn/pm-skills/blob/main/pm-execution/skills/job-stories/SKILL.md
+- **lean-canvas** - Generate Lean Canvas with problem, solution, UVP, and metrics. https://github.com/phuryn/pm-skills/blob/main/pm-product-strategy/skills/lean-canvas/SKILL.md
+- **monetization-strategy** - Brainstorm 3-5 monetization strategies with validation experiments. https://github.com/phuryn/pm-skills/blob/main/pm-product-strategy/skills/monetization-strategy/SKILL.md
+- **outcome-roadmap** - Transform output roadmaps into outcome-focused strategic plans. https://github.com/phuryn/pm-skills/blob/main/pm-execution/skills/outcome-roadmap/SKILL.md
+- **pestle-analysis** - PESTLE analysis across Political, Economic, Social, Tech, Legal, Environmental. https://github.com/phuryn/pm-skills/blob/main/pm-product-strategy/skills/pestle-analysis/SKILL.md
+- **porters-five-forces** - Porter's Five Forces competitive analysis with strategic insights. https://github.com/phuryn/pm-skills/blob/main/pm-product-strategy/skills/porters-five-forces/SKILL.md
+- **pre-mortem** - Run pre-mortem risk analysis on PRDs and launch plans. https://github.com/phuryn/pm-skills/blob/main/pm-execution/skills/pre-mortem/SKILL.md
+- **prioritization-frameworks** - Reference guide to 9 prioritization frameworks with templates. https://github.com/phuryn/pm-skills/blob/main/pm-execution/skills/prioritization-frameworks/SKILL.md
+- **prioritize-assumptions** - Prioritize assumptions with Impact × Risk matrix and experiments. https://github.com/phuryn/pm-skills/blob/main/pm-product-discovery/skills/prioritize-assumptions/SKILL.md
+- **prioritize-features** - Prioritize backlog by impact, effort, risk, and strategic alignment. https://github.com/phuryn/pm-skills/blob/main/pm-product-discovery/skills/prioritize-features/SKILL.md
+- **privacy-policy** - Draft privacy policies with GDPR compliance considerations. https://github.com/phuryn/pm-skills/blob/main/pm-toolkit/skills/privacy-policy/SKILL.md
+- **product-strategy** - Create product strategy using 9-section Product Strategy Canvas. https://github.com/phuryn/pm-skills/blob/main/pm-product-strategy/skills/product-strategy/SKILL.md
+- **product-vision** - Brainstorm inspiring, achievable product vision statements. https://github.com/phuryn/pm-skills/blob/main/pm-product-strategy/skills/product-vision/SKILL.md
+- **retro** - Facilitate structured sprint retrospectives with action items. https://github.com/phuryn/pm-skills/blob/main/pm-execution/skills/retro/SKILL.md
+- **swot-analysis** - SWOT analysis with actionable recommendations per quadrant. https://github.com/phuryn/pm-skills/blob/main/pm-product-strategy/skills/swot-analysis/SKILL.md
+- **user-stories** - Create INVEST-compliant user stories with 3 C's structure. https://github.com/phuryn/pm-skills/blob/main/pm-execution/skills/user-stories/SKILL.md
+- **wwas** - Create backlog items in Why-What-Acceptance format. https://github.com/phuryn/pm-skills/blob/main/pm-execution/skills/wwas/SKILL.md
+- **aihot** - Query Chinese AI news, current topics, and daily briefs from AIHOT through anonymous read-only requests; retain dates and original-source links. Service terms apply separately from the MIT-licensed skill. https://github.com/KKKKhazix/khazix-skills/blob/main/aihot/SKILL.md
+- **context-optimization** - Apply compaction, masking, and caching strategies. https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/blob/main/skills/context-optimization/SKILL.md
+- **instagram-upload** - Publish Reels, images, and carousels to Instagram. https://github.com/dreammis/social-auto-upload/blob/main/skills/instagram-upload/SKILL.md
+- **social-auto-upload** - Cross-platform publishing CLI and skills for 17 social platforms. https://github.com/dreammis/social-auto-upload/blob/main/skills/social-auto-upload/SKILL.md
+- **xueqiu-upload** - Publish long-form articles to Xueqiu. https://github.com/dreammis/social-auto-upload/blob/main/skills/xueqiu-upload/SKILL.md
+- **hf-cli** - HF CLI tool for Hub operations. https://github.com/huggingface/skills/blob/main/skills/hf-cli/SKILL.md
+- **openskills** (repository) - Global Skills loading tool for multiple platforms. https://github.com/numman-ali/openskills/blob/main/README.md
+- **issue-268** (repository) - . https://github.com/anthropics/claude-agent-sdk-python/blob/main/README.md
+- **altitude-horizon-framework** - Navigate the PM→Director mindset shift covering scope, time horizons, and failure modes. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/altitude-horizon-framework/SKILL.md
+- **director-readiness-advisor** - Coach the PM→Director transition across four key situations. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/director-readiness-advisor/SKILL.md
+- **eol-message** - Communicate product or feature deprecation gracefully. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/eol-message/SKILL.md
+- **epic-breakdown-advisor** - Split epics into stories using Richard Lawrence's 9 splitting patterns. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/epic-breakdown-advisor/SKILL.md
+- **executive-onboarding-playbook** - 30-60-90 day diagnostic playbook for VP/CPO onboarding transitions. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/executive-onboarding-playbook/SKILL.md
+- **feature-investment-advisor** - Evaluate features using ROI and strategic value scoring. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/feature-investment-advisor/SKILL.md
+- **pestel-analysis** - Analyze external factors across Political, Economic, Social, Tech, Environmental, and Legal dimensions. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/pestel-analysis/SKILL.md
+- **pol-probe-advisor** - Recommend prototype type: Feasibility, Task-Focused, Narrative, Synthetic, or Vibe. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/pol-probe-advisor/SKILL.md
+- **positioning-statement** - Define target audience, problem solved, and differentiation using Geoffrey Moore's framework. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/positioning-statement/SKILL.md
+- **positioning-workshop** - Guide positioning definition with adaptive discovery questions. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/positioning-workshop/SKILL.md
+- **prd-development** - Structured PRD process: problem → personas → solution → metrics → stories (2-4 days). https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/prd-development/SKILL.md
+- **press-release** - Clarify product vision with a future press release using Amazon's Working Backwards method. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/press-release/SKILL.md
+- **prioritization-advisor** - Recommend the right prioritization framework (RICE, ICE, Kano, etc.) for your situation. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/prioritization-advisor/SKILL.md
+- **problem-framing-canvas** - Lead through MITRE Problem Framing: Look Inward, Outward, and Reframe. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/problem-framing-canvas/SKILL.md
+- **product-strategy-session** - Full strategy session: positioning → framing → exploration → roadmap (2-4 weeks). https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/product-strategy-session/SKILL.md
+- **recommendation-canvas** - Document AI-powered product recommendations. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/recommendation-canvas/SKILL.md
+- **roadmap-planning** - Strategic roadmap process: inputs → epics → prioritize → sequence → communicate (1-2 weeks). https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/roadmap-planning/SKILL.md
+- **workshop-facilitation** - Add step-by-step facilitation with numbered recommendations to any workshop. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/workshop-facilitation/SKILL.md
+- **n8n-expression-syntax** - n8n expression syntax with {{}} and $json/$node variables. https://github.com/czlonkowski/n8n-skills/blob/main/skills/n8n-expression-syntax/SKILL.md
+- **n8n-node-configuration** - Node configuration with dependency rules and AI connections. https://github.com/czlonkowski/n8n-skills/blob/main/skills/n8n-node-configuration/SKILL.md
+- **n8n-validation-expert** - Fix n8n validation errors with error catalog. https://github.com/czlonkowski/n8n-skills/blob/main/skills/n8n-validation-expert/SKILL.md
+- **browser-act** - Automate authenticated browsers with extraction and human handoff. https://github.com/browser-act/skills/blob/main/browser-act/SKILL.md
+- **answer-me-with-html** - Answers hard questions as readable, self-contained HTML pages. https://github.com/QingYunA/answer-me-with-html/blob/main/skills/answer-me-with-html/SKILL.md
+- **jiangshan-atlas** - Locate Chinese historical events, classical poems, ancient places, and figure trajectories. https://github.com/DeanChensj/jiangshan-map/blob/main/skills/jiangshan-atlas/SKILL.md
+- **sanjeed5-awesome-cursor-rules-mdc** (repository) - Curated .mdc format rules with a generator tool. https://github.com/sanjeed5/awesome-cursor-rules-mdc/blob/main/README.md
+- **op7418-nanobanana-ppt-skills** - AI-powered PPT generation with document analysis and styled images. https://github.com/op7418/NanoBanana-PPT-Skills/blob/main/SKILL.md
+- **kordoc-2** - Convert Korean HWP/HWPX documents to Markdown, fill forms, generate HWPX. https://github.com/chrisryugj/kordoc/blob/main/plugins/kordoc/skills/kordoc/SKILL.md
+- **wp-block-development** - Gutenberg blocks: block.json, attributes, rendering. https://github.com/WordPress/agent-skills/blob/trunk/skills/wp-block-development/SKILL.md
+- **wp-playground** - WordPress Playground for instant local environments. https://github.com/WordPress/agent-skills/blob/trunk/skills/wp-playground/SKILL.md
+- **eatmoreduck-boss-zhipin-scraper** - BOSS Zhipin (zhipin.com) job scraper via Chrome CDP, plaintext salaries. https://github.com/eatmoreduck/boss-zhipin-scraper/blob/master/SKILL.md
+- **nexscope-ai-ecommerce-skills** (repository) - 150+ ecommerce skills for Amazon, Shopify, Etsy, TikTok sellers. https://github.com/nexscope-ai/eCommerce-Skills/blob/main/README.md
+- **crypto-market-rank** - Query crypto market rankings and leaderboards. https://github.com/binance/binance-skills-hub/blob/main/skills/binance-web3/crypto-market-rank/SKILL.md
+- **the-ralph-playbook** (repository) - A remarkably detailed and comprehensive guide to the Ralph Wiggum technique, featuring well-written theoretical commentary paired with practical guidelines and advice. https://github.com/ClaytonFarr/ralph-playbook/blob/main/README.md
+- **competency-unpacker** - Unpacks broad competencies into assessable sub-skills and success criteria. https://github.com/GarethManning/education-agent-skills/blob/main/skills/curriculum-assessment/competency-unpacker/SKILL.md
+- **huifer-wellally-health** (repository) - A health assistant skill for medical information analysis, symptom tracking, and wellness guidance. https://github.com/huifer/WellAlly-health/blob/main/README.md
+- **wshuyi-x-article-publisher-skill** (repository) - Publish articles to X/Twitter. https://github.com/wshuyi/x-article-publisher-skill/blob/main/README.md
+- **yuwen-cool-yuwen-publish-precheck** - Review Chinese social content before publishing, with source-backed corrections. https://github.com/yuwen-cool/yuwen-publish-precheck/blob/master/SKILL.md
+- **avatar-extraction** - Define exactly who the buyer is, what they want, what they've tried, and what's driving their decisions. https://github.com/realkimbarrett/advertising-skills/blob/main/skills/foundations/avatar-extraction/SKILL.md
+- **generic-language-killer** - Remove vague, corporate, or AI-sounding language and replace it with clear, specific, human wording. https://github.com/realkimbarrett/advertising-skills/blob/main/skills/qa/generic-language-killer/SKILL.md
+- **headline-matrix** - Generate high-performing headline variations across different angles. https://github.com/realkimbarrett/advertising-skills/blob/main/skills/copy-chief/headline-matrix/SKILL.md
+- **objection-crusher** - Identify and neutralize buyer objections and hesitation. https://github.com/realkimbarrett/advertising-skills/blob/main/skills/copy-chief/objection-crusher/SKILL.md
+- **offer-extraction** - Turn a product or service into a compelling, high-converting offer. https://github.com/realkimbarrett/advertising-skills/blob/main/skills/foundations/offer-extraction/SKILL.md
+- **schwartz-awareness-mapper** - Determine audience awareness level and the correct messaging approach. https://github.com/realkimbarrett/advertising-skills/blob/main/skills/copy-chief/schwartz-awareness-mapper/SKILL.md
+- **scroll-stopping-creative** - Create ad concepts that stop attention in the first 3 seconds. https://github.com/realkimbarrett/advertising-skills/blob/main/skills/operator-os/scroll-stopping-creative/SKILL.md
+- **duyunzhoudyz-dyz-gongwen-skills** (repository) - Chinese official document drafting, review and GB/T 9704 formatting. https://github.com/duyunzhoudyz/dyz-gongwen-skills/blob/main/README.md
+- **firecrawl-2** - Scrape, crawl, search, and map the web via CLI. https://github.com/firecrawl/cli/blob/main/skills/firecrawl/SKILL.md
+- **firecrawl-scrape** - Scrape web pages and extract content. https://github.com/firecrawl/cli/blob/main/skills/firecrawl-scrape/SKILL.md
+- **firecrawl-search** - Search the web and extract results. https://github.com/firecrawl/cli/blob/main/skills/firecrawl-search/SKILL.md
+- **duckdb-docs** - Search DuckDB and DuckLake documentation. https://github.com/duckdb/duckdb-skills/blob/main/skills/duckdb-docs/SKILL.md
+- **clickhouse-best-practices** - Best practices for working with ClickHouse. https://github.com/ClickHouse/agent-skills/blob/main/skills/clickhouse-best-practices/SKILL.md
+- **market-signal-tracker** - Operating system for logging market/competitive signals with severity, confidence, and routing. https://github.com/gtmagents/gtm-agents/blob/main/plugins/competitive-intelligence/skills/market-signal-tracker/SKILL.md
+- **dougtrajano-pydantic-ai-skills** (repository) - Pydantic AI integration. https://github.com/DougTrajano/pydantic-ai-skills/blob/main/README.md
+- **everyinc-charlie-cfo-skill** - Bootstrapped CFO financial management inspired by Charlie Munger. https://github.com/EveryInc/charlie-cfo-skill/blob/main/SKILL.md
+- **uucz-moyu** - Anti-over-engineering skill with 5 variants and 10 platforms. https://github.com/uucz/moyu/blob/main/skills/moyu/SKILL.md
+- **unifly** - Inspect and manage Ubiquiti UniFi networks through the unifly CLI. https://github.com/hyperb1iss/unifly/blob/main/skills/unifly/SKILL.md
+- **evaluate-skill** - Measures skill reliability with repeated runs, with and without it. https://github.com/edonadei/caliper/blob/main/skills/evaluate-skill/SKILL.md
+- **best-practices** - Best practices for Better Auth integration. https://github.com/better-auth/skills/blob/main/better-auth/best-practices/SKILL.md
+- **create-auth** - Create authentication setup with Better Auth. https://github.com/better-auth/skills/blob/main/better-auth/create-auth/SKILL.md
+- **twofactor** - Two-factor authentication with Better Auth. https://github.com/better-auth/skills/blob/main/better-auth/twoFactor/SKILL.md
+- **evol-ai-skillcompass** - Local-first skill quality evaluator scoring 6 dimensions with fix suggestions and version tracking. https://github.com/Evol-ai/SkillCompass/blob/main/SKILL.md
+- **tinqiao-oss-engramory** - Curated plain-Markdown long-term memory with a size-capped index. https://github.com/tinqiao-oss/engramory/blob/master/SKILL.md
+- **integrate-whatsapp** - Connect WhatsApp, set up webhooks, and send messages. https://github.com/gokapso/agent-skills/blob/master/skills/integrate-whatsapp/SKILL.md
+- **venice-audio-music** - Music generation queueing, retrieval, and completion endpoints. https://github.com/veniceai/skills/blob/main/skills/venice-audio-music/SKILL.md
+- **venice-characters** - Character endpoints and characterslug usage. https://github.com/veniceai/skills/blob/main/skills/venice-characters/SKILL.md
+- **venice-chat** - Chat completions, multimodal inputs, tools, and streaming. https://github.com/veniceai/skills/blob/main/skills/venice-chat/SKILL.md
+- **venice-crypto-rpc** - JSON-RPC proxying for supported crypto networks. https://github.com/veniceai/skills/blob/main/skills/venice-crypto-rpc/SKILL.md
+- **venice-image-edit** - Image edits, upscaling, and background removal. https://github.com/veniceai/skills/blob/main/skills/venice-image-edit/SKILL.md
+- **venice-image-generate** - Image generation endpoints and available styles. https://github.com/veniceai/skills/blob/main/skills/venice-image-generate/SKILL.md
+- **venice-x402** - Wallet credits and x402 payments on Base. https://github.com/veniceai/skills/blob/main/skills/venice-x402/SKILL.md
+- **browser-relay** - Control an existing logged-in Chrome without stealing focus. https://github.com/reliefeai/browser-relay/blob/v1.4.1/skills/browser-relay/SKILL.md
+- **ai-news** - Answer "what's new in AI" questions from dated AI news briefings, citing the source posts. https://github.com/Drix10/ai-resources/blob/main/skills/ai-news/SKILL.md
+- **khendzel-skills-janitor** (repository) - Token audit, usage tracking, and swipe-to-delete skill pruning. https://github.com/khendzel/skills-janitor/blob/main/README.md
+- **omidzamani-dspy-skills** (repository) - Skills for DSPy framework. https://github.com/OmidZamani/dspy-skills/blob/master/README.md
+- **explore** - Profile warehouses, verify joins, and map schemas. https://github.com/exmergo/dex/blob/main/skills/explore/SKILL.md
+- **foreign-academic-translator** - Translate foreign academic handouts into Chinese with subject glossaries. https://github.com/Koloyaaa/foreign-academic-translator-skill/blob/main/skills/foreign-academic-translator/SKILL.md
+- **frmoretto-stream-coding** - Stream Coding methodology. https://github.com/frmoretto/stream-coding/blob/main/SKILL.md
+- **prisma-skills** (repository) - Official Prisma skills: ORM, Postgres, Compute and migrations. https://github.com/prisma/skills/blob/main/README.md
+- **search** - Search 600k+ real app screens, flows and sections. https://github.com/mobbin/skills/blob/main/skills/search/SKILL.md
+- **asd-audhd-pai-skills** (repository) - New collection, first skill pda-reframing can reframe requests or decisions to defeat Persistent Demand Avoidance flavors of autism spectrum disorders, or people with ADHD that struggle to Start tasks and need help aligning with a task. https://github.com/emory/ASD-AuDHD-PAI-Skills/blob/main/README.md
+- **typefully** - Create, schedule, and publish social media content. https://github.com/typefully/agent-skills/blob/main/skills/typefully/SKILL.md
+- **chatcrystal-task-writeback** - Persist reusable task memories through ChatCrystal Core writeback, or emit structured memory candidates when Core is unavailable. https://github.com/ZengLiangYi/ChatCrystal/blob/main/skills/chatcrystal-task-writeback/SKILL.md
+- **jakedahn-pomodoro** (repository) - System Skill Pattern — skills that remember and improve. https://github.com/jakedahn/pomodoro/blob/main/README.md
+- **robzolkos-skill-rails-upgrade** - Analyze Rails apps and provide upgrade assessments. https://github.com/robzolkos/skill-rails-upgrade/blob/master/SKILL.md
+- **verdikta-bounties-onboarding** - Hunt and post AI-judged escrow bounties on Base. https://github.com/verdikta/verdikta-applications/blob/main/skills/verdikta-bounties-onboarding/SKILL.md
+- **netlify-edge-functions** - Low-latency edge middleware and geolocation logic. https://github.com/netlify/context-and-tools/blob/main/skills/netlify-edge-functions/SKILL.md
+- **cypress-docs** - Search and extract Cypress information from official documentation. https://github.com/cypress-io/ai-toolkit/blob/main/skills/cypress-docs/SKILL.md
+- **msg91-m91-skill** - Ask a human for approval on their phone. https://github.com/MSG91/m91-skill/blob/main/SKILL.md
+- **checking-delivery** - Check delivery at its destination and separate acknowledgements from verified consumer results. https://github.com/Grit-77/done-is-a-claim/blob/main/skills/checking-delivery/SKILL.md
+- **clerk-auth** - Clerk auth implementation and webhooks. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/clerk-auth/SKILL.md
+- **discord-bot-architect** - Production Discord bots with Discord.js. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/discord-bot-architect/SKILL.md
+- **micro-saas-launcher** - Launch small SaaS products fast. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/micro-saas-launcher/SKILL.md
+- **ssh-key-manager** - Manage ssh key manager operations. Auto-activating skill for DevOps Basics. Triggers on: ssh key manager, ssh key manager Part of the DevOps Basics skill category. Use when working with ssh key manager functionality. Trigger with phrases like "ssh key manager", "ssh manager", "ssh". https://github.com/jeremylongshore/claude-code-plugins-plus-skills/blob/main/skills/01-devops-basics/ssh-key-manager/SKILL.md
+- **stripe-integration** - Stripe checkout, subscriptions, webhooks. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/stripe-integration/SKILL.md
+- **vercel-labs-add-skill** (repository) - npx skills CLI tool for quick installation. https://github.com/vercel-labs/add-skill/blob/main/README.md
+- **version-bumper** - Manage version bumper operations. Auto-activating skill for DevOps Basics. Triggers on: version bumper, version bumper Part of the DevOps Basics skill category. Use when working with version bumper functionality. Trigger with phrases like "version bumper", "version bumper", "version". https://github.com/jeremylongshore/claude-code-plugins-plus-skills/blob/main/skills/01-devops-basics/version-bumper/SKILL.md
+- **web-performance-optimization** - Optimize website and web application performance including loading speed, Core Web Vitals, bundle size, caching strategies, and runtime performance. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/web-performance-optimization/SKILL.md
+- **brewpage-publish** - Publish pages, files or folder sites to shareable brewpage.app links. https://github.com/kochetkov-ma/claude-brewcode/blob/main/skills/brewpage-publish/SKILL.md
+- **knowledge-capture** - Transform conversations into structured Notion documentation. https://github.com/makenotion/cursor-notion-plugin/blob/main/skills/knowledge-capture/SKILL.md
+- **spec-to-implementation** - Turn tech specs into concrete Notion tasks. https://github.com/makenotion/cursor-notion-plugin/blob/main/skills/spec-to-implementation/SKILL.md
+- **kukapay-crypto-skills** (repository) - Cryptocurrency, web3 and blockchain skills. https://github.com/kukapay/crypto-skills/blob/main/README.md
+- **liyupi-memecub** - Search memes, GIFs and Chinese 表情包 by feeling, and place them into articles. https://github.com/liyupi/memecub/blob/master/skills/memecub/SKILL.md
+- **dannwaneri-spec-writer** - Turns vague requests into spec, plan, and tasks. https://github.com/dannwaneri/spec-writer/blob/main/SKILL.md
+- **tugkanboz-awesome-cursorrules** (repository) - Showcases modern Cursor Rules system with MDC format. https://github.com/tugkanboz/awesome-cursorrules/blob/main/README.md
+- **tree-ring-memory** - Lifecycle-aware local memory with recall, evidence, audit, and forgetting. https://github.com/TerminallyLazy/Tree-Ring-Memory/blob/main/skills/tree-ring-memory/SKILL.md
+- **zero-gemini** (repository) - Same Zero tool-discovery and payment layer packaged as a Gemini CLI extension. https://github.com/officialzeroxyz/zero-plugins/blob/main/README.md
+- **tinybird-cli-guidelines** - Tinybird CLI usage guidelines and commands. https://github.com/tinybirdco/tinybird-agent-skills/blob/main/skills/tinybird-cli-guidelines/SKILL.md
+- **logcli-logs** (repository) - Query and analyze logs from Grafana Loki using logcli. Use when the user mentions Loki, Grafana logs, logcli, or LogQL. Triggers on phrases like "query loki", "loki logs", "grafana logs", "use logcli", "LogQL query", or when explicitly asked to search logs using Loki/Grafana infrastructure. https://github.com/cristianoliveira/dotfiles/blob/main/README.md
+- **skillcheck** (repository) - Tool: Scanner for common risks in skill packages. https://github.com/agentigy/skillcheck/blob/main/README.md
+- **kybernetwork-kyberswap-skills** (repository) - Token swap quotes and transactions across 18 EVM chains. https://github.com/kybernetwork/kyberswap-skills/blob/main/README.md
+- **checkyourself** - Production-readiness diagnostics and guided remediation for AI-built apps. https://github.com/KyaniteLabs/checkyourself/blob/main/skills/checkyourself/SKILL.md
+- **posteyai-skills** (repository) - Draft, schedule and publish social posts to nine networks. https://github.com/posteyai/skills/blob/main/README.md
+- **grittygrease-safe-encryption-skill** - Modern encryption alternative to GPG/PGP with post-quantum support. https://github.com/grittygrease/safe-encryption-skill/blob/main/SKILL.md
+- **skills-14** (repository) - Transloadit skill collection (6). https://github.com/transloadit/skills/blob/main/README.md
+- **fact-check-x-complete** - Run evidence-gated fact checks across one or more AI platforms: preserve raw answers and citations, compare atomic claims, verify them with authoritative sources, and generate standalone HTML reports. https://github.com/ASI2030/Fact-Check-X/blob/main/skills/fact-check-x-complete/SKILL.md
+- **sametcelikbicak-task-decomposer** - Decomposes complex requests into structured, AI-friendly task sequences. https://github.com/sametcelikbicak/task-decomposer/blob/main/SKILL.md
+- **gongdear-cline-pilot** - Delegate coding tasks to Cline CLI with context management. https://github.com/gongdear/cline-pilot/blob/main/SKILL.md

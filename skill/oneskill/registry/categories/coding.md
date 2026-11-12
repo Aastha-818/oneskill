@@ -1,7 +1,420 @@
 # coding - best rated first
 
+- **brainstorming** - You MUST use this before any creative work - creating features, building components, adding functionality, modifying behavior, or planning anything new, in software or out of it (a talk, a business, a renovation). https://github.com/obra/superpowers/blob/main/skills/brainstorming/SKILL.md
+- **cs-notes** (repository) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 https://github.com/CyC2018/CS-Notes/blob/master/README.md
+- **finishing-a-development-branch** - Guides completion of development work by presenting clear options and handling chosen workflow. https://github.com/obra/superpowers/blob/main/skills/finishing-a-development-branch/SKILL.md
+- **improve-codebase-architecture** (repository) - Analyze a codebase and propose concrete architecture improvements. https://github.com/mattpocock/skills/blob/main/README.md
+- **javaguide** (repository) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 https://github.com/Snailclimb/JavaGuide/blob/main/README.md
+- **mcp-builder** - Guide for creating high-quality MCP servers to integrate external APIs and services. https://github.com/anthropics/skills/blob/main/skills/mcp-builder/SKILL.md
+- **office-hours** - YC Office Hours: reframing product before code. https://github.com/garrytan/gstack/blob/main/office-hours/SKILL.md
+- **ohmyzsh** (repository) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up w https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md
+- **qa** - QA Lead: find bugs and generate regression tests. https://github.com/garrytan/gstack/blob/main/qa/SKILL.md
+- **sherlock** (repository) - Hunt down social media accounts by username across social networks https://github.com/sherlock-project/sherlock/blob/master/README.md
+- **ship** - Release Engineer: sync, test, audit, and push. https://github.com/garrytan/gstack/blob/main/ship/SKILL.md
+- **skill-creator** - Interactive skill creation tool that guides you through building new skills with Q&A. https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md
+- **skill-md-15** - Initiate code review processes. https://github.com/obra/superpowers/blob/main/skills/requesting-code-review/SKILL.md
+- **skill-md-16** - Process and incorporate code feedback. https://github.com/obra/superpowers/blob/main/skills/receiving-code-review/SKILL.md
+- **skill-md-17** - Manage multiple Git working trees. https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/SKILL.md
+- **systematic-debugging** - Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes https://github.com/obra/superpowers/blob/main/skills/systematic-debugging/SKILL.md
+- **test-driven-development** - Use when implementing any feature or bugfix, before writing implementation code https://github.com/obra/superpowers/blob/main/skills/test-driven-development/SKILL.md
+- **web-artifacts-builder** - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). https://github.com/anthropics/skills/blob/main/skills/web-artifacts-builder/SKILL.md
+- **webapp-testing** - Test local web applications using Playwright for UI verification and debugging. https://github.com/anthropics/skills/blob/main/skills/webapp-testing/SKILL.md
+- **yt-dlp** (repository) - A feature-rich command-line audio/video downloader https://github.com/yt-dlp/yt-dlp/blob/master/README.md
+- **playwright** (repository) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. https://github.com/microsoft/playwright/blob/main/README.md
+- **puppeteer** (repository) - JavaScript API for Chrome and Firefox https://github.com/puppeteer/puppeteer/blob/main/README.md
+- **archify-2** - Generate validated interactive architecture diagrams from codebases or system descriptions. https://github.com/tt-a1i/archify/blob/main/archify/SKILL.md
+- **clean-code-javascript** (repository) - Clean Code concepts adapted for JavaScript https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md
+- **openhands** (repository) - 🙌 OpenHands: AI-Driven Development https://github.com/OpenHands/OpenHands/blob/main/README.md
+- **fzf** (repository) - :cherry_blossom: A command-line fuzzy finder https://github.com/junegunn/fzf/blob/master/README.md
+- **lazygit** (repository) - simple terminal UI for git commands https://github.com/jesseduffield/lazygit/blob/master/README.md
+- **awesome-scalability** (repository) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems https://github.com/binhnguyennus/awesome-scalability/blob/master/README.md
+- **strix** (repository) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. https://github.com/usestrix/strix/blob/main/README.md
+- **ripgrep** (repository) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore https://github.com/BurntSushi/ripgrep/blob/master/README.md
+- **tldr** (repository) - Collaborative cheatsheets for console commands 📚. https://github.com/tldr-pages/tldr/blob/main/README.md
+- **pake** (repository) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux. https://github.com/tw93/Pake/blob/main/README.md
+- **win11debloat** (repository) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. https://github.com/Raphire/Win11Debloat/blob/master/README.md
+- **bat** (repository) - A cat(1) clone with wings. https://github.com/sharkdp/bat/blob/master/README.md
+- **i-have-adhd** (repository) - A skill to stop your coding agent from burying the answer. ADHD-friendly output. https://github.com/ayghri/i-have-adhd/blob/main/README.md
+- **ab-testing** - Plan and implement A/B tests or experiments for any digital experience. https://github.com/coreyhaines31/marketingskills/blob/main/skills/ab-testing/SKILL.md
+- **churn-prevention** - Build cancellation flows, save offers, and recover failed payments. https://github.com/coreyhaines31/marketingskills/blob/main/skills/churn-prevention/SKILL.md
+- **html5-boilerplate** (repository) - A professional front-end template for building fast, robust, and adaptable web apps or sites. https://github.com/h5bp/html5-boilerplate/blob/main/README.md
+- **dive** (repository) - A tool for exploring each layer in a docker image https://github.com/wagoodman/dive/blob/main/README.md
+- **obsidian-skills** (repository) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. https://github.com/kepano/obsidian-skills/blob/main/README.md
+- **herdr** (repository) - the runtime your coding agents live on https://github.com/herdrdev/herdr/blob/master/README.md
+- **aider** (repository) - aider is AI pair programming in your terminal https://github.com/Aider-AI/aider/blob/main/README.md
+- **agentic-awesome-skills** (repository) - 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins. https://github.com/sickn33/agentic-awesome-skills/blob/main/README.md
+- **githubdaily** (repository) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. https://github.com/GitHubDaily/GitHubDaily/blob/master/README.md
+- **bruno** (repository) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) https://github.com/usebruno/bruno/blob/main/README.md
+- **cli-2** (repository) - GitHub’s official command line tool https://github.com/cli/cli/blob/trunk/README.md
+- **files** (repository) - A modern file manager that helps users organize their files and folders. https://github.com/files-community/Files/blob/main/README.md
+- **streamlit** (repository) - Streamlit — A faster way to build and share data apps. https://github.com/streamlit/streamlit/blob/develop/README.md
+- **zx** (repository) - A tool for writing better scripts https://github.com/google/zx/blob/main/README.md
+- **bubbletea** (repository) - A powerful little TUI framework 🏗 https://github.com/charmbracelet/bubbletea/blob/main/README.md
+- **fd** (repository) - A simple, fast and user-friendly alternative to 'find' https://github.com/sharkdp/fd/blob/master/README.md
+- **cobra** (repository) - A Commander for modern Go CLI interactions https://github.com/spf13/cobra/blob/main/README.md
+- **ifixai** (repository) - Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. https://github.com/ifixai-ai/iFixAi/blob/main/README.md
+- **yazi** (repository) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. https://github.com/sxyazi/yazi/blob/main/README.md
+- **awesome-system-design-resources** (repository) - Learn System Design concepts and prepare for interviews using free resources. https://github.com/ashishps1/awesome-system-design-resources/blob/main/README.md
+- **agno** (repository) - The self-driving agent platform https://github.com/agno-agi/agno/blob/main/README.md
+- **incident-runbook-templates** - Create structured incident response runbooks with step-by-step procedures, escalation paths, and recovery actions. Use when building runbooks, responding to incidents, or establishing incident response procedures. https://github.com/wshobson/agents/blob/main/plugins/incident-response/skills/incident-runbook-templates/SKILL.md
+- **cheat-sh** (repository) - the only cheat sheet you need https://github.com/chubin/cheat.sh/blob/master/README.md
+- **appsmith** (repository) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. https://github.com/appsmithorg/appsmith/blob/release/README.md
+- **it-tools** (repository) - Collection of handy online tools for developers, with great UX. https://github.com/CorentinTh/it-tools/blob/main/README.md
+- **codewhale** (repository) - Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome https://github.com/codewhale-hq/Codewhale/blob/main/README.md
+- **shellcheck** (repository) - ShellCheck, a static analysis tool for shell scripts https://github.com/koalaman/shellcheck/blob/master/README.md
+- **devdocs** (repository) - API Documentation Browser https://github.com/freeCodeCamp/devdocs/blob/main/README.md
+- **lapce** (repository) - Lightning-fast and Powerful Code Editor written in Rust https://github.com/lapce/lapce/blob/master/README.md
+- **ai-website-cloner-template** (repository) - Clone any website with one command using AI coding agents https://github.com/JCodesMore/ai-website-cloner-template/blob/master/README.md
+- **cli** (repository) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://github.com/httpie/cli/blob/master/README.md
+- **continue** (repository) - open-source coding agent https://github.com/continuedev/continue/blob/main/README.md
+- **deepseek-reasonix** (repository) - A reliable coding agent for complex software engineering tasks. https://github.com/esengine/DeepSeek-Reasonix/blob/studio/README.md
+- **cheatsheetseries** (repository) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. https://github.com/OWASP/CheatSheetSeries/blob/master/README.md
+- **react-best-practices** - React best practices and patterns. https://github.com/vercel-labs/agent-skills/blob/main/skills/react-best-practices/SKILL.md
+- **vercel-deploy-claimable** (repository) - Deploy projects to Vercel. https://github.com/vercel-labs/agent-skills/blob/main/README.md
+- **web-design-guidelines-2** - Web design guidelines and standards. https://github.com/vercel-labs/agent-skills/blob/main/skills/web-design-guidelines/SKILL.md
+- **lighthouse** (repository) - Automated auditing, performance metrics, and best practices for the web. https://github.com/GoogleChrome/lighthouse/blob/main/README.md
+- **css-protips** (repository) - A collection of tips to help take your CSS skills pro. 🕹 https://github.com/AllThingsSmitty/css-protips/blob/master/README.md
+- **system-design-academy** (repository) - If you want to become good at AI engineering & system design, join this newsletter 👇 https://github.com/systemdesign42/system-design-academy/blob/main/README.md
+- **project-guidelines** (repository) - A set of best practices for JavaScript projects https://github.com/elsewhencode/project-guidelines/blob/master/README.md
+- **cloudflare-deploy** - Deploy apps to Cloudflare using Workers and Pages. https://github.com/openai/skills/blob/main/skills/.curated/cloudflare-deploy/SKILL.md
+- **figma** - Use the Figma MCP server to fetch design context. https://github.com/openai/skills/blob/main/skills/.curated/figma/SKILL.md
+- **figma-implement-design** - Translate Figma designs into production-ready code. https://github.com/openai/skills/blob/main/skills/.curated/figma-implement-design/SKILL.md
+- **gh-address-comments** - Address review and issue comments on open GitHub PRs via CLI. https://github.com/openai/skills/blob/main/skills/.curated/gh-address-comments/SKILL.md
+- **gh-fix-ci** - Debug and fix failing GitHub Actions PR checks. https://github.com/openai/skills/blob/main/skills/.curated/gh-fix-ci/SKILL.md
+- **imagegen** - Generate and edit images using OpenAI's Image API. https://github.com/openai/skills/blob/main/skills/.system/imagegen/SKILL.md
+- **jupyter-notebook** - Create clean, reproducible Jupyter notebooks. https://github.com/openai/skills/blob/main/skills/.curated/jupyter-notebook/SKILL.md
+- **linear** - Manage issues, projects, and team workflows in Linear. https://github.com/openai/skills/blob/main/skills/.curated/linear/SKILL.md
+- **netlify-deploy** - Automate Netlify deployments with CLI support. https://github.com/openai/skills/blob/main/skills/.curated/netlify-deploy/SKILL.md
+- **notion-knowledge-capture** - Convert conversations into structured Notion wiki entries. https://github.com/openai/skills/blob/main/skills/.curated/notion-knowledge-capture/SKILL.md
+- **pdf-2-2** - Read, create, and review PDFs with layout integrity. https://github.com/openai/skills/blob/main/skills/.curated/pdf/SKILL.md
+- **playwright-2** - Automate real browser interactions for navigation and forms. https://github.com/openai/skills/blob/main/skills/.curated/playwright/SKILL.md
+- **speech** - Generate spoken audio from text using OpenAI's API. https://github.com/openai/skills/blob/main/skills/.curated/speech/SKILL.md
+- **stakeholder-map** - Build stakeholder maps with power/interest grid and comms plan. https://github.com/phuryn/pm-skills/blob/main/pm-execution/skills/stakeholder-map/SKILL.md
+- **pr-build-status** (repository) - Retrieve Azure DevOps build information for GitHub Pull Requests, including build IDs, stage status, and failed jobs. https://github.com/dotnet/maui/blob/main/README.md
+- **mocha** (repository) - ☕️ Classic, reliable, trusted test framework for Node.js and the browser https://github.com/mochajs/mocha/blob/main/README.md
+- **android-best-practices** (repository) - Do's and Don'ts for Android development, by Futurice developers https://github.com/futurice/android-best-practices/blob/master/README.md
+- **learngo** (repository) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs. https://github.com/inancgumus/learngo/blob/master/README.md
+- **phpunit** (repository) - The PHP Unit Testing framework. https://github.com/sebastianbergmann/phpunit/blob/main/README.md
+- **swiftlint** (repository) - A tool to enforce Swift style and conventions. https://github.com/realm/SwiftLint/blob/main/README.md
+- **keploy** (repository) - Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing. https://github.com/keploy/keploy/blob/main/README.md
+- **goreplay** (repository) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. https://github.com/probelabs/goreplay/blob/master/README.md
+- **hurl** (repository) - Hurl, run and test HTTP requests with plain text. https://github.com/Orange-OpenSource/hurl/blob/master/README.md
+- **gitdiagram** (repository) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL. https://github.com/ahmedkhaleel2004/gitdiagram/blob/main/README.md
+- **system-design-resources** (repository) - These are the best resources for System Design on the Internet https://github.com/InterviewReady/system-design-resources/blob/main/README.md
+- **context-compression** - Design compression strategies for long sessions. https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/blob/main/skills/context-compression/SKILL.md
+- **context-degradation** - Recognize patterns of context failure. https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/blob/main/skills/context-degradation/SKILL.md
+- **context-fundamentals** - Understand context in agent systems. https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/blob/main/skills/context-fundamentals/SKILL.md
+- **memory-systems** - Design memory architectures. https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/blob/main/skills/memory-systems/SKILL.md
+- **multi-agent-patterns** - Multi-agent architectures. https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/blob/main/skills/multi-agent-patterns/SKILL.md
+- **fastapi-best-practices** (repository) - FastAPI Best Practices and Conventions we used at our startup https://github.com/zhanymkanov/fastapi-best-practices/blob/master/README.md
+- **guide** (repository) - The Uber Go Style Guide. https://github.com/uber-go/guide/blob/master/README.md
+- **million** (repository) - Optimizing compiler for React https://github.com/aidenybai/million/blob/main/README.md
+- **react-bits** (repository) - ✨ React patterns, techniques, tips and tricks ✨ https://github.com/vasanthk/react-bits/blob/master/README.md
+- **vitest** (repository) - Next generation testing framework powered by Vite. https://github.com/vitest-dev/vitest/blob/main/README.md
+- **modern-cpp-programming** (repository) - Modern C++ Programming Course (C++03/11/14/17/20/23/26) https://github.com/federico-busato/Modern-CPP-Programming/blob/master/README.md
+- **opensource-guide** (repository) - 📚 Community guides for open source creators https://github.com/github/opensource.guide/blob/main/README.md
+- **infer** (repository) - A static analyzer for Java, C, C++, and Objective-C https://github.com/meta/infer/blob/main/README.md
+- **cookbook** (repository) - The Data Engineering Cookbook https://github.com/andkret/Cookbook/blob/master/README.md
+- **mockito** (repository) - Most popular Mocking framework for unit tests written in Java https://github.com/mockito/mockito/blob/main/README.md
+- **domain-driven-hexagon** (repository) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included https://github.com/Sairyss/domain-driven-hexagon/blob/master/README.md
+- **static-analysis** (repository) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality. https://github.com/analysis-tools-dev/static-analysis/blob/master/README.md
+- **nginx-admins-handbook** (repository) - How to improve NGINX performance, security, and other important things. https://github.com/trimstray/nginx-admins-handbook/blob/master/README.md
+- **modular-monolith-with-ddd** (repository) - Full Modular Monolith application with Domain-Driven Design approach. https://github.com/kgrzybek/modular-monolith-with-ddd/blob/master/README.md
+- **e2e** (repository) - Next generation e2e testing framework for web and mobile apps. https://github.com/e2e-inc/e2e/blob/main/README.md
+- **halfrost-field** (repository) - ✍🏻 Source Code Deep Dives, System Design & Engineering Blogs | Halfrost-Field 冰霜之地：源码解析、系统设计与工程实践笔记 https://github.com/halfrost/Halfrost-Field/blob/master/README.md
+- **claude-skills-3** (repository) - 65 full-stack development skills with progressive disclosure, covering React, NestJS, Python, DevOps, and 30+ frameworks. https://github.com/jeffallan/claude-skills/blob/main/README.md
+- **laravel-best-practices** (repository) - Laravel best practices https://github.com/alexeymezenin/laravel-best-practices/blob/master/README.md
+- **detox** (repository) - Gray box end-to-end testing and automation framework for mobile apps https://github.com/wix/Detox/blob/master/README.md
+- **aspnetboilerplate** (repository) - ASP.NET Boilerplate - Web Application Framework https://github.com/aspnetboilerplate/aspnetboilerplate/blob/dev/README.md
+- **awesome-software-architecture** (repository) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. https://github.com/mehdihadeli/awesome-software-architecture/blob/main/README.md
+- **server-configs-nginx** (repository) - Nginx HTTP server boilerplate configs https://github.com/h5bp/server-configs-nginx/blob/main/README.md
+- **awesome-guidelines** (repository) - Programming style, best practices, and coding conventions. https://github.com/Kristories/awesome-guidelines/blob/main/README.md
+- **sonarqube** (repository) - Continuous Inspection https://github.com/SonarSource/sonarqube/blob/master/README.md
+- **ios-good-practices** (repository) - Good ideas for iOS development, by Futurice developers. https://github.com/futurice/ios-good-practices/blob/master/README.md
+- **super-linter** (repository) - Combination of multiple linters to run as a GitHub Action or standalone https://github.com/super-linter/super-linter/blob/main/README.md
+- **reddit-fetch** - Fetches Reddit content via Gemini CLI when WebFetch is blocked or returns 403 errors. https://github.com/ykdojo/claude-code-tips/blob/main/skills/reddit-fetch/SKILL.md
+- **wstg** (repository) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services. https://github.com/OWASP/wstg/blob/master/README.md
+- **testcafe** (repository) - A Node.js tool to automate end-to-end web testing. https://github.com/DevExpress/testcafe/blob/master/README.md
+- **clean-code-typescript** (repository) - Clean Code concepts adapted for TypeScript https://github.com/labs42io/clean-code-typescript/blob/main/README.md
+- **reviewdog** (repository) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language https://github.com/reviewdog/reviewdog/blob/master/README.md
+- **checkstyle** (repository) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. https://github.com/checkstyle/checkstyle/blob/master/README.md
+- **awesome-java** (repository) - Collection of awesome Java project on Github(非常棒的 Java 开源项目集合). https://github.com/CodingDocs/awesome-java/blob/master/README.md
+- **karate** (repository) - Test Automation Made Simple https://github.com/karatelabs/karate/blob/main/README.md
+- **cppbestpractices** (repository) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information. https://github.com/cpp-best-practices/cppbestpractices/blob/master/README.md
+- **js-the-right-way** (repository) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web https://github.com/jstherightway/js-the-right-way/blob/master/README.md
+- **awesome-front-end-system-design** (repository) - Curated front end system design resources for interviews and learning https://github.com/greatfrontend/awesome-front-end-system-design/blob/main/README.md
+- **goconvey** (repository) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go. https://github.com/smartystreets/goconvey/blob/master/README.md
+- **school-of-sre** (repository) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role. https://github.com/linkedin/school-of-sre/blob/main/README.md
+- **repowise** (repository) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP. https://github.com/repowise-dev/repowise/blob/main/README.md
+- **xo** (repository) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults https://github.com/xojs/xo/blob/main/README.md
+- **acquisition-channel-advisor** - Evaluate channels using unit economics and recommend scale/test/kill decisions. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/acquisition-channel-advisor/SKILL.md
+- **epic-hypothesis** - Turn initiatives into testable hypotheses with measurable success metrics. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/epic-hypothesis/SKILL.md
+- **pol-probe** - Define lightweight validation experiments to test hypotheses. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/pol-probe/SKILL.md
+- **saas-economics-efficiency-metrics** - Calculate unit economics and capital efficiency including CAC, LTV, payback, and Rule of 40. https://github.com/deanpeters/Product-Manager-Skills/blob/main/skills/saas-economics-efficiency-metrics/SKILL.md
+- **clean-code-dotnet** (repository) - :bathtub:  Clean Code concepts and tools adapted for .NET https://github.com/thangchung/clean-code-dotnet/blob/master/README.md
+- **deepaudit** (repository) - DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。 https://github.com/lintsinghua/DeepAudit/blob/v3.0.0/README.md
+- **awesome-test-automation** (repository) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info https://github.com/atinfo/awesome-test-automation/blob/master/README.md
+- **pyrefly** (repository) - A fast type checker and language server for Python https://github.com/meta/pyrefly/blob/main/README.md
+- **pydoll** (repository) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. https://github.com/autoscrape-labs/pydoll/blob/main/README.md
+- **detekt** (repository) - Static code analysis for Kotlin https://github.com/detekt/detekt/blob/main/README.md
+- **pixelmatch** (repository) - The smallest, simplest and fastest JavaScript pixel-level image comparison library https://github.com/mapbox/pixelmatch/blob/main/README.md
+- **translations** (repository) - 🐼  Chinese translations for classic software development resources https://github.com/oldratlee/translations/blob/master/README.md
+- **android-showcase** (repository) - 💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis... https://github.com/igorwojda/android-showcase/blob/main/README.md
+- **equinoxproject** (repository) - Web Application ASP.NET 9 using Clean Architecture, DDD, CQRS, Event Sourcing and a lot of good practices https://github.com/EduardoPires/EquinoxProject/blob/master/README.md
+- **java** (repository) - 存放JAVA开发的设计思想、算法：《剑指Offer》、《编程珠玑》、《深入理解Java虚拟机：JVM高级特性与最佳实践》、《重构-改善既有代码的设计 中文版》、《clean_code(中文完整版)》、《Java编程思想(第4版)》、《Java核心技术 卷I (第8版)》、《Quartz_Job+Scheduling_Framework》；一些大的上传不上来的文件在README https://github.com/singgel/JAVA/blob/master/README.md
+- **n8n-code-python** - Python coding in n8n Code nodes with limitations. https://github.com/czlonkowski/n8n-skills/blob/main/skills/n8n-code-python/SKILL.md
+- **awesome-security-hardening** (repository) - A collection of awesome security hardening guides, tools and other resources https://github.com/decalage2/awesome-security-hardening/blob/master/README.md
+- **jscpd** (repository) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents. https://github.com/kucherenko/jscpd/blob/master/README.md
+- **ios-developer-roadmap** (repository) - Roadmap to becoming an iOS developer in 2018. https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/README.md
+- **pywinauto** (repository) - Windows GUI Automation with Python (based on text properties) https://github.com/pywinauto/pywinauto/blob/master/README.md
+- **bats-core** (repository) - Bash Automated Testing System https://github.com/bats-core/bats-core/blob/master/README.md
+- **state-of-the-art-shitcode** (repository) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode https://github.com/trekhleb/state-of-the-art-shitcode/blob/master/README.md
+- **clean-code-notes** (repository) - My notes of Clean Code book https://github.com/JuanCrg90/Clean-Code-Notes/blob/master/README.md
+- **goss** (repository) - Quick and Easy server testing/validation https://github.com/goss-org/goss/blob/master/README.md
+- **eslint-plugin-import** (repository) - ESLint plugin with rules that help validate proper imports. https://github.com/import-js/eslint-plugin-import/blob/main/README.md
+- **coldimail** (repository) - Intelligent faculty outreach and research matching for prospective graduate applicants https://github.com/byted-technologies/Coldimail/blob/main/README.md
+- **pylint** (repository) - It's not just a linter that annoys you! https://github.com/pylint-dev/pylint/blob/main/README.md
+- **earlgrey** (repository) - :tea: iOS UI Automation Test Framework https://github.com/google/EarlGrey/blob/master/README.md
+- **pmd** (repository) - An extensible multilanguage static code analyzer. https://github.com/pmd/pmd/blob/main/README.md
+- **miragejs** (repository) - A client-side server to build, test and share your JavaScript app https://github.com/miragejs/miragejs/blob/next/README.md
+- **gotests** (repository) - Automatically generate Go test boilerplate from your source code. https://github.com/cweill/gotests/blob/develop/README.md
+- **fallow** (repository) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed. https://github.com/fallow-rs/fallow/blob/main/README.md
+- **simplecov** (repository) - Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites https://github.com/simplecov-ruby/simplecov/blob/main/README.md
+- **awesome-programming-books** (repository) - 📚 经典技术书籍推荐，持续更新... https://github.com/royeo/awesome-programming-books/blob/master/README.md
+- **clean-code-javascript-2** (repository) - Conceitos de Código Limpo adaptados em JavaScript (Tradução PT-BR) https://github.com/felipe-augusto/clean-code-javascript/blob/master/README.md
+- **kotest** (repository) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests. https://github.com/kotest/kotest/blob/master/README.md
+- **tcpcopy** (repository) - An online request replication and TCP stream replay tool, ideal for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, and more. https://github.com/session-replay-tools/tcpcopy/blob/master/README.md
+- **production-level-deep-learning** (repository) - A guideline for building practical production-level deep learning systems to be deployed in real world applications. https://github.com/alirezadir/Production-Level-Deep-Learning/blob/master/README.md
+- **pandera** (repository) - A light-weight, flexible, and expressive statistical data testing library https://github.com/unionai-oss/pandera/blob/main/README.md
+- **gemini-api-dev** - Best practices for developing Gemini-powered apps. https://github.com/google-gemini/gemini-skills/blob/main/skills/gemini-api-dev/SKILL.md
+- **gemini-live-api-dev** - Building real-time bidirectional streaming apps. https://github.com/google-gemini/gemini-skills/blob/main/skills/gemini-live-api-dev/SKILL.md
+- **clean-architecture-manga** (repository) - :cyclone: Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks https://github.com/ivanpaulovich/clean-architecture-manga/blob/main/README.md
+- **grumphp** (repository) - A PHP code-quality tool https://github.com/phpro/grumphp/blob/v2.x/README.md
+- **typos** (repository) - Source code spell checker https://github.com/crate-ci/typos/blob/main/README.md
+- **expo-app-design** (repository) - Design and build Expo applications. https://github.com/expo/skills/blob/main/README.md
+- **interviewguide-2** (repository) - 《大厂面试指北》——包括Java基础、JVM、数据库、mysql、redis、计算机网络、算法、数据结构、操作系统、设计模式、系统设计、框架原理。 https://github.com/NotFound9/interviewGuide/blob/master/README.md
+- **competitive-programming-resources** (repository) - Competitive Programming & System Design Resources. https://github.com/kunal-kushwaha/Competitive-Programming-Resources/blob/master/README.md
+- **lean-ctx** - MCP server and context runtime for AI coding agents: session caching, AST-aware compression, and 90+ shell patterns to reduce token usage. Supports Claude Code, Cursor, Copilot, and other integrations. Install the Claude Code skill with lean-ctx init --agent claude-code; docs at leanctx.com. https://github.com/yvgude/lean-ctx/blob/main/skills/lean-ctx/SKILL.md
+- **ali** (repository) - Generate HTTP load and plot the results in real-time https://github.com/nakabonne/ali/blob/master/README.md
+- **the-accidental-cto** (repository) - How I Scaled from Zero to a Million Store on Dukaan,  Without a CS Degree.  .. A System Design Handbook by  Subhash Choudhary https://github.com/subhashchy/The-Accidental-CTO/blob/main/README.md
+- **htrace-sh** (repository) - My simple Swiss Army knife for http/https troubleshooting and profiling. https://github.com/trimstray/htrace.sh/blob/master/README.md
+- **foryourhealth111-pixel-vibe-skills** - A skills governed plug-and-play harness for staged, test-driven skill orchestration. https://github.com/foryourhealth111-pixel/Vibe-Skills/blob/main/SKILL.md
+- **awesome-javascript-interviews** (repository) - Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :) https://github.com/rohan-paul/Awesome-JavaScript-Interviews/blob/master/README.md
+- **react-philosophies** (repository) - 🧘  Things I think about when I write React code 🧘 https://github.com/mithi/react-philosophies/blob/main/README.md
+- **taiko** (repository) - A node.js library for testing modern web applications https://github.com/getgauge/taiko/blob/master/README.md
+- **system-design-and-architecture** (repository) - Learn how to design large-scale systems. Prep for the system design interview. https://github.com/puncsky/system-design-and-architecture/blob/main/README.md
+- **jsinspect** (repository) - Detect copy-pasted and structurally similar code https://github.com/danielstjules/jsinspect/blob/master/README.md
+- **evolutionary-architecture-by-example** (repository) - Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various architectural patterns. Go beyond the one-size-fits-all solutions and understand how to blend these a https://github.com/evolutionary-architecture/evolutionary-architecture-by-example/blob/main/README.md
+- **cyberstrike** (repository) - Open-source AI-powered offensive security harness for automated penetration testing. https://github.com/CyberStrikeus/CyberStrike/blob/main/README.md
+- **sentrux** (repository) - Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust. https://github.com/sentrux/sentrux/blob/main/README.md
+- **htmlhint** (repository) - ⚙️ The static code analysis tool you need for your HTML https://github.com/htmlhint/HTMLHint/blob/main/README.md
+- **guardclauses** (repository) - A simple package with guard clause extensions. https://github.com/ardalis/GuardClauses/blob/main/README.md
+- **playwright-browser-automation** - Model-invoked Playwright automation for testing and validating web applications. https://github.com/lackeyjb/playwright-skill/blob/main/skills/playwright-skill/SKILL.md
+- **architecture** (repository) - .NET 10, Angular 22, Clean Architecture, Clean Code, SOLID, KISS, DRY, Mediator Pattern, Folder-by-Feature Structure https://github.com/rafaelfgx/Architecture/blob/main/README.md
+- **agent-rules-books** (repository) - AGENTS.md rules / skills for AI coding agents: Codex, Cursor & Claude Code. Inspired by Clean Code, Refactoring, DDD, Clean Architecture and DDIA programming books. https://github.com/ciembor/agent-rules-books/blob/main/README.md
+- **vibe-coding-prompt-template** (repository) - Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs https://github.com/KhazP/vibe-coding-prompt-template/blob/main/README.md
+- **azure-identity-ts** - Microsoft Entra ID authentication for TypeScript. https://github.com/microsoft/skills/blob/main/.github/plugins/azure-sdk-typescript/skills/azure-identity-ts/SKILL.md
+- **copilot-sdk** - Build applications powered by GitHub Copilot SDK. https://github.com/microsoft/skills/blob/main/.github/skills/copilot-sdk/SKILL.md
+- **clean-go-article** (repository) - A reference for the Go community that covers the fundamentals of writing clean code and discusses concrete refactoring examples specific to Go. https://github.com/Pungyeon/clean-go-article/blob/master/README.md
+- **sample-dotnet-core-cqrs-api** (repository) - Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture. https://github.com/kgrzybek/sample-dotnet-core-cqrs-api/blob/master/README.md
+- **study-path** (repository) - A curated, open, and ever-evolving learning path focused on practices of software development, principles of software design, and software architecture. https://github.com/joebew42/study-path/blob/master/README.md
+- **movieguide** (repository) - Movie discovery app showcasing MVP, RxJava, Dagger 2 and Clean Architecture https://github.com/esoxjem/MovieGuide/blob/master/README.md
+- **flutter-pokedex** (repository) - Pokedex app built with Flutter (with lots of animations) using Clean Architecture https://github.com/hungps/flutter_pokedex/blob/master/README.md
+- **phpmd** (repository) - PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measured by PHP Depend. https://github.com/phpmd/phpmd/blob/3.x/README.md
+- **android-modular-architecture** (repository) - 📚  Sample Android Components Architecture on a modular word focused on the scalability, testability and maintainability written in Kotlin, following best practices using Jetpack. https://github.com/vmadalin/android-modular-architecture/blob/master/README.md
+- **tdd-guard** (repository) - A hooks-driven system that monitors file operations in real-time and blocks changes that violate TDD principles. https://github.com/nizos/tdd-guard/blob/main/README.md
+- **evergreen-skills-developers** (repository) - List of evergreen skills, based on software development best practices & cross-framework principles, that should serve as a fair assessment of skilled software engineers / developers https://github.com/romenrg/evergreen-skills-developers/blob/master/README.md
+- **stripe-best-practices** - Best practices for building Stripe integrations. https://github.com/stripe/ai/blob/main/skills/stripe-best-practices/SKILL.md
+- **upgrade-stripe** - Upgrade Stripe SDK and API versions. https://github.com/stripe/ai/blob/main/skills/upgrade-stripe/SKILL.md
+- **codemaid** (repository) - CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding. https://github.com/codecadwallader/codemaid/blob/dev/README.md
+- **skills-11** (repository) - 11 skills by Matteo Collina: Node.js, Fastify, TypeScript, OAuth, Git/GitHub, ESLint neostandard, documentation (Diataxis), Node.js core internals, skill optimizer, and more. https://github.com/mcollina/skills/blob/main/README.md
+- **clean-ts-api** (repository) - API em NodeJs usando Typescript, TDD, Clean Architecture, Design Patterns e SOLID principles https://github.com/rmanguinho/clean-ts-api/blob/master/README.md
+- **prompt-engineering** - Teaches well-known prompt engineering techniques and patterns, including Anthropic best practices and agent persuasion principles. https://github.com/NeoLabHQ/context-engineering-kit/blob/master/plugins/customaize-agent/skills/prompt-engineering/SKILL.md
+- **subagent-driven-development** - Dispatches independent subagents for individual tasks with code review checkpoints between iterations for rapid, controlled development. https://github.com/NeoLabHQ/context-engineering-kit/blob/master/plugins/sadd/skills/subagent-driven-development/SKILL.md
+- **hivemind** (repository) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw. https://github.com/activeloopai/hivemind/blob/main/README.md
+- **clean-code-ruby** (repository) - 🛁 Clean Code concepts adapted for Ruby https://github.com/uohzxela/clean-code-ruby/blob/master/README.md
+- **react-native-keyboard-spacer** (repository) - Plug and play react-native keyboard spacer view. https://github.com/Andr3wHur5t/react-native-keyboard-spacer/blob/master/README.md
+- **no-framework-tutorial** (repository) - A small tutorial to show how to create a PHP application without a framework. https://github.com/PatrickLouys/no-framework-tutorial/blob/master/README.md
+- **typescript-clean-architecture** (repository) - It is my attempt to create Clean Architecture based application in TypeScript. https://github.com/pvarentsov/typescript-clean-architecture/blob/master/README.md
+- **app-store-preflight** - Pre-submission checks for iOS/macOS App Store: scans Xcode project, code, and metadata against 100+ guideline index and app-type checklists; integrates with asc CLI; rules for metadata, subscriptions/IAP, privacy (e.g. PrivacyInfo.xcprivacy), design, entitlements; autofix + validate workflow. https://github.com/truongduy2611/app-store-preflight-skills/blob/main/SKILL.md
+- **ios-simulator** (repository) - Enables Claude to interact with iOS Simulator for testing and debugging iOS applications. https://github.com/conorluddy/ios-simulator-skill/blob/main/README.md
+- **crit** (repository) - Review and comment on plans, code diffs, and frontend, then send feedback directly to your agent. https://github.com/tomasz-tomczyk/crit/blob/main/README.md
+- **agents-md** (repository) - Generate and manage AGENTS.md files. https://github.com/getsentry/skills/blob/main/README.md
+- **code-review-3** - Perform structured code reviews. https://github.com/getsentry/skills/blob/main/skills/code-review/SKILL.md
+- **find-bugs-2** - Find and identify bugs in code. https://github.com/getsentry/skills/blob/main/skills/find-bugs/SKILL.md
+- **auteur-2** - Build and review websites from a cohesive visual direction. https://github.com/agiwhitelist/auteur/blob/main/SKILL.md
+- **superdesign** (repository) - Design skill that builds a design system from your codebase and iterates UI drafts on an infinite canvas. https://github.com/superdesigndev/superdesign-skill/blob/main/README.md
+- **hashicorp-agent-skills** (repository) - HashiCorp-maintained Claude skills for Terraform workflows and infrastructure automation. https://github.com/hashicorp/agent-skills/blob/main/README.md
+- **zh-code-reviewer** - Chinese-output code review skill with structured findings and fix suggestions. https://github.com/laolaoshiren/claude-code-skills-zh/blob/main/skills/zh-code-reviewer/SKILL.md
+- **the-api-book** (repository) - ‘The API’ book by Sergey Konstantinov https://github.com/twirl/The-API-Book/blob/gh-pages/README.md
+- **ad-angle-multiplier** - Expand a core idea into multiple distinct ad angles for creative testing. https://github.com/realkimbarrett/advertising-skills/blob/main/skills/operator-os/ad-angle-multiplier/SKILL.md
+- **mechanism-builder** - Explain why your solution works and others failed with a unique mechanism. https://github.com/realkimbarrett/advertising-skills/blob/main/skills/copy-chief/mechanism-builder/SKILL.md
+- **chisle** (repository) - Keep coding-agent responses and changes concise with efficiency-focused rules. https://github.com/JayPokale/Chisle/blob/main/README.md
+- **swarmvault-2** - Build local knowledge vaults and context packs. https://github.com/swarmclawai/swarmvault/blob/main/skills/swarmvault/SKILL.md
+- **cloudflare** (repository) - Cloudflare platform reference docs. https://github.com/dmmulroy/cloudflare-skill/blob/main/README.md
+- **swarmclaw-md** (repository) - Drive a self-hosted multi-agent runtime for delegating work across coding CLIs. https://github.com/swarmclawai/swarmclaw/blob/main/README.md
+- **birdview** - Map code architecture, scope changes, and review implementation constraints. https://github.com/Qiuner/birdview/blob/main/SKILL.md
+- **firecrawl-firecrawl-browser** (repository) - Browser-based web scraping and interaction. https://github.com/firecrawl/cli/blob/main/README.md
+- **awesome-integration** (repository) - A curated list of awesome system integration software and resources. https://github.com/stn1slv/awesome-integration/blob/main/README.md
+- **orca-replay** - Inspect, replay, and fork recorded agent runs using their evidence. https://github.com/Continuum-AI-Corp/OrcaReplay/blob/main/skills/orca-replay/SKILL.md
+- **azure-devops** - Manage Azure DevOps projects, repos, PRs, pipelines, and work items via REST API. https://github.com/sanjay3290/ai-skills/blob/main/skills/azure-devops/SKILL.md
+- **jules** - Delegate coding tasks to Google Jules AI agent for async bug fixes, documentation, tests, and feature implementation on GitHub repos. https://github.com/sanjay3290/ai-skills/blob/main/skills/jules/SKILL.md
+- **playwright-skill** - AI agent-ready Playwright skill with structured SKILL.md, test automation workflows, and MCP-compatible setup for real-world testing pipelines. https://github.com/testdino-hq/playwright-skill/blob/main/SKILL.md
+- **behat-skill** - Generate Behat BDD tests for PHP with Gherkin and Mink. https://github.com/LambdaTest/agent-skills/blob/main/behat-skill/SKILL.md
+- **behave-skill** - Generate Behave BDD tests for Python with Gherkin and step implementations. https://github.com/LambdaTest/agent-skills/blob/main/behave-skill/SKILL.md
+- **capybara-skill** - Generate Capybara E2E tests in Ruby with RSpec integration. https://github.com/LambdaTest/agent-skills/blob/main/capybara-skill/SKILL.md
+- **codeception-skill** - Generate Codeception acceptance, functional, and unit tests in PHP. https://github.com/LambdaTest/agent-skills/blob/main/codeception-skill/SKILL.md
+- **cucumber-skill** - Generate Cucumber BDD tests with Gherkin and step definitions in Java, JS, or Ruby. https://github.com/LambdaTest/agent-skills/blob/main/cucumber-skill/SKILL.md
+- **gauge-skill** - Generate Gauge specs in Markdown with steps in Java, Python, JS, or Ruby. https://github.com/LambdaTest/agent-skills/blob/main/gauge-skill/SKILL.md
+- **hyperexecute-skill** - Operate TestMu AI HyperExecute end-to-end: YAML, CLI runs, debugging, and CI wiring. https://github.com/LambdaTest/agent-skills/blob/main/hyperexecute-skill/SKILL.md
+- **jasmine-skill** - Generate Jasmine BDD tests in JavaScript with spies and async support. https://github.com/LambdaTest/agent-skills/blob/main/jasmine-skill/SKILL.md
+- **jest-skill** - Generate Jest unit and integration tests in JS/TS with mocking and snapshots. https://github.com/LambdaTest/agent-skills/blob/main/jest-skill/SKILL.md
+- **junit-5-skill** - Generate JUnit 5 unit and integration tests in Java with Mockito. https://github.com/LambdaTest/agent-skills/blob/main/junit-5-skill/SKILL.md
+- **kanecli-skill** - Generate and run browser tests from natural-language objectives via kane-cli. https://github.com/LambdaTest/agent-skills/blob/main/kanecli-skill/SKILL.md
+- **karma-skill** - Generate Karma test-runner configs for browser-based JS testing. https://github.com/LambdaTest/agent-skills/blob/main/karma-skill/SKILL.md
+- **laravel-dusk-skill** - Generate Laravel Dusk Chrome-based browser tests in PHP. https://github.com/LambdaTest/agent-skills/blob/main/laravel-dusk-skill/SKILL.md
+- **lettuce-skill** - Generate Lettuce BDD tests for Python (legacy; prefer Behave). https://github.com/LambdaTest/agent-skills/blob/main/lettuce-skill/SKILL.md
+- **mocha-skill** - Generate Mocha tests in JavaScript with Chai and Sinon. https://github.com/LambdaTest/agent-skills/blob/main/mocha-skill/SKILL.md
+- **mstest-skill** - Generate MSTest tests in C# for .NET. https://github.com/LambdaTest/agent-skills/blob/main/mstest-skill/SKILL.md
+- **nemojs-skill** - Generate Nemo.js Selenium-based tests for Node.js. https://github.com/LambdaTest/agent-skills/blob/main/nemojs-skill/SKILL.md
+- **nightwatchjs-skill** - Generate NightwatchJS E2E tests in JavaScript with Selenium WebDriver. https://github.com/LambdaTest/agent-skills/blob/main/nightwatchjs-skill/SKILL.md
+- **playwright-skill-2** - Generate Playwright E2E tests in TS, JS, Python, Java, or C#. https://github.com/LambdaTest/agent-skills/blob/main/playwright-skill/SKILL.md
+- **protractor-skill** - Generate Protractor E2E tests for Angular in JS/TS (deprecated; prefer Playwright/Cypress). https://github.com/LambdaTest/agent-skills/blob/main/protractor-skill/SKILL.md
+- **pytest-skill** - Generate pytest tests in Python with fixtures, parametrize, and mocking. https://github.com/LambdaTest/agent-skills/blob/main/pytest-skill/SKILL.md
+- **reqnroll-skill** - Generate Reqnroll BDD tests for web and mobile in C#. https://github.com/LambdaTest/agent-skills/blob/main/reqnroll-skill/SKILL.md
+- **robot-framework-skill** - Generate Robot Framework keyword-driven tests in Python. https://github.com/LambdaTest/agent-skills/blob/main/robot-framework-skill/SKILL.md
+- **rspec-skill** - Generate RSpec tests in Ruby with matchers, hooks, and mocking. https://github.com/LambdaTest/agent-skills/blob/main/rspec-skill/SKILL.md
+- **selenium-skill** - Generate Selenium WebDriver tests in Java, Python, JS, C#, Ruby, or PHP. https://github.com/LambdaTest/agent-skills/blob/main/selenium-skill/SKILL.md
+- **serenity-bdd-skill** - Generate Serenity BDD tests in Java with the Screenplay pattern and reporting. https://github.com/LambdaTest/agent-skills/blob/main/serenity-bdd-skill/SKILL.md
+- **specflow-skill** - Generate SpecFlow BDD tests for C#/.NET with Gherkin and step bindings. https://github.com/LambdaTest/agent-skills/blob/main/specflow-skill/SKILL.md
+- **test-framework-migration-skill** - Migrate tests between Selenium, Playwright, Puppeteer, and Cypress. https://github.com/LambdaTest/agent-skills/blob/main/test-framework-migration-skill/SKILL.md
+- **testunit-skill** - Generate Test::Unit xUnit-style tests in Ruby. https://github.com/LambdaTest/agent-skills/blob/main/testunit-skill/SKILL.md
+- **unittest-skill** - Generate Python unittest tests with TestCase and setUp/tearDown. https://github.com/LambdaTest/agent-skills/blob/main/unittest-skill/SKILL.md
+- **vitest-skill** - Generate Vitest tests in JS/TS with a Jest-compatible API and ESM. https://github.com/LambdaTest/agent-skills/blob/main/vitest-skill/SKILL.md
+- **xunit-skill** - Generate xUnit.net tests in C# with Fact/Theory and FluentAssertions. https://github.com/LambdaTest/agent-skills/blob/main/xunit-skill/SKILL.md
+- **aws-skills** (repository) - AWS development with CDK best practices, cost optimization MCP servers, and serverless/event-driven architecture patterns. https://github.com/zxkane/aws-skills/blob/main/README.md
+- **cc-devops-skills** (repository) - Immensely detailed set of skills for DevOps Engineers (or anyone who has to deploy code, really). Works with validations, generators, shell scripts and CLI tools to create high quality IaC code for about any platform you've ever struggled painfully to work with. Worth downloading even just as a sour https://github.com/akin-ozer/cc-devops-skills/blob/main/README.md
+- **debug-skill** (repository) - Give your AI agent a real debugger — breakpoints, stepping, variable inspection, and stack traces via CLI. https://github.com/AlmogBaku/debug-skill/blob/master/README.md
+- **api-design-interview-questions** (repository) - 🟣 API Design interview questions and answers to help you prepare for your next software architecture and design patterns interview in 2026. https://github.com/Devinterview-io/api-design-interview-questions/blob/main/README.md
+- **qdrant-skills** (repository) - Agent skills for Qdrant vector search operations, performance, deployment, upgrades, and SDK usage. https://github.com/qdrant/skills/blob/main/README.md
+- **d3-js-visualization** - Teaches Claude to produce D3 charts and interactive data visualizations. https://github.com/chrisvoncsefalvay/claude-d3js-skill/blob/main/SKILL.md
+- **oliver-zehentleitner-keep-the-why** - Preserves the reasoning behind a codebase — decisions, workarounds, rejected alternatives. https://github.com/oliver-zehentleitner/keep-the-why/blob/main/skills/keep-the-why/SKILL.md
+- **ffuf-web-fuzzing** (repository) - Integrates the ffuf web fuzzer so Claude can run fuzzing tasks and analyze results for vulnerabilities. https://github.com/jthack/ffuf_claude_skill/blob/main/README.md
+- **gotcha-rest-client** (repository) - The open-source, cross-platform API test and design tool. https://github.com/WhiteCosmos/Gotcha-Rest-Client/blob/main/README.md
+- **observe-whatsapp** - Debug WhatsApp delivery issues and run health checks. https://github.com/gokapso/agent-skills/blob/master/skills/observe-whatsapp/SKILL.md
+- **obsidian-plugin** (repository) - Obsidian.md plugin development. https://github.com/gapmiss/obsidian-plugin-skill/blob/main/README.md
+- **mblode-agent-skills** (repository) - Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. npx skills add mblode/agent-skills. https://github.com/mblode/agent-skills/blob/main/README.md
+- **skill-optimizer** (repository) - Diagnose and improve Agent Skills using session data and static analysis. https://github.com/hqhq1025/skill-optimizer/blob/main/README.md
+- **agent-lsp** (repository) - Semantic code intelligence skills for refactor, rename, impact analysis, and verification. https://github.com/blackwell-systems/agent-lsp/blob/main/README.md
+- **aws-architecture-diagram-skill** (repository) - Generate editable AWS architecture diagrams with verified icons and export formats. https://github.com/vidanov/aws-architecture-diagram-skill/blob/main/README.md
+- **venice-api-keys** - API key CRUD, rate limits, and Web3 keys. https://github.com/veniceai/skills/blob/main/skills/venice-api-keys/SKILL.md
+- **venice-augment** - Search, scraping, and text parsing endpoints. https://github.com/veniceai/skills/blob/main/skills/venice-augment/SKILL.md
+- **venice-auth** - API keys and wallet-based Venice authentication. https://github.com/veniceai/skills/blob/main/skills/venice-auth/SKILL.md
+- **venice-errors** - Error handling, retries, and API status codes. https://github.com/veniceai/skills/blob/main/skills/venice-errors/SKILL.md
+- **venice-responses** - OpenAI-compatible Responses API for Venice. https://github.com/veniceai/skills/blob/main/skills/venice-responses/SKILL.md
+- **supercov** - Measure line, branch and MC/DC coverage of the existing tests and write tests for the untested code. Coverage runs locally; the optional quality check sends source to TypeSafe when TYPESAFEAPIKEY is set. https://github.com/supercorp-ai/supercov/blob/main/plugins/supercov/skills/supercov/SKILL.md
+- **style-guide** (repository) - A shared and somewhat opinionated style guide for everyone to enjoy. https://github.com/apisyouwonthate/style-guide/blob/main/README.md
+- **agenttrace-session-audit** - Audit AI coding sessions for cost, failures, latency, diffs, and CI gates. https://github.com/luoyuctl/agenttrace/blob/master/skills/agenttrace-session-audit/SKILL.md
+- **claude-code-agents** (repository) - Comprehensive E2E development workflow with helpful Claude Code subagent prompts for solo devs. Run multiple auditors in parallel, automate fix cycles with micro-checkpoint protocols, and do browser-based QA. Includes strict protocols to prevent AI going rogue. https://github.com/undeadlist/claude-code-agents/blob/main/README.md
+- **android-ui-check** - Inspect and test Android interfaces on emulators or devices. https://github.com/ateymoori/oh-my-android/blob/main/skills/android-ui-check/SKILL.md
+- **claude-code-terminal-title** (repository) - Gives each Claud-Code terminal window a dynamic title that describes the work being done so you don't lose track of what window is doing what. https://github.com/bluzername/claude-code-terminal-title/blob/main/README.md
+- **odai** - General-purpose agent governance for goal and evidence alignment, responsibility routing, authorization and safety boundaries, and verified delivery. https://github.com/orziz/odai/blob/main/skills/odai/SKILL.md
+- **lama2** (repository) - Free, Lightweight & Collaborative API Client https://github.com/HexmosTech/Lama2/blob/main/README.md
+- **ax-extract-workflow** - Reconstruct how a feature shipped from local ax session history. https://github.com/Necmttn/ax/blob/main/skills/ax-extract-workflow/SKILL.md
+- **suede-creator-skills** (repository) - Skills for code review, design, marketing, AI evaluations, and releases. https://github.com/JasonColapietro/suede-creator-skills/blob/main/README.md
+- **kaizen-openapi-editor** (repository) - Eclipse Editor for the Swagger-OpenAPI Description Language https://github.com/RepreZen/KaiZen-OpenAPI-Editor/blob/master/README.md
+- **great-cto** - Claude Code plugin: 7 specialised subagents (tech-lead, senior-dev, qa-engineer, security-officer, devops, l3-support, project-auditor) orchestrating a full SDLC pipeline — architecture, TDD, 12-angle code review, QA, security audit, deploy. 11 project archetypes auto-detected, 13 compliance framewo https://github.com/avelikiy/great_cto/blob/main/skills/great_cto/SKILL.md
+- **skills-4** - Search and add open-source SVG icons to frontend projects. https://github.com/LeulAria/Aria-Icons/blob/main/skills/SKILL.md
+- **pypict-claude-skill** - Design comprehensive test cases using PICT (Pairwise Independent Combinatorial Testing) for requirements or code, generating optimized test suites with pairwise coverage. https://github.com/omkamal/pypict-claude-skill/blob/main/SKILL.md
+- **repo-context-ledger** - Preserve verified repository context for coding agents across sessions. https://github.com/gviiisen/repo-context-ledger/blob/main/skills/repo-context-ledger/SKILL.md
+- **design-auditor** - Audits designs against 17 professional rules: typography, WCAG, spacing, iconography, navigation, tokens + more. Scores out of 100. Supports English & Korean. https://github.com/Ashutos1997/claude-design-auditor-skill/blob/main/SKILL.md
+- **uizze-uizze** (repository) - Audit user interfaces against design guidance drawn from real screens. https://github.com/uizze/uizze/blob/main/README.md
+- **go-agent-skills** (repository) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture. https://github.com/eduardo-sl/go-agent-skills/blob/main/README.md
+- **email-html-mjml** (repository) - Generate responsive HTML email templates using MJML 4.x — cross-client compatible HTML with compilation, validation, width math, and component architecture. https://github.com/framix-team/skill-email-html-mjml/blob/master/README.md
+- **location-picker** - Add a map field that captures one latitude/longitude to web forms and apps. https://github.com/cyphercodes/location-picker/blob/master/skills/location-picker/SKILL.md
+- **blueprint** - Planning copilot for coding agents. Explores the codebase, asks clarifying questions, then generates a markdown plan any agent can execute in one shot. https://github.com/imbue-ai/blueprint/blob/main/skills/blueprint/SKILL.md
+- **standards-rest** (repository) - A collection of standards, specifications, etc. for HTTP API development. https://github.com/apisyouwonthate/standards.rest/blob/main/README.md
+- **using-lwc** - Give coding agents persistent project memory with source-grounded recall. https://github.com/JanYork/llm-wiki-cli/blob/main/skills/using-lwc/SKILL.md
+- **train-travel-api** (repository) - Sample OpenAPI description to use for whatever you like, as a hopefully more modern and useful alternative to the Petstore. https://github.com/bump-sh-examples/train-travel-api/blob/main/README.md
+- **plugin-authoring** - Ambient guidance for creating, modifying, and debugging Claude Code plugins with schemas, templates, validation workflows, and troubleshooting. https://github.com/ivan-magda/claude-code-plugin-template/blob/main/plugins/plugin-development/skills/plugin-authoring/SKILL.md
+- **openapi-designer** (repository) - Design interface for creating Open API (Swagger) specification files https://github.com/apinf/openapi-designer/blob/master/README.md
+- **io-api** (repository) - 📐 generic API design example by I/O, the demo implementation of the article "A generic input/output API in Java" https://github.com/oldratlee/io-api/blob/main/README.md
+- **chatcrystal-debug-recall** - Recall prior ChatCrystal debugging memories for failing tests, compiler errors, runtime exceptions, dependency issues, and regressions before proposing fixes. https://github.com/ZengLiangYi/ChatCrystal/blob/main/skills/chatcrystal-debug-recall/SKILL.md
+- **chatcrystal-task-recall** - Recall project-first and global-supplement ChatCrystal memories before substantive implementation, refactoring, migration, configuration, investigation, or optimization work. https://github.com/ZengLiangYi/ChatCrystal/blob/main/skills/chatcrystal-task-recall/SKILL.md
+- **swift-concurrency-migration** (repository) - Swift Concurrency Migration guide. https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill/blob/main/README.md
+- **harness-evolver** (repository) - Evolve agent prompts, routing, tools, and architecture with LangSmith-backed regression guards. https://github.com/raphaelchristi/harness-evolver/blob/main/README.md
+- **api-design-gh** (repository) - Welcome to the API Design Study Repository! This project is a hands-on exploration of API-design, covering REST API, GraphQL, and gRPC. https://github.com/JawherKl/api-design/blob/main/README.md
+- **interview-prep-fresh-grads** (repository) - A repository that combines all the resources for a CS Graduate before going in Technical Interview https://github.com/shahzaneer/Interview-Prep-Fresh-Grads/blob/main/README.md
+- **simple-nodejs-scaffold** (repository) - The simple but essential boilerplate you wanted for API development in NodeJS https://github.com/itsmunim/simple-nodejs-scaffold/blob/master/README.md
+- **netlify-functions** - Build serverless API endpoints and background tasks. https://github.com/netlify/context-and-tools/blob/main/skills/netlify-functions/SKILL.md
+- **pronounce-word** - Play sourced developer-jargon pronunciations with local TTS, IPA, and contested alternatives. https://github.com/anzy-renlab-ai/pronounce/blob/main/skills/pronounce-word/SKILL.md
+- **agent-cards-skill** - Manage prepaid virtual Visa cards for AI agents. Create cards, check balances, view credentials, close cards, and get support via MCP tools. https://github.com/agent-cards/skill/blob/main/SKILL.md
+- **agent-memory-systems** - Memory architecture for AI agents. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/agent-memory-systems/SKILL.md
+- **agnix** - Linter for AI agent configurations. Validates SKILL.md, CLAUDE.md, hooks, MCP configs, and more with 156 rules, auto-fix, and LSP server for real-time editor diagnostics. https://github.com/avifenesh/agnix/blob/main/skills/agnix/SKILL.md
 - **api-design** - Design a clean REST or HTTP API - resources, endpoints, request and response shapes, errors, pagination and versioning. Use for API design, endpoint specs, OpenAPI and backend contracts. `skills/coding/api-design/SKILL.md`
+- **apitube-news-api-skills** (repository) - Search worldwide news by keyword, entity, sentiment, source, date. https://github.com/apitube/news-api-skills/blob/main/README.md
+- **autonomous-agents** - AI systems with ReAct and reflection patterns. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/autonomous-agents/SKILL.md
+- **blueprint-2** (repository) - Specification-driven development skill that turns requirements into blueprints, build plans, and validated implementations. https://github.com/JuliusBrussee/blueprint/blob/main/README.md
+- **browser-automation** - Browser automation with Playwright and Puppeteer. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/browser-automation/SKILL.md
+- **browser-extension-builder** - Chrome/Firefox extensions with Manifest v3. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/browser-extension-builder/SKILL.md
 - **code-review** - Review code or a pull request for correctness bugs, security problems and maintainability, with prioritised findings. Use for code reviews, PR reviews and diff audits. `skills/coding/code-review/SKILL.md`
+- **code-review-gh** (repository) - Review code changes for defects, test quality, and merge readiness. https://github.com/kyy-logs/code-review-skill/blob/main/README.md
+- **crawlbase-langchain-crawlbase** (repository) - LangChain document loader, tool, and retriever backed by the Crawling API. https://github.com/crawlbase/langchain-crawlbase/blob/main/README.md
+- **crawlbase-n8n-nodes-crawlbase** (repository) - Native Crawlbase node for n8n with credentials and Crawling API options. https://github.com/crawlbase/n8n-nodes-crawlbase/blob/main/README.md
+- **crewai** - Role-based multi-agent framework. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/crewai/SKILL.md
 - **debugging** - Find the root cause of a bug, error, crash or failing test systematically, then fix it and prove the fix. Use for debugging, stack traces, flaky tests and unexpected behaviour. `skills/coding/debugging/SKILL.md`
+- **harrymunro-nelson** - Claude Code multi-agent coordination skill: six-step mission framework (sailing orders → stand down), risk-tiered quality gates, damage-control recovery, and auditable captain's logs across single-session, subagents, and agent-team modes. https://github.com/harrymunro/nelson/blob/main/skills/nelson/SKILL.md
+- **langfuse-2** - LLM observability and tracing. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/langfuse/SKILL.md
+- **langgraph-2** - Stateful, multi-actor AI applications. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/langgraph/SKILL.md
+- **lightning-architecture-review** - Review Bitcoin Lightning Network protocol designs, compare channel factory approaches, and analyze Layer 2 scaling tradeoffs. https://github.com/8144225309/superscalar-mcp/blob/master/skills/lightning-architecture-review/SKILL.md
+- **lightning-channel-factories** - Technical reference on Lightning Network channel factories, multi-party channels, LSP architectures, and Bitcoin Layer 2 scaling without soft forks. https://github.com/8144225309/superscalar-mcp/blob/master/skills/lightning-channel-factories/SKILL.md
+- **lightning-factory-explainer** - Explain Bitcoin Lightning channel factories and the SuperScalar protocol — scalable Lightning onboarding using shared UTXOs, Decker-Wattenhofer trees, timeout-signature trees, MuSig2, and Taproot. https://github.com/8144225309/superscalar-mcp/blob/master/skills/lightning-factory-explainer/SKILL.md
+- **openweb** - Agent-native way to access any website. Calls the same APIs the website calls (JSON in, JSON out) with auth (cookies, JWT, CSRF, signing) auto-resolved per request. 90+ sites built in. https://github.com/openweb-org/openweb/blob/main/skills/openweb/SKILL.md
+- **oping** (repository) - Test connectivity with OpenCode (shorthand: oc) using the oping CLI. Use when the user explicitly asks to check OpenCode/oc status or connectivity (e.g., “oc ping”, “oc is it alive?”, “is OpenCode connected?”), or when troubleshooting cases where OpenCode is not responding. https://github.com/bfly123/claude_code_bridge/blob/main/README.md
+- **prompt-engineer** - Prompt design for LLM applications. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/prompt-engineer/SKILL.md
+- **rag-engineer** - RAG systems with embeddings and vector databases. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/rag-engineer/SKILL.md
+- **resolve-conflicts** - Use this skill immediately when the user mentions merge conflicts that need to be resolved. Do not attempt to resolve conflicts directly - invoke this skill first. This skill specializes in providing a structured framework for merging imports, tests, lock files (regeneration), configuration files, a https://github.com/antinomyhq/forge/blob/main/.forge/skills/resolve-conflicts/SKILL.md
+- **shipvela-publish** - Publish static websites through Shipvela OAuth/MCP with owner approval, status and logs; MIT client skill, requires a hosted-service account (free tier available). https://github.com/stefanautomateed/shipvela-codex/blob/main/skills/shipvela-publish/SKILL.md
+- **skill-2** - Diagnoses why a scheduled or unattended agent run (Claude Code under cron, launchd, systemd) stopped or skipped silently: 30 read-only checks on the scheduler state and logs, plus a missed-run alarm. https://github.com/elfovo/agent-chain-doctor/blob/main/skill/SKILL.md
+- **slack-bot-builder** - Slack bots with Bolt framework. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/slack-bot-builder/SKILL.md
+- **solana-dev-skill** (repository) - Solana blockchain development skill. https://github.com/GuiBibeau/solana-dev-skill/blob/main/README.md
+- **spartan-ai-toolkit** (repository) - Engineering workflow commands with quality gates, TDD enforcement, and atomic commits for AI coding agents. https://github.com/spartan-stratos/spartan-ai-toolkit/blob/main/README.md
 - **sql-queries** - Write, explain and optimise SQL queries - joins, aggregation, window functions and performance. Use for SQL, database queries, reporting queries and slow query tuning. `skills/coding/sql-queries/SKILL.md`
+- **telegram-bot-builder** - Telegram bots and Mini Apps. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/telegram-bot-builder/SKILL.md
 - **test-writing** - Write useful automated tests - unit, integration and edge cases - that catch real bugs and stay maintainable. Use for writing tests, improving coverage and test-driven development. `skills/coding/test-writing/SKILL.md`
+- **vercel-known-pitfalls** - Execute identify and avoid Vercel anti-patterns and common integration mistakes. Use when reviewing Vercel code for issues, onboarding new developers, or auditing existing Vercel integrations for best practices violations. Trigger with phrases like "vercel mistakes", "vercel anti-patterns", "vercel  https://github.com/jeremylongshore/claude-code-plugins-plus-skills/blob/main/plugins/saas-packs/vercel-pack/skills/vercel-known-pitfalls/SKILL.md
+- **viral-generator-builder** - Building shareable viral generators. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/viral-generator-builder/SKILL.md
+- **voice-agents** - Voice-based AI assistants. https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/voice-agents/SKILL.md
+- **windsurf-known-pitfalls** - Identify and avoid Windsurf anti-patterns and common integration mistakes. Use when reviewing Windsurf code for issues, onboarding new developers, or auditing existing Windsurf integrations for best practices violations. Trigger with phrases like "windsurf mistakes", "windsurf anti-patterns", "winds https://github.com/jeremylongshore/claude-code-plugins-plus-skills/blob/main/plugins/saas-packs/windsurf-pack/skills/windsurf-known-pitfalls/SKILL.md
+- **upload-post** - Publish and schedule media across 10+ social platforms from a single agent workflow. https://github.com/Upload-Post/upload-post-skill/blob/main/SKILL.md
+- **overkill** (repository) - Surfaces advanced, maximalist alternatives to whatever solution is being discussed — advanced data structures, distributed-systems algorithms, niche frameworks, design patterns, and frontier tooling — each ranked on a calibrated complexity scale with learning links and the scenario in which the path https://github.com/santiago-vargas-de-kruijf/claude-overkill/blob/main/README.md
+- **vibe-replay** (repository) - Turn AI coding sessions into shareable interactive HTML replays with insights and PR links. https://github.com/tuo-lei/vibe-replay/blob/main/README.md
+- **audit** - Audit generated UI against design-system contracts and pinned rules; write fix plans. Full canon-based audits require the plugin setup. Website. https://github.com/0design/unslop-skill/blob/main/skills/audit/SKILL.md
+- **aindf-screen-author** - Compose and validate ScreenSpec JSON through a compatible AINDF design-system MCP. Website. https://github.com/0design/ai-native-design-framework/blob/main/plugin/skills/aindf-screen-author/SKILL.md
+- **full-page-screenshot** - Captures full-page screenshots of web pages via Chrome DevTools Protocol with zero dependencies. https://github.com/LewisLiu007/full-page-screenshot/blob/main/SKILL.md
+- **move-code-quality-skill** - Analyzes Move language packages against the official Move Book Code Quality Checklist for Move 2024 Edition compliance and best practices. https://github.com/1NickPappas/move-code-quality-skill/blob/main/SKILL.md
+- **c4-codebase-architecture** - Generate evidence-based C4 architecture docs from codebases. https://github.com/lmammino/c4-codebase-architecture-skill/blob/main/skills/c4-codebase-architecture/SKILL.md
+- **tinybird-typescript-sdk-guidelines** - Tinybird TypeScript SDK usage guidelines. https://github.com/tinybirdco/tinybird-agent-skills/blob/main/skills/tinybird-typescript-sdk-guidelines/SKILL.md
+- **ethos-link-rails-conventions** - Rails 8 conventions for consistent production code changes. https://github.com/ethos-link/rails-conventions/blob/master/SKILL.md
+- **unity-agent-skills** (repository) - Agent skills set for AI-assisted Unity debugging — structured logging, runtime commands, variable watching, and more. https://github.com/jahro-console/unity-agent-skills/blob/main/README.md
+- **serpapi-serpapi-cli** (repository) - SerpApi client for the command line, covering all 130+ engines. https://github.com/serpapi/serpapi-cli/blob/main/README.md
+- **skills-9** (repository) - Build React apps with Bestax on Bulma v1: forms, layouts, theming, icons, CSS size, and migration. https://github.com/allxsmith/bestax/blob/main/README.md
+- **emblem-ai-agent-wallet** - Multi-chain crypto wallet management across 7 blockchains (Solana, Ethereum, Base, BSC, Polygon, Hedera, Bitcoin), swaps and transfers. https://github.com/EmblemCompany/Agent-skills/blob/main/skills/emblem-ai-agent-wallet/SKILL.md
+- **building-blog** (repository) - Adds an SEO-first, i18n-ready blog to a Next.js + Sanity site via a 40-question intake, a one-page plan, and a 20-section spec. Includes a generator for AI hero images via Gemini 3 Pro Image (Nano Banana Pro). https://github.com/BuildShipGrowRepeat/nextjs-sanity-blog-skill/blob/main/README.md
+- **mailtrap-skills** (repository) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management. https://github.com/mailtrap/mailtrap-skills/blob/main/README.md
+- **hyperconsciousness** - Discover local skills, PKM notes, encrypted HC records, and opaque capability metadata through the hc CLI. Requires the separately installed developer-alpha engine; installing the skill grants no data or credential access. https://github.com/louis030195/hyperconsciousness/blob/main/skills/hyperconsciousness/SKILL.md
+- **since-cutoff** - Finds which APIs of your pinned Python dependencies changed after the model's training cutoff (static diff, no model calls), shows where your code uses them, and writes short AGENTS.md / CLAUDE.md notes; also a CLI and MCP server. https://github.com/MohammadHijjawi97/since-cutoff/blob/main/skills/since-cutoff/SKILL.md
+- **charles-proxy-extract** - Claude is able to extract and analyze HTTP traffic from Charles Proxy session files. https://github.com/wannabehero/charles-proxy-extract-skill/blob/main/SKILL.md
+- **otelcol-doctor** - A focused, vendor-neutral skill that writes, fixes, and validates OpenTelemetry Collector configs — encoding the Collector's real footguns (memorylimiter/batch ordering, core-vs-contrib components, pull-vs-push exporters, deprecated exporters, pipelines that validate but were never wired) as an auth https://github.com/s3onghyun/otelcol-doctor/blob/main/SKILL.md
+- **universal-checkout** - Official Zinc API (zinc.com) checkout across 50+ US retailers. https://github.com/zincio/skills/blob/master/skills/universal-checkout/SKILL.md
+- **sametcelikbicak-flaky-test-detector** - Detects, analyzes, and eliminates flaky tests across any test runner. https://github.com/sametcelikbicak/flaky-test-detector/blob/main/SKILL.md
+- **deed-page** - Publish an HTML file or static folder to a permanent public deed.page URL with one curl request; no account, and the first publish returns a token for updates and deletes. https://github.com/f-o-x11/deed-page-skill/blob/main/skills/deed-page/SKILL.md
+- **rhost** - Runs ordinary commands on SSH-reachable Linux hosts with local-like process semantics using the rhost CLI. https://github.com/starfield17/rhost/blob/main/skills/rhost/SKILL.md
+- **learning-retrospective** (repository) - Breaks agent retry loops and preserves verified lessons; optional retry-loop detector hooks for Claude Code and Codex. https://github.com/Yingqi-Han/learning-retrospective-skill/blob/main/README.md
+- **agent-self-audit** - Self-evolving agent health check. 13 check items, 3 self-evolution loops (error→hard rule, skills→market comparison, config→health prescription). Zero-config bootstrap. Cross-platform: Claude Code/Codex CLI/Cursor/Windsurf/Gemini CLI. https://github.com/Xxt-XN/agent-self-audit/blob/master/SKILL.md
+- **associate-cat** (repository) - An easy-to-use AI coding workflow centered on in-depth analysis and fast convergence on clear plans—even for large, complex codebases. https://github.com/fengzizz/associate-cat/blob/main/README.md
+- **keelson** (repository) - Tracker-agnostic, issue-driven agentic workflow pack (adopt-keelson + tune-gates); agents automate mechanical tasks and escalate when a change touches design, plan, or strategy. https://github.com/innovestrum/keelson/blob/main/README.md
+- **overhaul-ui** - Frontend design skill — 28 commands, WCAG 2.2/OKLCH/motion scripts, detects and defers to installed specialist design skills. https://github.com/ShadowFull12/overhaul-ui/blob/main/skills/overhaul-ui/SKILL.md
+- **pwa2play** - Packages a PWA into a signed Play Store Android bundle with Bubblewrap and checks target API level, signing key reuse, assetlinks fingerprints and version codes before upload. https://github.com/degordonstech/pwa2play/blob/master/skills/pwa2play/SKILL.md
+- **web-test-wallet-setup** - Set up MetaMask wallet extension for Web3 DApp testing - download extension, import wallet from private key. Run at test start if tests/config.yaml has web3.enabled=true. https://github.com/automata-network/agent-skills/blob/main/web-test-wallet-setup/SKILL.md
+- **web-test-wallet-sign** - Handle MetaMask signature and transaction popups during Web3 DApp testing - approve signatures, send transactions, call contracts. Detects popup type and handles gas errors. https://github.com/automata-network/agent-skills/blob/main/web-test-wallet-sign/SKILL.md
